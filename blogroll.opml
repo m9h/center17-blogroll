@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Center17 blogroll</title>
+<dateModified>Tue, 03 Nov 2026 19:45:26 GMT</dateModified>
+<ownerName>Center17</ownerName>
+<ownerId>https://center17.org/</ownerId>
+</head>
+<body>
+<outline text="Computational psychiatry">
+  <outline type="rss" text="arXiv q-bio.NC (Neurons and Cognition)" title="arXiv q-bio.NC (Neurons and Cognition)" xmlUrl="https://rss.arxiv.org/rss/q-bio.NC" htmlUrl="https://arxiv.org/list/q-bio.NC/recent"/>
+  <outline type="rss" text="The Transmitter" title="The Transmitter" xmlUrl="https://www.thetransmitter.org/feed/" htmlUrl="https://www.thetransmitter.org/"/>
+  <outline type="rss" text="Neuromatch" title="Neuromatch" xmlUrl="https://neuromatch.io/feed/" htmlUrl="https://neuromatch.io/"/>
+  <outline type="rss" text="Brain Inspired (podcast)" title="Brain Inspired (podcast)" xmlUrl="https://braininspired.co/feed/" htmlUrl="https://braininspired.co/"/>
+  <outline type="rss" text="Nature Mental Health" title="Nature Mental Health" xmlUrl="https://www.nature.com/natmentalhealth.rss" htmlUrl="https://www.nature.com/natmentalhealth/"/>
+  <outline type="rss" text="Translational Psychiatry" title="Translational Psychiatry" xmlUrl="https://www.nature.com/tp.rss" htmlUrl="https://www.nature.com/tp/"/>
+  <outline type="rss" text="Molecular Psychiatry" title="Molecular Psychiatry" xmlUrl="https://www.nature.com/mp.rss" htmlUrl="https://www.nature.com/mp/"/>
+  <outline type="rss" text="Biological Psychiatry (SOBP)" title="Biological Psychiatry (SOBP)" xmlUrl="https://www.biologicalpsychiatryjournal.com/current.rss" htmlUrl="https://www.biologicalpsychiatryjournal.com/"/>
+  <outline type="rss" text="Biological Psychiatry: CNNI" title="Biological Psychiatry: CNNI" xmlUrl="https://www.biologicalpsychiatrycnni.org/current.rss" htmlUrl="https://www.biologicalpsychiatrycnni.org/"/>
+  <outline type="rss" text="PLOS Computational Biology" title="PLOS Computational Biology" xmlUrl="https://journals.plos.org/ploscompbiol/feed/atom" htmlUrl="https://journals.plos.org/ploscompbiol/"/>
+  <outline type="rss" text="eLife: Neuroscience" title="eLife: Neuroscience" xmlUrl="https://elifesciences.org/rss/subject/neuroscience.xml" htmlUrl="https://elifesciences.org/subjects/neuroscience"/>
+</outline>
+<outline text="Neuroimaging">
+  <outline type="rss" text="OHBM blog" title="OHBM blog" xmlUrl="https://www.ohbmbrainmappingblog.com/blog/feed" htmlUrl="https://www.ohbmbrainmappingblog.com/"/>
+  <outline type="rss" text="NeuroStars (latest)" title="NeuroStars (latest)" xmlUrl="https://neurostars.org/latest.rss" htmlUrl="https://neurostars.org/"/>
+  <outline type="rss" text="Brainder (Anderson Winkler)" title="Brainder (Anderson Winkler)" xmlUrl="https://brainder.org/feed/" htmlUrl="https://brainder.org/"/>
+  <outline type="rss" text="practiCal fMRI" title="practiCal fMRI" xmlUrl="https://practicalfmri.blogspot.com/feeds/posts/default" htmlUrl="https://practicalfmri.blogspot.com/"/>
+  <outline type="rss" text="MNE-Python releases" title="MNE-Python releases" xmlUrl="https://github.com/mne-tools/mne-python/releases.atom" htmlUrl="https://mne.tools/"/>
+  <outline type="rss" text="nilearn releases" title="nilearn releases" xmlUrl="https://github.com/nilearn/nilearn/releases.atom" htmlUrl="https://nilearn.github.io/"/>
+  <outline type="rss" text="FreeSurfer releases" title="FreeSurfer releases" xmlUrl="https://github.com/freesurfer/freesurfer/releases.atom" htmlUrl="https://surfer.nmr.mgh.harvard.edu/"/>
+  <outline type="rss" text="OpenNeuro (GitHub releases)" title="OpenNeuro (GitHub releases)" xmlUrl="https://github.com/OpenNeuroOrg/openneuro/releases.atom" htmlUrl="https://openneuro.org/"/>
+  <outline type="rss" text="NeuroImage" title="NeuroImage" xmlUrl="https://rss.sciencedirect.com/publication/science/10538119" htmlUrl="https://www.sciencedirect.com/journal/neuroimage"/>
+  <outline type="rss" text="Brainhack" title="Brainhack" xmlUrl="https://brainhack.org/feed.xml" htmlUrl="https://brainhack.org/"/>
+  <outline type="rss" text="DANDI (GitHub releases)" title="DANDI (GitHub releases)" xmlUrl="https://github.com/dandi/dandi-cli/releases.atom" htmlUrl="https://dandiarchive.org/"/>
+</outline>
+<outline text="Neuromodulation">
+  <outline type="rss" text="Brain Stimulation (journal)" title="Brain Stimulation (journal)" xmlUrl="https://rss.sciencedirect.com/publication/science/1935861X" htmlUrl="https://www.brainstimjrnl.com/"/>
+  <outline type="rss" text="Neuromodulation (INS journal)" title="Neuromodulation (INS journal)" xmlUrl="https://rss.sciencedirect.com/publication/science/10947159" htmlUrl="https://www.neuromodulationjournal.org/"/>
+  <outline type="rss" text="Journal of Neural Engineering" title="Journal of Neural Engineering" xmlUrl="https://iopscience.iop.org/journal/rss/1741-2552" htmlUrl="https://iopscience.iop.org/journal/1741-2552"/>
+  <outline type="rss" text="SimNIBS releases" title="SimNIBS releases" xmlUrl="https://github.com/simnibs/simnibs/releases.atom" htmlUrl="https://simnibs.github.io/simnibs/"/>
+  <outline type="rss" text="TI-Toolbox releases" title="TI-Toolbox releases" xmlUrl="https://github.com/idossha/TI-Toolbox/releases.atom" htmlUrl="https://github.com/idossha/TI-Toolbox"/>
+  <outline type="rss" text="OpenBCI blog" title="OpenBCI blog" xmlUrl="https://openbci.com/community/feed/" htmlUrl="https://openbci.com/community/"/>
+  <outline type="rss" text="NeuroTechX (Medium)" title="NeuroTechX (Medium)" xmlUrl="https://medium.com/feed/neurotechx" htmlUrl="https://neurotechx.com/"/>
+  <outline type="rss" text="IEEE Brain" title="IEEE Brain" xmlUrl="https://brain.ieee.org/feed/" htmlUrl="https://brain.ieee.org/"/>
+</outline>
+<outline text="Open web and tools">
+  <outline type="rss" text="Center17" title="Center17" xmlUrl="https://center17.org/rss/" htmlUrl="https://center17.org/"/>
+  <outline type="rss" text="Scripting News (Dave Winer)" title="Scripting News (Dave Winer)" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
+  <outline type="rss" text="rss.chat worknotes" title="rss.chat worknotes" xmlUrl="https://news.rss.chat/worknotes/rss.xml" htmlUrl="https://rss.chat/"/>
+  <outline type="rss" text="Ghost changelog" title="Ghost changelog" xmlUrl="https://ghost.org/changelog/rss/" htmlUrl="https://ghost.org/changelog/"/>
+  <outline type="rss" text="JAX releases" title="JAX releases" xmlUrl="https://github.com/jax-ml/jax/releases.atom" htmlUrl="https://jax.readthedocs.io/"/>
+  <outline type="rss" text="Equinox releases" title="Equinox releases" xmlUrl="https://github.com/patrick-kidger/equinox/releases.atom" htmlUrl="https://docs.kidger.site/equinox/"/>
+  <outline type="rss" text="Diffrax releases" title="Diffrax releases" xmlUrl="https://github.com/patrick-kidger/diffrax/releases.atom" htmlUrl="https://docs.kidger.site/diffrax/"/>
+  <outline type="rss" text="NeuroFedora blog" title="NeuroFedora blog" xmlUrl="https://neuroblog.fedoraproject.org/feeds/all.atom.xml" htmlUrl="https://neuro.fedoraproject.org/"/>
+</outline>
+</body>
+</opml>

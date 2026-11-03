@@ -1,0 +1,428 @@
+{
+ "Computational psychiatry": [
+  {
+   "title": "arXiv q-bio.NC (Neurons and Cognition)",
+   "feed": "https://rss.arxiv.org/rss/q-bio.NC",
+   "site": "https://arxiv.org/list/q-bio.NC/recent",
+   "note": "daily preprints",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "q-bio.NC updates on arXiv.org",
+   "latest": "2026-11-03T00:00:00-05:00",
+   "status": 200
+  },
+  {
+   "title": "The Transmitter",
+   "feed": "https://www.thetransmitter.org/feed/",
+   "site": "https://www.thetransmitter.org/",
+   "note": "Simons Foundation neuroscience news",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "The Transmitter",
+   "latest": "2026-11-03T05:00:54+00:00",
+   "status": 200
+  },
+  {
+   "title": "Neuromatch",
+   "feed": "https://neuromatch.io/feed/",
+   "site": "https://neuromatch.io/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "neuromatch.io",
+   "latest": null,
+   "status": 200
+  },
+  {
+   "title": "Brain Inspired (podcast)",
+   "feed": "https://braininspired.co/feed/",
+   "site": "https://braininspired.co/",
+   "note": "Paul Middlebrooks",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "Brain Inspired",
+   "latest": null,
+   "status": 200
+  },
+  {
+   "title": "Nature Mental Health",
+   "feed": "https://www.nature.com/natmentalhealth.rss",
+   "site": "https://www.nature.com/natmentalhealth/",
+   "note": "",
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Nature Mental Health",
+   "latest": "2026-10-30T00:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "Translational Psychiatry",
+   "feed": "https://www.nature.com/tp.rss",
+   "site": "https://www.nature.com/tp/",
+   "note": "",
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Translational Psychiatry",
+   "latest": "2026-11-01T00:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "Molecular Psychiatry",
+   "feed": "https://www.nature.com/mp.rss",
+   "site": "https://www.nature.com/mp/",
+   "note": "",
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Molecular Psychiatry",
+   "latest": "2026-11-02T00:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "Biological Psychiatry (SOBP)",
+   "feed": "https://www.biologicalpsychiatryjournal.com/current.rss",
+   "site": "https://www.biologicalpsychiatryjournal.com/",
+   "note": "SOBP's journal",
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Biological Psychiatry",
+   "latest": "2026-12-01T00:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "Biological Psychiatry: CNNI",
+   "feed": "https://www.biologicalpsychiatrycnni.org/current.rss",
+   "site": "https://www.biologicalpsychiatrycnni.org/",
+   "note": "Cognitive Neuroscience and Neuroimaging",
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+   "latest": "2026-11-03T00:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "PLOS Computational Biology",
+   "feed": "https://journals.plos.org/ploscompbiol/feed/atom",
+   "site": "https://journals.plos.org/ploscompbiol/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "PLOS Computational Biology",
+   "latest": "2026-11-03T14:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "eLife: Neuroscience",
+   "feed": "https://elifesciences.org/rss/subject/neuroscience.xml",
+   "site": "https://elifesciences.org/subjects/neuroscience",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "eLife: latest articles by subject",
+   "latest": "2026-11-03T00:00:00+00:00",
+   "status": 200
+  }
+ ],
+ "Neuroimaging": [
+  {
+   "title": "OHBM blog",
+   "feed": "https://www.ohbmbrainmappingblog.com/blog/feed",
+   "site": "https://www.ohbmbrainmappingblog.com/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "ORGANIZATION FOR HUMAN BRAIN MAPPING - BLOG",
+   "latest": "2024-08-26T16:05:24+00:00",
+   "status": 200
+  },
+  {
+   "title": "NeuroStars (latest)",
+   "feed": "https://neurostars.org/latest.rss",
+   "site": "https://neurostars.org/",
+   "note": "Q&A forum",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "Neurostars - Latest topics",
+   "latest": "2026-11-01T16:18:51+00:00",
+   "status": 200
+  },
+  {
+   "title": "Brainder (Anderson Winkler)",
+   "feed": "https://brainder.org/feed/",
+   "site": "https://brainder.org/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "Brainder.",
+   "latest": "2026-09-08T05:56:43+00:00",
+   "status": 200
+  },
+  {
+   "title": "practiCal fMRI",
+   "feed": "https://practicalfmri.blogspot.com/feeds/posts/default",
+   "site": "https://practicalfmri.blogspot.com/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "practiCal fMRI: the nuts &amp; bolts",
+   "latest": "2026-06-05T02:29:43.963000-07:00",
+   "status": 200
+  },
+  {
+   "title": "MNE-Python releases",
+   "feed": "https://github.com/mne-tools/mne-python/releases.atom",
+   "site": "https://mne.tools/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from mne-python",
+   "latest": "2026-09-11T16:34:07+00:00",
+   "status": 200
+  },
+  {
+   "title": "nilearn releases",
+   "feed": "https://github.com/nilearn/nilearn/releases.atom",
+   "site": "https://nilearn.github.io/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from nilearn",
+   "latest": "2026-09-04T08:12:50+00:00",
+   "status": 200
+  },
+  {
+   "title": "FreeSurfer releases",
+   "feed": "https://github.com/freesurfer/freesurfer/releases.atom",
+   "site": "https://surfer.nmr.mgh.harvard.edu/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from freesurfer",
+   "latest": "2026-10-30T18:58:09+00:00",
+   "status": 200
+  },
+  {
+   "title": "OpenNeuro (GitHub releases)",
+   "feed": "https://github.com/OpenNeuroOrg/openneuro/releases.atom",
+   "site": "https://openneuro.org/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from openneuro",
+   "latest": "2026-10-29T19:07:07+00:00",
+   "status": 200
+  },
+  {
+   "title": "NeuroImage",
+   "feed": "https://rss.sciencedirect.com/publication/science/10538119",
+   "site": "https://www.sciencedirect.com/journal/neuroimage",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "ScienceDirect Publication: NeuroImage",
+   "latest": null,
+   "status": 200
+  },
+  {
+   "title": "Brainhack",
+   "feed": "https://brainhack.org/feed.xml",
+   "site": "https://brainhack.org/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Brainhack Org Events",
+   "latest": "2025-09-11T13:53:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "DANDI (GitHub releases)",
+   "feed": "https://github.com/dandi/dandi-cli/releases.atom",
+   "site": "https://dandiarchive.org/",
+   "note": "neurophysiology data archive",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from dandi-cli",
+   "latest": "2026-11-03T19:44:28+00:00",
+   "status": 200
+  }
+ ],
+ "Neuromodulation": [
+  {
+   "title": "Brain Stimulation (journal)",
+   "feed": "https://rss.sciencedirect.com/publication/science/1935861X",
+   "site": "https://www.brainstimjrnl.com/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "ScienceDirect Publication: Brain Stimulation",
+   "latest": null,
+   "status": 200
+  },
+  {
+   "title": "Neuromodulation (INS journal)",
+   "feed": "https://rss.sciencedirect.com/publication/science/10947159",
+   "site": "https://www.neuromodulationjournal.org/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "ScienceDirect Publication: Neuromodulation: Technology at the Neural Interface",
+   "latest": null,
+   "status": 200
+  },
+  {
+   "title": "Journal of Neural Engineering",
+   "feed": "https://iopscience.iop.org/journal/rss/1741-2552",
+   "site": "https://iopscience.iop.org/journal/1741-2552",
+   "note": "",
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Journal of Neural Engineering - latest papers",
+   "latest": "2026-11-03T00:00:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "SimNIBS releases",
+   "feed": "https://github.com/simnibs/simnibs/releases.atom",
+   "site": "https://simnibs.github.io/simnibs/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from simnibs",
+   "latest": "2026-03-03T16:52:20+00:00",
+   "status": 200
+  },
+  {
+   "title": "TI-Toolbox releases",
+   "feed": "https://github.com/idossha/TI-Toolbox/releases.atom",
+   "site": "https://github.com/idossha/TI-Toolbox",
+   "note": "temporal interference",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from TI-Toolbox",
+   "latest": "2026-10-23T07:06:10+00:00",
+   "status": 200
+  },
+  {
+   "title": "OpenBCI blog",
+   "feed": "https://openbci.com/community/feed/",
+   "site": "https://openbci.com/community/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "OpenBCI Community",
+   "latest": "2026-10-23T16:33:39+00:00",
+   "status": 200
+  },
+  {
+   "title": "NeuroTechX (Medium)",
+   "feed": "https://medium.com/feed/neurotechx",
+   "site": "https://neurotechx.com/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "NeuroTechX Content Lab - Medium",
+   "latest": "2026-10-23T14:59:14+00:00",
+   "status": 200
+  },
+  {
+   "title": "IEEE Brain",
+   "feed": "https://brain.ieee.org/feed/",
+   "site": "https://brain.ieee.org/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "IEEE Brain",
+   "latest": "2026-09-23T14:36:50+00:00",
+   "status": 200
+  }
+ ],
+ "Open web and tools": [
+  {
+   "title": "Center17",
+   "feed": "https://center17.org/rss/",
+   "site": "https://center17.org/",
+   "note": "this blog",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "Center17",
+   "latest": null,
+   "status": 200
+  },
+  {
+   "title": "Scripting News (Dave Winer)",
+   "feed": "http://scripting.com/rss.xml",
+   "site": "http://scripting.com/",
+   "note": "RSS, OPML, textcasting",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "Scripting News",
+   "latest": "2026-11-03T17:21:09+00:00",
+   "status": 200
+  },
+  {
+   "title": "rss.chat worknotes",
+   "feed": "https://news.rss.chat/worknotes/rss.xml",
+   "site": "https://rss.chat/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "rss.chat worknotes",
+   "latest": "2026-08-05T19:02:00+00:00",
+   "status": 200
+  },
+  {
+   "title": "Ghost changelog",
+   "feed": "https://ghost.org/changelog/rss/",
+   "site": "https://ghost.org/changelog/",
+   "note": "",
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "Changelog",
+   "latest": "2026-10-21T13:36:57+00:00",
+   "status": 200
+  },
+  {
+   "title": "JAX releases",
+   "feed": "https://github.com/jax-ml/jax/releases.atom",
+   "site": "https://jax.readthedocs.io/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from jax",
+   "latest": "2026-10-22T05:37:05+00:00",
+   "status": 200
+  },
+  {
+   "title": "Equinox releases",
+   "feed": "https://github.com/patrick-kidger/equinox/releases.atom",
+   "site": "https://docs.kidger.site/equinox/",
+   "note": "Kidger stack",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from equinox",
+   "latest": "2026-05-05T10:22:55+00:00",
+   "status": 200
+  },
+  {
+   "title": "Diffrax releases",
+   "feed": "https://github.com/patrick-kidger/diffrax/releases.atom",
+   "site": "https://docs.kidger.site/diffrax/",
+   "note": "Kidger stack",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "Release notes from diffrax",
+   "latest": "2026-02-18T09:56:38+00:00",
+   "status": 200
+  },
+  {
+   "title": "NeuroFedora blog",
+   "feed": "https://neuroblog.fedoraproject.org/feeds/all.atom.xml",
+   "site": "https://neuro.fedoraproject.org/",
+   "note": "",
+   "ok": true,
+   "kind": "atom",
+   "feed_title": "NeuroFedora: Blog",
+   "latest": "2025-09-22T10:59:02+01:00",
+   "status": 200
+  }
+ ]
+}
