@@ -163,8 +163,7 @@ def _ics_fold(line):
 
 def _ics_text(t):
     bs = chr(92)
-    return t.replace(bs, bs + bs).replace(";", bs + ";").replace(",", bs + ",").replace("
-", bs + "n")
+    return t.replace(bs, bs + bs).replace(";", bs + ";").replace(",", bs + ",").replace(chr(10), bs + "n")
 
 
 def write_events(stamp):
