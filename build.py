@@ -172,7 +172,7 @@ def write_events(stamp):
     evs = sorted(EVENTS, key=lambda e: e["start"])
     # ---- events.ics
     L = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Center17//center17-blogroll//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
-         "X-WR-CALNAME:Center17 events", "X-WR-CALDESC:Annual anchors for computational psychiatry\, neuroimaging\, neuromodulation and the open web.",
+         "X-WR-CALNAME:Center17 events", "X-WR-CALDESC:" + _ics_text("Annual anchors for computational psychiatry, neuroimaging, neuromodulation and the open web."),
          "REFRESH-INTERVAL;VALUE=DURATION:P1D", "X-PUBLISHED-TTL:P1D"]
     for e in evs:
         end_excl = (_d(e["end"]) + dt.timedelta(days=1)).strftime("%Y%m%d")
