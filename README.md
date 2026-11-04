@@ -3,7 +3,7 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-04: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-03: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
@@ -14,7 +14,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
 | [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-10-30 |  |
-| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-01 |  |
+| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-03 |  |
 | [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-02 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-01 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-03 | Cognitive Neuroscience and Neuroimaging |

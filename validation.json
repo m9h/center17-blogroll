@@ -196,9 +196,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-01T00:00:00+00:00",
+   "latest": "2026-11-03T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression",
+     "link": "https://www.nature.com/articles/s41398-026-04545-x",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
     {
      "title": "Non-suicidal self-injury in adolescents and young adults: an expert review",
      "link": "https://www.nature.com/articles/s41398-026-04531-3",
@@ -233,11 +238,6 @@
      "title": "Electroacupuncture alleviates chronic pain and comorbid depression through Gut-Metabolite-Brain axis remodeling to restore mPFC Glu/GABA balance",
      "link": "https://www.nature.com/articles/s41398-026-04544-y",
      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Exploring the relationship between oral microbiome and postoperative delirium in patients with oral squamous cell carcinoma",
-     "link": "https://www.nature.com/articles/s41398-026-04489-2",
-     "date": "2026-10-29T00:00:00+00:00"
     }
    ]
   },
