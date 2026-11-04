@@ -2,7 +2,11 @@
 <opml version="2.0">
 <head>
 <title>Center17 blogroll</title>
+<<<<<<< HEAD
 <dateModified>Wed, 04 Nov 2026 06:30:22 GMT</dateModified>
+=======
+<dateModified>Wed, 04 Nov 2026 06:51:08 GMT</dateModified>
+>>>>>>> e4b5e80 (River URLs: served at projects.center17.org/center17-blogroll/)
 <ownerName>Center17</ownerName>
 <ownerId>https://center17.org/</ownerId>
 </head>

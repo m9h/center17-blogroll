@@ -185,9 +185,9 @@ def write_river(by_folder, stamp, max_items=120, max_per_feed=6):
     def rfc(d):
         return d.astimezone(dt.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
     x = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="http://source.scripting.com/">', "<channel>",
-         "<title>Center17 river</title>", "<link>https://m9h.github.io/center17-blogroll/</link>",
+         "<title>Center17 river</title>", "<link>https://projects.center17.org/center17-blogroll/</link>",
          "<description>The newest items across the Center17 blogroll: computational psychiatry, neuroimaging, neuromodulation and the open web.</description>",
-         f"<lastBuildDate>{rfc(now)}</lastBuildDate>", '<atom:link href="https://m9h.github.io/center17-blogroll/river.xml" rel="self" type="application/rss+xml"/>']
+         f"<lastBuildDate>{rfc(now)}</lastBuildDate>", '<atom:link href="https://projects.center17.org/center17-blogroll/river.xml" rel="self" type="application/rss+xml"/>']
     for it in items:
         x.append("<item>" + f"<title>{html.escape(it['title'])}</title><link>{html.escape(it['link'])}</link><guid isPermaLink=\"true\">{html.escape(it['link'])}</guid>"
                  f"<pubDate>{rfc(it['date'])}</pubDate><source url=\"{html.escape(it['site'])}\">{html.escape(it['source'])}</source><category>{html.escape(it['folder'])}</category></item>")
