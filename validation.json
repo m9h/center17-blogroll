@@ -196,9 +196,29 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-03T00:00:00+00:00",
+   "latest": "2026-11-04T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Temporal imprecision of the self in drug-free psychosis: Abnormal infraslow phase dynamics and brain complexity",
+     "link": "https://www.nature.com/articles/s41398-026-04526-0",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+     "title": "Counteracting the overestimation of effect size in mass-univariate brain-wide association studies using cross-validation",
+     "link": "https://www.nature.com/articles/s41398-026-04529-x",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+     "title": "Treating diagnostic frameworks as information systems: normative implications and opportunities",
+     "link": "https://www.nature.com/articles/s41398-026-04369-9",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+     "title": "A precision health approach to medication management in neurodevelopmental conditions: a model development and validation study using four international cohorts",
+     "link": "https://www.nature.com/articles/s41398-026-04541-1",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
     {
      "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression",
      "link": "https://www.nature.com/articles/s41398-026-04545-x",
@@ -218,26 +238,6 @@
      "title": "<i>TCF7L2</i> functionally relevant genetic variation with clinical implications in bipolar disorder with impaired glucose metabolism",
      "link": "https://www.nature.com/articles/s41398-026-04521-5",
      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Serum B-cell activating factor and delayed memory in first-episode drug-na\u00efve schizophrenia: a case-control study",
-     "link": "https://www.nature.com/articles/s41398-026-04546-w",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Episodic memory-associated weighted atrophy network mapping in mild cognitive impairment and subjective cognitive decline: a multi-center study",
-     "link": "https://www.nature.com/articles/s41398-026-04539-9",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Large-scale EEG reveals shared and distinct neural oscillatory features across major psychiatric disorders",
-     "link": "https://www.nature.com/articles/s41398-026-04532-2",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Electroacupuncture alleviates chronic pain and comorbid depression through Gut-Metabolite-Brain axis remodeling to restore mPFC Glu/GABA balance",
-     "link": "https://www.nature.com/articles/s41398-026-04544-y",
-     "date": "2026-10-30T00:00:00+00:00"
     }
    ]
   },
@@ -249,9 +249,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-02T00:00:00+00:00",
+   "latest": "2026-11-04T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Mapping cerebellar morphology in 15q11.2 CNV carriers using normative modeling",
+     "link": "https://www.nature.com/articles/s41380-026-03711-3",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+     "title": "A preconceptional stress model identifies thalamostriatal substrates of intergenerational vulnerability",
+     "link": "https://www.nature.com/articles/s41380-026-03937-1",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
     {
      "title": "Dynamic epigenetic changes during antidepressant pharmacotherapy in major depressive disorder",
      "link": "https://www.nature.com/articles/s41380-026-03945-1",
@@ -280,16 +290,6 @@
     {
      "title": "Identification of fluid endocannabinoid and sphingolipid biomarkers in schizophrenia. A machine learning approach toward clinical value",
      "link": "https://www.nature.com/articles/s41380-026-03933-5",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Polygenic dissection of suicidal thoughts and behaviours in high-risk mood-disorder cohorts",
-     "link": "https://www.nature.com/articles/s41380-026-03952-2",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "A <i>Crh</i>-defined insular cortex\u2013brainstem\u2013thalamic circuit regulates anxiety-related behavioral states",
-     "link": "https://www.nature.com/articles/s41380-026-03950-4",
      "date": "2026-10-30T00:00:00+00:00"
     }
    ]
@@ -1184,9 +1184,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-04T07:35:00+00:00",
+   "latest": "2026-11-04T17:04:32+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Viewing clusters/corrected stats of positives and negatives in SPM or elsewhere?",
+     "link": "https://neurostars.org/t/viewing-clusters-corrected-stats-of-positives-and-negatives-in-spm-or-elsewhere/39081",
+     "date": "2026-11-04T17:04:32+00:00"
+    },
+    {
+     "title": "Neuro science file conversion gz ftile to volume.csv file",
+     "link": "https://neurostars.org/t/neuro-science-file-conversion-gz-ftile-to-volume-csv-file/39078",
+     "date": "2026-11-04T12:46:48+00:00"
+    },
     {
      "title": "Frequent slow waves appearing across many channels in resting-state EEG \u2014 equipment issue or subject arousal?",
      "link": "https://neurostars.org/t/frequent-slow-waves-appearing-across-many-channels-in-resting-state-eeg-equipment-issue-or-subject-arousal/39077",
@@ -1326,16 +1336,6 @@
      "title": "12-bit data for diffusion metric quality",
      "link": "https://neurostars.org/t/12-bit-data-for-diffusion-metric-quality/36463",
      "date": "2026-10-14T22:20:45+00:00"
-    },
-    {
-     "title": "Two pitfalls with GE two-echo fieldmaps in FSL (2\u03c0 offsets, fugue grid mismatch), plus phase-encoding direction on ds000201",
-     "link": "https://neurostars.org/t/two-pitfalls-with-ge-two-echo-fieldmaps-in-fsl-2-offsets-fugue-grid-mismatch-plus-phase-encoding-direction-on-ds000201/36462",
-     "date": "2026-10-14T19:34:57+00:00"
-    },
-    {
-     "title": "SPM26 is out now!",
-     "link": "https://neurostars.org/t/spm26-is-out-now/36461",
-     "date": "2026-10-14T12:07:21+00:00"
     }
    ]
   },
@@ -1964,9 +1964,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-03T00:00:00+00:00",
+   "latest": "2026-11-04T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Towards semantic brain-computer interfacing: the graded inventory of semantic triggers (GIST) paradigm",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb724",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+     "title": "NeuroTest: a benchtop testbed for evaluating sensing-capable electrophysiology and neurostimulation systems",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82d",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
     {
      "title": "GROND: automated characterization of periodic and rhythmic EEG patterns",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb331",
@@ -2005,16 +2015,6 @@
     {
      "title": "Multimodal regulation of neurite extension by extracellular matrix composition and electrical stimulation on aligned collagen fiber scaffolds",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32c",
-     "date": "2026-10-26T00:00:00+00:00"
-    },
-    {
-     "title": "AOR: adaptive orthogonal regression for depression feature selection with incomplete EEG channels",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32f",
-     "date": "2026-10-26T00:00:00+00:00"
-    },
-    {
-     "title": "MTDANet: lightweight multi-scale temporal hierarchy and distance-regularized linear attention network for motor imagery brain\u2013computer interfaces",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb330",
      "date": "2026-10-26T00:00:00+00:00"
     }
    ]
@@ -2506,9 +2506,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-03T17:21:09+00:00",
+   "latest": "2026-11-04T16:21:35+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/04.html#a162135",
+     "date": "2026-11-04T16:21:35+00:00"
+    },
+    {
+     "title": "It's time for citizens to really unite",
+     "link": "http://scripting.com/2026/11/04/154537.html?title=itsTimeForCitizensToReallyUnite",
+     "date": "2026-11-04T15:45:37+00:00"
+    },
     {
      "title": "Frontier's debugger is back",
      "link": "http://scripting.com/2026/11/03/172109.html?title=frontiersDebuggerIsBack",
@@ -2767,9 +2777,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Changelog",
-   "latest": "2026-10-21T13:36:57+00:00",
+   "latest": "2026-11-04T17:06:54+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Lifecycle triggers for automations",
+     "link": "https://ghost.org/changelog/lifecycle-triggers-for-automations/",
+     "date": "2026-11-04T17:06:54+00:00"
+    },
     {
      "title": "Stripe Checkout customization",
      "link": "https://ghost.org/changelog/stripe-checkout-customization/",
@@ -2839,11 +2854,6 @@
      "title": "Easy theme editing",
      "link": "https://ghost.org/changelog/theme-editor/",
      "date": "2026-05-14T20:38:10+00:00"
-    },
-    {
-     "title": "Saved member views",
-     "link": "https://ghost.org/changelog/saved-member-views/",
-     "date": "2026-05-07T18:03:06+00:00"
     }
    ]
   },
