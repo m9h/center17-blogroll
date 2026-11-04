@@ -8,8 +8,45 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-03T00:00:00-05:00",
-   "status": 200
+   "latest": "2026-11-04T00:00:00-05:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics",
+     "link": "https://arxiv.org/abs/2611.03841",
+     "date": "2026-11-04T00:00:00-05:00"
+    },
+    {
+     "title": "Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure",
+     "link": "https://arxiv.org/abs/2611.03897",
+     "date": "2026-11-04T00:00:00-05:00"
+    },
+    {
+     "title": "When Model Complexity Matters in Cross-Subject Naturalistic fMRI Prediction",
+     "link": "https://arxiv.org/abs/2611.04041",
+     "date": "2026-11-04T00:00:00-05:00"
+    },
+    {
+     "title": "Curriculum unlearning in humans and neural networks",
+     "link": "https://arxiv.org/abs/2611.04565",
+     "date": "2026-11-04T00:00:00-05:00"
+    },
+    {
+     "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
+     "link": "https://arxiv.org/abs/2611.05374",
+     "date": "2026-11-04T00:00:00-05:00"
+    },
+    {
+     "title": "Do agents need to sleep?",
+     "link": "https://arxiv.org/abs/2611.02216",
+     "date": "2026-11-04T00:00:00-05:00"
+    },
+    {
+     "title": "Maternal Anxiety During Pregnancy and Offspring Information Processing Across Development: A Theory-Guided Predictive-Processing Reappraisal of Two Longitudinal Cohorts",
+     "link": "https://arxiv.org/abs/2608.24983",
+     "date": "2026-11-04T00:00:00-05:00"
+    }
+   ]
   },
   {
    "title": "The Transmitter",
@@ -19,8 +56,60 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-03T05:00:54+00:00",
-   "status": 200
+   "latest": "2026-11-04T05:00:30+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "The three-banded panther worm is rewriting the story of brain evolution",
+     "link": "https://www.thetransmitter.org/neuros-ark/the-three-banded-panther-worm-is-rewriting-the-story-of-brain-evolution/",
+     "date": "2026-11-04T05:00:30+00:00"
+    },
+    {
+     "title": "Does cognition happen in brain areas or between them?",
+     "link": "https://www.thetransmitter.org/brain-inspired/does-cognition-happen-in-brain-areas-or-between-them/",
+     "date": "2026-11-04T05:00:13+00:00"
+    },
+    {
+     "title": "\u2018Brain Flows: How Network Dynamics Compose the Human Mind,\u2019 an excerpt",
+     "link": "https://www.thetransmitter.org/cognitive-neuroscience/brain-flows-how-network-dynamics-compose-the-human-mind-an-excerpt/",
+     "date": "2026-11-03T05:00:54+00:00"
+    },
+    {
+     "title": "Prenatal pruning of neurons with copy number variants; and more",
+     "link": "https://www.thetransmitter.org/spectrum/prenatal-pruning-of-neurons-with-copy-number-variants-and-more/",
+     "date": "2026-11-03T05:00:17+00:00"
+    },
+    {
+     "title": "New Stanford initiative aims to build digital twin of human brain",
+     "link": "https://www.thetransmitter.org/funding/new-stanford-initiative-aims-to-build-digital-twin-of-human-brain/",
+     "date": "2026-11-02T17:02:56+00:00"
+    },
+    {
+     "title": "The genome offers a recipe, not a blueprint, for the brain",
+     "link": "https://www.thetransmitter.org/neurodevelopment/the-genome-offers-a-recipe-not-a-blueprint-for-the-brain/",
+     "date": "2026-11-02T05:00:33+00:00"
+    },
+    {
+     "title": "Autism research involving monkeys contends with uphill battle",
+     "link": "https://www.thetransmitter.org/what-if-nonhuman-primate-research-goes-away/autism-research-involving-monkeys-contends-with-uphill-battle/",
+     "date": "2026-11-02T05:00:30+00:00"
+    },
+    {
+     "title": "When is self-organization a mechanism in brain development?",
+     "link": "https://www.thetransmitter.org/development/when-is-self-organization-a-mechanism-in-brain-development/",
+     "date": "2026-11-02T05:00:00+00:00"
+    },
+    {
+     "title": "Fly taste connectome traces paths from sensation to action",
+     "link": "https://www.thetransmitter.org/connectome/fly-taste-connectome-traces-paths-from-sensation-to-action/",
+     "date": "2026-10-30T15:51:37+00:00"
+    },
+    {
+     "title": "Remembering Gerry Fischbach, \u2018orchestra conductor\u2019 who brought scientists  together",
+     "link": "https://www.thetransmitter.org/neurobiology/remembering-gerry-fischbach-orchestra-conductor-who-brought-scientists-together/",
+     "date": "2026-10-29T17:15:23+00:00"
+    }
+   ]
   },
   {
    "title": "Neuromatch",
@@ -31,7 +120,8 @@
    "kind": "rss",
    "feed_title": "neuromatch.io",
    "latest": null,
-   "status": 200
+   "status": 200,
+   "items": []
   },
   {
    "title": "Brain Inspired (podcast)",
@@ -42,7 +132,8 @@
    "kind": "rss",
    "feed_title": "Brain Inspired",
    "latest": null,
-   "status": 200
+   "status": 200,
+   "items": []
   },
   {
    "title": "Nature Mental Health",
@@ -53,7 +144,49 @@
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
    "latest": "2026-10-30T00:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "The mental health system caught my sister each time she fell but never saw her coming",
+     "link": "https://www.nature.com/articles/s44220-026-00736-z",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
+     "link": "https://www.nature.com/articles/s44220-026-00753-y",
+     "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+     "title": "Birth weight, cognitive reserve and outcomes after first-episode psychosis",
+     "link": "https://www.nature.com/articles/s44220-026-00751-0",
+     "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+     "title": "Systematic review and meta-analysis of cognitive behavioral therapy for insomnia as a suicide prevention strategy",
+     "link": "https://www.nature.com/articles/s44220-026-00743-0",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Psychological risk, protection and support in the context of dementia",
+     "link": "https://www.nature.com/articles/s44220-026-00748-9",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Maternal mental health remains a missing priority",
+     "link": "https://www.nature.com/articles/s44220-026-00752-z",
+     "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+     "title": "Connectome-wide dysconnectivity signature tracks clinical status in major depressive disorder",
+     "link": "https://www.nature.com/articles/s44220-026-00747-w",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Understanding psychological resilience: a longitudinal environment-wide association study in Hong Kong",
+     "link": "https://www.nature.com/articles/s44220-026-00742-1",
+     "date": "2026-10-20T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "Translational Psychiatry",
@@ -63,8 +196,50 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-01T00:00:00+00:00",
-   "status": 200
+   "latest": "2026-11-03T00:00:00+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression",
+     "link": "https://www.nature.com/articles/s41398-026-04545-x",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Non-suicidal self-injury in adolescents and young adults: an expert review",
+     "link": "https://www.nature.com/articles/s41398-026-04531-3",
+     "date": "2026-11-01T00:00:00+00:00"
+    },
+    {
+     "title": "Integrative neuroimaging-transcriptomic analysis of neurodevelopment in adolescent-onset mental health problems",
+     "link": "https://www.nature.com/articles/s41398-026-04543-z",
+     "date": "2026-10-31T00:00:00+00:00"
+    },
+    {
+     "title": "<i>TCF7L2</i> functionally relevant genetic variation with clinical implications in bipolar disorder with impaired glucose metabolism",
+     "link": "https://www.nature.com/articles/s41398-026-04521-5",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Serum B-cell activating factor and delayed memory in first-episode drug-na\u00efve schizophrenia: a case-control study",
+     "link": "https://www.nature.com/articles/s41398-026-04546-w",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Episodic memory-associated weighted atrophy network mapping in mild cognitive impairment and subjective cognitive decline: a multi-center study",
+     "link": "https://www.nature.com/articles/s41398-026-04539-9",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Large-scale EEG reveals shared and distinct neural oscillatory features across major psychiatric disorders",
+     "link": "https://www.nature.com/articles/s41398-026-04532-2",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Electroacupuncture alleviates chronic pain and comorbid depression through Gut-Metabolite-Brain axis remodeling to restore mPFC Glu/GABA balance",
+     "link": "https://www.nature.com/articles/s41398-026-04544-y",
+     "date": "2026-10-30T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "Molecular Psychiatry",
@@ -75,7 +250,49 @@
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
    "latest": "2026-11-02T00:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Dynamic epigenetic changes during antidepressant pharmacotherapy in major depressive disorder",
+     "link": "https://www.nature.com/articles/s41380-026-03945-1",
+     "date": "2026-11-02T00:00:00+00:00"
+    },
+    {
+     "title": "Serum selenium, iron and rubidium are altered in treatment-resistant schizophrenia",
+     "link": "https://www.nature.com/articles/s41380-026-03855-2",
+     "date": "2026-11-02T00:00:00+00:00"
+    },
+    {
+     "title": "Longitudinal prediction of adolescent depression from environmental and polygenic risk scores",
+     "link": "https://www.nature.com/articles/s41380-026-03934-4",
+     "date": "2026-11-01T00:00:00+00:00"
+    },
+    {
+     "title": "Cannabinoid receptor type 1 availability in individuals with a history of childhood trauma: a positron emission tomography study",
+     "link": "https://www.nature.com/articles/s41380-026-03931-7",
+     "date": "2026-10-31T00:00:00+00:00"
+    },
+    {
+     "title": "State-dependent effects of rTMS on cognitive function in bipolar II disorder: A randomized, double-blind, sham-controlled trial",
+     "link": "https://www.nature.com/articles/s41380-026-03953-1",
+     "date": "2026-10-31T00:00:00+00:00"
+    },
+    {
+     "title": "Identification of fluid endocannabinoid and sphingolipid biomarkers in schizophrenia. A machine learning approach toward clinical value",
+     "link": "https://www.nature.com/articles/s41380-026-03933-5",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Polygenic dissection of suicidal thoughts and behaviours in high-risk mood-disorder cohorts",
+     "link": "https://www.nature.com/articles/s41380-026-03952-2",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "A <i>Crh</i>-defined insular cortex\u2013brainstem\u2013thalamic circuit regulates anxiety-related behavioral states",
+     "link": "https://www.nature.com/articles/s41380-026-03950-4",
+     "date": "2026-10-30T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "Biological Psychiatry (SOBP)",
@@ -86,7 +303,209 @@
    "kind": "rss1",
    "feed_title": "Biological Psychiatry",
    "latest": "2026-12-01T00:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "A Dynamic Model of Amygdala Circuits in Threat and Reward: Implications for Affective Disorders",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01660-4/fulltext?rss=yes",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Age-dependent structural brain aging in medication-free major depressive disorder: A multi-site analysis from COORDINATE-MDD consortium",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01658-6/fulltext?rss=yes",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Immune-Microbiome Crosstalk in the Developmental Origins of Neurodevelopmental Disorders",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01659-8/fulltext?rss=yes",
+     "date": "2026-11-02T00:00:00+00:00"
+    },
+    {
+     "title": "Harmonization of transdiagnostic psychiatric phenotypes across a large multi-site study reveals high burden of neuropsychiatric multimorbidity in 16p11.2 and 22q11.2 copy number variant carriers",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01657-4/fulltext?rss=yes",
+     "date": "2026-10-31T00:00:00+00:00"
+    },
+    {
+     "title": "Brain systems supporting the narrative self and psychopathology",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01655-0/fulltext?rss=yes",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Clarifying neurobehavioral associations between early-life stress and episodic memory development",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01652-5/fulltext?rss=yes",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Trends in Autism Spectrum Disorder Cumulative Incidence and Incidence Density: A Systematic Review",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01650-1/fulltext?rss=yes",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Sex Chromosome Aneuploidies and the Brain: from Neurodevelopmental Risk to Fundamental Biology",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01649-5/fulltext?rss=yes",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Basics of Ultrasound for Transcranial Therapeutics Purposes",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01648-3/fulltext?rss=yes",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Distinguishing Prognostic Association From Neural Mediation in Stress-Related Memory Development",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01651-3/fulltext?rss=yes",
+     "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+     "title": "Individualized brain mapping for neurosurgical planning",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01620-3/fulltext?rss=yes",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "A Sensorimotor-Interoceptive Model for Sensory Phenomena in Obsessive-Compulsive Disorder: Neural and Computational Mechanisms",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01618-5/fulltext?rss=yes",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "Positive\u2013affective and negative\u2013cognitive brain\u2013behavior axes in clinical high risk for psychosis",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01614-8/fulltext?rss=yes",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Thalamocortical dysconnectivity shapes cortical hierarchy disruption across illness durations in schizophrenia",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01613-6/fulltext?rss=yes",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Simultaneous measurement of Midbrain and Striatal Dopamine in Schizophrenia using an agonist radiotracer",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01612-4/fulltext?rss=yes",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Brain NaV1.5 fine-tunes neuronal excitability to facilitate female-directed social behavior in male mice",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01611-2/fulltext?rss=yes",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Expression of Concern",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01610-0/fulltext?rss=yes",
+     "date": "2026-10-16T00:00:00+00:00"
+    },
+    {
+     "title": "Neural Circuits of Social Behavior in Autism Spectrum Disorder: From Mechanism to Intervention",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01609-4/fulltext?rss=yes",
+     "date": "2026-10-13T00:00:00+00:00"
+    },
+    {
+     "title": "Genetic architecture and risk of suicide attempt across neurodevelopmental and psychiatric conditions",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01608-2/fulltext?rss=yes",
+     "date": "2026-10-13T00:00:00+00:00"
+    },
+    {
+     "title": "Erratum to: Triple Interactions Between the Environment, Brain, and Behavior in Children: An ABCD Study",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01574-X/fulltext?rss=yes",
+     "date": "2026-10-13T00:00:00+00:00"
+    },
+    {
+     "title": "Excitation-Inhibition Balance and Fronto-Limbic Connectivity Distinguish TMS Treatment Outcomes in Refractory Depression",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01591-X/fulltext?rss=yes",
+     "date": "2026-10-12T00:00:00+00:00"
+    },
+    {
+     "title": "Development of a messenger RNA therapy for schizophrenia",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01589-1/fulltext?rss=yes",
+     "date": "2026-10-11T00:00:00+00:00"
+    },
+    {
+     "title": "The genetic orchestra of autism and its intersections with epilepsy, intellectual disability, and ADHD",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01588-X/fulltext?rss=yes",
+     "date": "2026-10-09T00:00:00+00:00"
+    },
+    {
+     "title": "Sleep and Drug Use: Neuroimaging Evidence for a Multidimensional Brain Framework",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01583-0/fulltext?rss=yes",
+     "date": "2026-10-05T00:00:00+00:00"
+    },
+    {
+     "title": "Maternal immune activation influences social behavior development in a nonhuman primate model",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01582-9/fulltext?rss=yes",
+     "date": "2026-10-05T00:00:00+00:00"
+    },
+    {
+     "title": "TMS-Evoked Cortical Reactivity Signatures as a Multidimensional Biomarker of Depression: A TMS-EEG Meta-Analysis from Diagnosis to Prognosis",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01581-7/fulltext?rss=yes",
+     "date": "2026-10-03T00:00:00+00:00"
+    },
+    {
+     "title": "Inhibitory control and error processing in Obsessive-Compulsive Disorder: A mega-analysis of task-based fMRI data by the ENIGMA-OCD consortium",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01580-5/fulltext?rss=yes",
+     "date": "2026-10-03T00:00:00+00:00"
+    },
+    {
+     "title": "Connection-Level Multi-Omics Reveals Cerebellar-Cortical Dysconnectivity and Divergent Molecular Signatures Across Major Psychiatric Disorders",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01579-9/fulltext?rss=yes",
+     "date": "2026-10-03T00:00:00+00:00"
+    },
+    {
+     "title": "A ventral hippocampus-prefrontal circuit mediates the pro-extinction effects of adult hippocampal neurogenesis on contextual fear",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01576-3/fulltext?rss=yes",
+     "date": "2026-09-28T00:00:00+00:00"
+    },
+    {
+     "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01575-1/fulltext?rss=yes",
+     "date": "2026-09-28T00:00:00+00:00"
+    },
+    {
+     "title": "Women\u2019s Brain Health in the Era of Precision Neuroimaging",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01570-2/fulltext?rss=yes",
+     "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+     "title": "GABAergic interneurons in local circuits of primate prefrontal cortex",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01571-4/fulltext?rss=yes",
+     "date": "2026-09-24T00:00:00+00:00"
+    },
+    {
+     "title": "Sex-Specific Role of Systemic Inflammation in Moderating the Association Between Choroid Plexus Volume and Depressive Severity: Findings From the sBEAD Cohort",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01544-1/fulltext?rss=yes",
+     "date": "2026-09-23T00:00:00+00:00"
+    },
+    {
+     "title": "The Physiology of Mental Representations: From Single Neurons to Circuits",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01543-X/fulltext?rss=yes",
+     "date": "2026-09-23T00:00:00+00:00"
+    },
+    {
+     "title": "In Vivo Characterization of Fatty Acid Amide Hydrolase in Posttraumatic Stress Disorder: A [11C]CURB Positron Emission Tomography Study",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01542-8/fulltext?rss=yes",
+     "date": "2026-09-22T00:00:00+00:00"
+    },
+    {
+     "title": "A Cell Type\u2013Specific Switch in GluN2D NMDA Receptors Drives Cortical Circuit Hyperexcitability and Sensory-Driven Cortical Synchronization Deficits in a Fragile X Syndrome Model",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01541-6/fulltext?rss=yes",
+     "date": "2026-09-21T00:00:00+00:00"
+    },
+    {
+     "title": "Leveraging Scalable Non-Mammalian Systems for Large-Scale Studies of Autism Risk Gene Function",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01521-0/fulltext?rss=yes",
+     "date": "2026-09-15T00:00:00+00:00"
+    },
+    {
+     "title": "Comparisons of the structure and function of higher cortical circuits in marmosets and macaques: Models for mental health disorders",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01515-5/fulltext?rss=yes",
+     "date": "2026-09-09T00:00:00+00:00"
+    },
+    {
+     "title": "NMDA Receptor Hypofunction and Working Memory: Effects Beyond Memory Maintenance",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01518-0/fulltext?rss=yes",
+     "date": "2026-09-08T00:00:00+00:00"
+    },
+    {
+     "title": "Dexamphetamine-induced striatal hyperdopaminergia attenuates reward-related neural activation: A11C-PHNO PET-fMRI study",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01517-9/fulltext?rss=yes",
+     "date": "2026-09-07T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "Biological Psychiatry: CNNI",
@@ -97,7 +516,209 @@
    "kind": "rss1",
    "feed_title": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
    "latest": "2026-11-03T00:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Distinct drug and aversive cue-reactivity patterns are associated with opioid use disorder",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00319-8/fulltext?rss=yes",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Encoding and Consolidation of Extinction Memory: Implications for Augmenting Fear Extinction in PTSD",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00318-6/fulltext?rss=yes",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Altered Neural Oscillatory Coupling Reveals Cognitive Control Deficits with Hierarchical Characteristics and Emotional Specificity in Major Depressive Disorder",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00316-2/fulltext?rss=yes",
+     "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+     "title": "Did I do that? Efficacy estimation distinguishes rumination and anhedonia symptomatology",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00315-0/fulltext?rss=yes",
+     "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+     "title": "Infant Negative Affect During Mother\u2013Infant Interaction Is Associated with Neonatal Limbic\u2013Prefrontal Connectivity in the First Month of Life",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00312-5/fulltext?rss=yes",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Frustration Induction Alters Reward Prediction Error Encoding in Pediatric Irritability",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00310-1/fulltext?rss=yes",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Enhancing diagnostic and prognostic prediction of child psychopathology via multivariate predictive modeling: Where are we and where do we need to go?",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00311-3/fulltext?rss=yes",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Reduced Somatomotor Cortical Thickness in Women With PTSD After Childhood Sexual Abuse: A Structural Correlate Distinct From Adult Sexual Dysfunction.",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00309-5/fulltext?rss=yes",
+     "date": "2026-10-19T00:00:00+00:00"
+    },
+    {
+     "title": "Validating gene-brain-behavior associations in autism: A replication study",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00308-3/fulltext?rss=yes",
+     "date": "2026-10-19T00:00:00+00:00"
+    },
+    {
+     "title": "Impaired causal reasoning in methamphetamine use disorder under dynamic uncertainty",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00307-1/fulltext?rss=yes",
+     "date": "2026-10-17T00:00:00+00:00"
+    },
+    {
+     "title": "Caffeine Consumption and Adolescent Mental Health: The Role of Sleep and Brain Structure",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00282-X/fulltext?rss=yes",
+     "date": "2026-10-14T00:00:00+00:00"
+    },
+    {
+     "title": "Genomic structural equation modeling of impulsivity and risk-taking traits reveals three latent factors associated with brain structure and development",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00288-0/fulltext?rss=yes",
+     "date": "2026-10-12T00:00:00+00:00"
+    },
+    {
+     "title": "The Neurobiological Correlates of Empathy and Decision-making in Antisocial Populations \u2013 An Umbrella Review and Coordinate-based Meta-analysis",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00286-7/fulltext?rss=yes",
+     "date": "2026-10-12T00:00:00+00:00"
+    },
+    {
+     "title": "Reading Intention Where There Is None: Neurobehavioral Correlates of Intention Attribution of Morally Ambiguous Scenarios in Borderline Personality Disorder",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00287-9/fulltext?rss=yes",
+     "date": "2026-10-11T00:00:00+00:00"
+    },
+    {
+     "title": "High-definition transcranial direct current stimulation (HD-tDCS) modulates neural response for face-emotion recognition in major depression",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00285-5/fulltext?rss=yes",
+     "date": "2026-10-09T00:00:00+00:00"
+    },
+    {
+     "title": "EHR-based machine learning for psychiatric outcomes in youth and young adults: Challenges and opportunities",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00283-1/fulltext?rss=yes",
+     "date": "2026-10-01T00:00:00+00:00"
+    },
+    {
+     "title": "The Impact of Adversity and Maternal Depression on Neural Reward Responsivity in Young Children",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00280-6/fulltext?rss=yes",
+     "date": "2026-09-22T00:00:00+00:00"
+    },
+    {
+     "title": "Shared functional abnormalities within somatosensory cortex in obsessive-compulsive disorder and anxiety disorders: A comparative meta-analysis",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00260-0/fulltext?rss=yes",
+     "date": "2026-09-14T00:00:00+00:00"
+    },
+    {
+     "title": "Effects of Polygenic Liability for Autism on Neonatal Thalamocortical Connectivity and Behavioral Outcomes Across Sex",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00259-4/fulltext?rss=yes",
+     "date": "2026-09-09T00:00:00+00:00"
+    },
+    {
+     "title": "Distinct Connectivity Signatures of Hallucinatory Experiences and Neuromelanin Signal in Community-Dwelling Adolescents",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00258-2/fulltext?rss=yes",
+     "date": "2026-09-09T00:00:00+00:00"
+    },
+    {
+     "title": "Smoking Cue Reactivity in Relation to Uncertain-Threat and Reward-Anticipation Networks: A Coordinate-Based Functional Magnetic Resonance Imaging Meta-Analysis",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00255-7/fulltext?rss=yes",
+     "date": "2026-09-01T00:00:00+00:00"
+    },
+    {
+     "title": "Functional Brain Network Correlates of Pubertal Timing and Depressive Symptoms in Preadolescence",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00253-3/fulltext?rss=yes",
+     "date": "2026-08-27T00:00:00+00:00"
+    },
+    {
+     "title": "Integrated Investigation of Sex Differences in the Human Nociceptin/Orphanin FQ Receptor System: Postmortem Analyses and In Vivo [11C]NOP-1A Positron Emission Tomography Imaging",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00250-8/fulltext?rss=yes",
+     "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+     "title": "Social Prediction Error Signals During the Trust Game in Patients With Schizophrenia: A Functional Magnetic Resonance Imaging Study",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00249-1/fulltext?rss=yes",
+     "date": "2026-08-20T00:00:00+00:00"
+    },
+    {
+     "title": "Fluctuations in Real-Life Drinking in Alcohol Use Disorder: A 1-Year Longitudinal Study Using Gamified Tasks of Decision Making and Cognitive Control",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00248-X/fulltext?rss=yes",
+     "date": "2026-08-20T00:00:00+00:00"
+    },
+    {
+     "title": "Widespread Alterations in White Matter Microstructure in Autism: A Multilevel Meta-Analysis",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00234-X/fulltext?rss=yes",
+     "date": "2026-08-13T00:00:00+00:00"
+    },
+    {
+     "title": "Alterations of Default Mode Network Effective Connectivity in Youth With Social Anxiety Disorder",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00233-8/fulltext?rss=yes",
+     "date": "2026-08-12T00:00:00+00:00"
+    },
+    {
+     "title": "Advances and Challenges of the Delayed Brain Development Hypothesis for Attention-Deficit/Hyperactivity Disorder: Evidence From Behavior, the Brain, and Genes",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00232-6/fulltext?rss=yes",
+     "date": "2026-08-12T00:00:00+00:00"
+    },
+    {
+     "title": "Precision Sleep Signatures to Predict Mental Health Outcomes in Youth",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00231-4/fulltext?rss=yes",
+     "date": "2026-08-07T00:00:00+00:00"
+    },
+    {
+     "title": "Adolescent Trajectories of Psychotic-Like Experiences and Autistic Traits and Their Association With Cognition, Environmental Adversity, and White Matter Microstructure in the ABCD Study",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00230-2/fulltext?rss=yes",
+     "date": "2026-08-07T00:00:00+00:00"
+    },
+    {
+     "title": "Context-Dependent Activation of the Left Nucleus Accumbens in Reward Anticipation Predicts Clinical Outcome in Adolescents With Subthreshold Depression",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00229-6/fulltext?rss=yes",
+     "date": "2026-08-06T00:00:00+00:00"
+    },
+    {
+     "title": "Computational Phenotyping and Predictive Modeling of Outcomes Using Multimodal Objective Measures in Psychiatry",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00228-4/fulltext?rss=yes",
+     "date": "2026-08-05T00:00:00+00:00"
+    },
+    {
+     "title": "How Value and Control Shape Motivation: Dissociable Mesocorticolimbic Circuits and Ventromedial Prefrontal Cortex Dysfunction in Depression",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00227-2/fulltext?rss=yes",
+     "date": "2026-08-05T00:00:00+00:00"
+    },
+    {
+     "title": "Brain Age Is Associated With Cognitive Improvement Following Repetitive Transcranial Magnetic Stimulation in Late-Life Depression",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00213-2/fulltext?rss=yes",
+     "date": "2026-07-30T00:00:00+00:00"
+    },
+    {
+     "title": "Mechanistically Distinct Subtypes of Individuals With Cocaine Use Disorder Identified by Neural Cue Reactivity and Prediction of Clinical Outcomes",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00215-6/fulltext?rss=yes",
+     "date": "2026-07-29T00:00:00+00:00"
+    },
+    {
+     "title": "Amygdala Functional Hyperconnectivity: A Multiple Symptom Subdomain Marker of the Bipolar Risk to Disorder Spectrum",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00214-4/fulltext?rss=yes",
+     "date": "2026-07-29T00:00:00+00:00"
+    },
+    {
+     "title": "Multivariate Brain Representations of the Traumatic Memory in Posttraumatic Stress Disorder: Changes Across Exposure Sessions and Impact of Dopaminergic Manipulation",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00217-X/fulltext?rss=yes",
+     "date": "2026-07-28T00:00:00+00:00"
+    },
+    {
+     "title": "Atypical Development of Resting-State Periodic and Aperiodic Electroencephalography Activity in 22q11.2 Deletion Syndrome",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00216-8/fulltext?rss=yes",
+     "date": "2026-07-28T00:00:00+00:00"
+    },
+    {
+     "title": "Reply to: Medication Direction Is Essential for Interpreting Cerebellar Volume Differences in ENIGMA-OCD",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00212-0/fulltext?rss=yes",
+     "date": "2026-07-27T00:00:00+00:00"
+    },
+    {
+     "title": "Symptom Domain Predictors of Auditory Processing Anomalies in Posttraumatic Stress Disorder: An Event-Related Potential Study",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00210-7/fulltext?rss=yes",
+     "date": "2026-07-27T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "PLOS Computational Biology",
@@ -108,7 +729,159 @@
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
    "latest": "2026-11-03T14:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Folding without glutamine: Proteome-scale removal of a canonical amino acid",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014931",
+     "date": "2026-11-03T14:00:00+00:00"
+    },
+    {
+     "title": "The influence of ensemble size and composition on the performance of combined real-time COVID-19 forecasts",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014908",
+     "date": "2026-11-03T14:00:00+00:00"
+    },
+    {
+     "title": "Global sensitivity analysis for stochastic models of infectious diseases: Re-emergence of yellow fever virus in the Americas as a case study",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013952",
+     "date": "2026-11-03T14:00:00+00:00"
+    },
+    {
+     "title": "SpatioCAD: Context-aware graph diffusion model for pinpointing spatially variable genes in heterogeneous tissues",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014923",
+     "date": "2026-11-02T14:00:00+00:00"
+    },
+    {
+     "title": "The promiscuity and degeneracy of ten unique RNA base-pairing rules can determine the success of adaptive RNA evolution",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014914",
+     "date": "2026-11-02T14:00:00+00:00"
+    },
+    {
+     "title": "Direction-selective retinal ganglion cells encode motion direction uniformly, despite having discretely distributed cardinal preferences",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014872",
+     "date": "2026-11-02T14:00:00+00:00"
+    },
+    {
+     "title": "Traction force microscopy using temporal information",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014855",
+     "date": "2026-11-02T14:00:00+00:00"
+    },
+    {
+     "title": "ATP-independent entropy-driven dsRNA unwinding by DDX3X revealed by coarse-grained simulations and deep learning",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014928",
+     "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+     "title": "Coupled beta and high-frequency oscillations emerge from synchronized bursting in a minimal model of the parkinsonian subthalamic nucleus",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014921",
+     "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+     "title": "Ten simple rules for teaching practical AI to health data teams",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014915",
+     "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+     "title": "Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014906",
+     "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+     "title": "Degeneracy in neuronal bifurcation landscapes: Equivalent bifurcation sequences across distinct parameter sets",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014893",
+     "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+     "title": "Taxonova: Deep learning enables fast and confidence-aware microbiome species-level amplicon classification",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014912",
+     "date": "2026-10-29T14:00:00+00:00"
+    },
+    {
+     "title": "From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898",
+     "date": "2026-10-29T14:00:00+00:00"
+    },
+    {
+     "title": "Cd47 deficiency in mouse brain under excitotoxic stress",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014897",
+     "date": "2026-10-29T14:00:00+00:00"
+    },
+    {
+     "title": "Individualised electrophysiological neural field models for the assessment of thalamocortical function in disorders of consciousness: A multicentre study",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014905",
+     "date": "2026-10-28T14:00:00+00:00"
+    },
+    {
+     "title": "The evolutionary advantage of replacers in the Moran process",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014892",
+     "date": "2026-10-28T14:00:00+00:00"
+    },
+    {
+     "title": "Early vs late fusion of qMIDS with machine learning based classifiers for oral cancer diagnosis from gene expression data",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014888",
+     "date": "2026-10-28T14:00:00+00:00"
+    },
+    {
+     "title": "Modeling reaction\u2013diffusion processes in simplified to complex astroglial branchlet geometries using different simulation tools",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014878",
+     "date": "2026-10-28T14:00:00+00:00"
+    },
+    {
+     "title": "On real-time calibrated prediction for complex model-based decision support in pandemics: Part 1",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014868",
+     "date": "2026-10-28T14:00:00+00:00"
+    },
+    {
+     "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014911",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "Eight quick tips for using the reactome knowledgebase",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014891",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "Ten simple rules for designing your career pivot",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014890",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "Ten simple rules for preparing a job application for an academic position",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014889",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "Evolutionary and dynamic constraints converge on a conserved coupling sector in thermally adapted GH1 \u03b2-glucosidases",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014879",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "<i>In silico</i> prediction of metabolic trait robustness in microbial cells",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014864",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "KmerSignificance score: A discriminative and biologically informed framework for viral <i>k</i>-mer prioritization",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014332",
+     "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+     "title": "Thirteen quick tips for bacteriophage genome annotation",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014887",
+     "date": "2026-10-26T14:00:00+00:00"
+    },
+    {
+     "title": "Calsequestrin localization at RyR2 clusters enables calcium wave propagation in ventricular myocytes",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014449",
+     "date": "2026-10-26T14:00:00+00:00"
+    },
+    {
+     "title": "An integrative computational approach for obstacle avoidance during action selection",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013756",
+     "date": "2026-10-26T14:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "eLife: Neuroscience",
@@ -119,7 +892,149 @@
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
    "latest": "2026-11-03T00:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
+     "link": "https://elifesciences.org/articles/108089",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "A validated antibody toolbox for ALS research",
+     "link": "https://elifesciences.org/articles/111349",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test",
+     "link": "https://elifesciences.org/articles/107110",
+     "date": "2026-11-02T00:00:00+00:00"
+    },
+    {
+     "title": "Fitness level, but not sex, affects exercise-induced pain modulation",
+     "link": "https://elifesciences.org/articles/109061",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+     "link": "https://elifesciences.org/articles/102095",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+     "link": "https://elifesciences.org/articles/111371",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
+     "link": "https://elifesciences.org/articles/112062",
+     "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+     "title": "Revealing the benefit of eye motion for acuity under emulated cone loss",
+     "link": "https://elifesciences.org/articles/111289",
+     "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+     "title": "Loose coupling between Ca<sup>2+</sup> channels and release sensors as a synaptic correlate of higher-order brain function",
+     "link": "https://elifesciences.org/articles/110314",
+     "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+     "title": "Ultrasound neuromodulation hypotheses on the directionality of effects and community resource",
+     "link": "https://elifesciences.org/articles/100827",
+     "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+     "title": "<i>foxQ2</i> marks fast-acting interneurons including dopaminergic neurons of <i>mushroom bodies</i> and <i>central complex</i> in the beetle <i>Tribolium castaneum</i>",
+     "link": "https://elifesciences.org/articles/111703",
+     "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+     "title": "Open source laser-scanning photostimulation for neuroscience with Zapit",
+     "link": "https://elifesciences.org/articles/111872",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "The transcription factor BCL11A restores differentiation potential to aged oligodendrocyte progenitor cells",
+     "link": "https://elifesciences.org/articles/110038",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "Heterogeneous responses to embryonic critical period perturbations within the <i>Drosophila</i> larval locomotor circuit",
+     "link": "https://elifesciences.org/articles/108656",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
+     "link": "https://elifesciences.org/articles/108036",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Correction: Targeted degradation of aberrant tau in frontotemporal dementia patient-derived neuronal cell models",
+     "link": "https://elifesciences.org/articles/113533",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
+     "link": "https://elifesciences.org/articles/103530",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
+     "link": "https://elifesciences.org/articles/108442",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
+     "link": "https://elifesciences.org/articles/111490",
+     "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Motor unit mechanisms of speed control in mouse locomotion",
+     "link": "https://elifesciences.org/articles/105829",
+     "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+     "title": "Olfactory combinatorial coding supports risk\u2013reward decision-making in <i>Caenorhabditis elegans</i>",
+     "link": "https://elifesciences.org/articles/104828",
+     "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+     "title": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal",
+     "link": "https://elifesciences.org/articles/109678",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Complementary stable and dynamic prelimbic ensembles encode learned threat value underlying generalization and discrimination",
+     "link": "https://elifesciences.org/articles/111177",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "A mechanistic theory of planning in prefrontal cortex",
+     "link": "https://elifesciences.org/articles/109757",
+     "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex",
+     "link": "https://elifesciences.org/articles/106510",
+     "date": "2026-10-20T00:00:00+00:00"
+    },
+    {
+     "title": "An integrated human forebrain organoid reveals microglia-mediated CD8<sup>+</sup> T cell recruitment and neuroimmune dysfunction in Alzheimer\u2019s disease pathology",
+     "link": "https://elifesciences.org/articles/111730",
+     "date": "2026-10-20T00:00:00+00:00"
+    }
+   ]
   }
  ],
  "Neuroimaging": [
@@ -132,7 +1047,134 @@
    "kind": "rss",
    "feed_title": "ORGANIZATION FOR HUMAN BRAIN MAPPING - BLOG",
    "latest": "2024-08-26T16:05:24+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "The OHBM Website has moved!",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/the-ohbm-website-has-moved",
+     "date": "2024-08-26T16:05:24+00:00"
+    },
+    {
+     "title": "OHBM Kids Live Review: What we can learn from 2023 event organizers",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/ohbm-kids-live-review-what-we-can-learn-from-2023-event-organizers",
+     "date": "2024-02-07T14:57:12+00:00"
+    },
+    {
+     "title": "Interview with Eduarda Gervini Zampieri Centeno, 2023 winner of the Brain Structure and Function Award",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-eduarda-gervini-zampieri-centeno-2023-winner-of-the-brain-structure-and-function-award",
+     "date": "2024-02-06T13:56:51+00:00"
+    },
+    {
+     "title": "Interview with Dr. Xi-Nian Zuo, 2023 OHBM Class of Fellows",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-dr-xi-nian-zuo-2023-ohbm-class-of-fellows",
+     "date": "2024-02-01T14:17:26+00:00"
+    },
+    {
+     "title": "Interview with Dr. Aina Puce, 2023 OHBM Class of Fellows",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-dr-aina-puce-2023-ohbm-class-of-fellows",
+     "date": "2024-01-23T21:18:55+00:00"
+    },
+    {
+     "title": "Interview with the SPM Team, winner of the Open Science Award 2023",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-the-spm-team-winner-of-the-open-science-award-2023",
+     "date": "2024-01-22T15:55:14+00:00"
+    },
+    {
+     "title": "What language does your dog speak? How dog brains process language",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/what-language-does-your-dog-speak-how-dog-brains-process-language",
+     "date": "2024-01-16T20:30:26+00:00"
+    },
+    {
+     "title": "Interview with Dr. Laura V. Cuaya, winner of the NeuroImage Editor\u2019s Choice Award 2023",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-dr-laura-v-cuaya-winner-of-the-neuroimage-editors-choice-award-2023",
+     "date": "2024-01-16T20:18:50+00:00"
+    },
+    {
+     "title": "What can 12 minutes of fMRI tell you about your fetus\u2019s brain?",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/what-can-12-minutes-of-fmri-tell-you-about-your-fetuss-brain",
+     "date": "2024-01-12T20:19:33+00:00"
+    },
+    {
+     "title": "Interview with Dr. Lanxin Ji, winner of the Human Brain Mapping Editor\u2019s Choice Award 2023",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-dr-lanxin-ji-winner-of-the-human-brain-mapping-editors-choice-award-2023",
+     "date": "2024-01-02T15:35:28+00:00"
+    },
+    {
+     "title": "Making Connections: Molecular and connectomic contributions to disease and disorder in the human brain",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/making-connections-molecular-and-connectomic-contributions-to-disease-and-disorder-in-the-human-brain",
+     "date": "2023-12-19T19:07:22+00:00"
+    },
+    {
+     "title": "Interview with Justine Y Hansen, winner of the Karl-Zilles Award in 2023",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/interview-with-justine-y-hansen-winner-of-the-karl-zilles-award-in-2023",
+     "date": "2023-12-19T16:59:38+00:00"
+    },
+    {
+     "title": "Education in Neuroimaging Award - Prof. Janaina Mourao-Miranda",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/education-in-neuroimaging-award-prof-janaina-mourao-miranda",
+     "date": "2023-12-06T21:43:44+00:00"
+    },
+    {
+     "title": "Early Career Investigator Award: Dr. Catie Chang",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/early-career-investigator-award-dr-catie-chang",
+     "date": "2023-12-05T20:27:13+00:00"
+    },
+    {
+     "title": "OHBM AWARD WINNERS - 2023",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/ohbm-award-winners-2023",
+     "date": "2023-11-27T21:54:51+00:00"
+    },
+    {
+     "title": "OHBM Diversity and Inclusivity Committee 2023-2024 Election Results",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/ohbm-diversity-and-inclusivity-committee-2023-2024-election-results",
+     "date": "2023-11-21T23:16:19+00:00"
+    },
+    {
+     "title": "Sustainability and Environmental Action SIG at OHBM 2023",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/sustainability-and-environmental-action-sig-at-ohbm-2023",
+     "date": "2023-10-12T13:57:39+00:00"
+    },
+    {
+     "title": "OHBM Women Faculty Launch+: A Digest and Lessons from Our First In-person Meeting at OHBM 2023 in Montreal",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/ohbm-women-faculty-launch-a-digest-and-lessons-from-our-first-in-person-meeting-at-ohbm-2023-in-montreal",
+     "date": "2023-09-21T18:28:55+00:00"
+    },
+    {
+     "title": "Best Practices in Scientific Writing with Dr. Bradley Voytek: A Workshop Hosted by the Student and Postdoc Special Interest Group",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/best-practices-in-scientific-writing-with-dr-bradley-voytek-a-workshop-hosted-by-the-student-and-postdoc-special-interest-group",
+     "date": "2023-08-29T07:00:00+00:00"
+    },
+    {
+     "title": "OHBM 2023 Public Lectures In Montr\u00e9al on July 18",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/ohbm-2023-public-lectures-in-montreal-on-july-18",
+     "date": "2023-07-17T19:29:57+00:00"
+    },
+    {
+     "title": "Committee and Special Interest Group activities at the 2023 OHBM Annual Meeting",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/committee-and-special-interest-group-activities-at-the-2023-ohbm-annual-meeting",
+     "date": "2023-07-17T15:16:19+00:00"
+    },
+    {
+     "title": "A Conversation with Bharat Biswal (OHBM 2023 Keynote Interview Pt. 8)",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/a-conversation-with-bharat-biswal-ohbm-2023-keynote-interview-pt-8",
+     "date": "2023-07-17T07:00:00+00:00"
+    },
+    {
+     "title": "A Conversation with Xujun Duan (OHBM 2023 Keynote Interview #7)",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/a-conversation-with-xujun-duan-ohbm-2023-keynote-interview-7",
+     "date": "2023-07-12T21:14:27+00:00"
+    },
+    {
+     "title": "A Conversation with\u00a0Takafumi Minamimoto (OHBM 2023 Keynote Interview Series Pt. 6)",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/a-conversation-with-takafumi-minamimoto-ohbm-2023-keynote-interview-series-pt-6",
+     "date": "2023-07-10T22:39:12+00:00"
+    },
+    {
+     "title": "A Conversation with Aviv Mezer (OHBM 2023 Keynote Interview Series Pt. 5)",
+     "link": "https://www.ohbmbrainmappingblog.com/blog/a-conversation-with-aviv-mezer-ohbm-2023-keynote-interview-series-pt-5",
+     "date": "2023-07-05T20:26:17+00:00"
+    }
+   ]
   },
   {
    "title": "NeuroStars (latest)",
@@ -142,8 +1184,160 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-01T16:18:51+00:00",
-   "status": 200
+   "latest": "2026-11-03T20:17:16+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "Empty MARS-WMH masks: advice on visual QC",
+     "link": "https://neurostars.org/t/empty-mars-wmh-masks-advice-on-visual-qc/39076",
+     "date": "2026-11-03T20:17:16+00:00"
+    },
+    {
+     "title": "Infantconnect, age-adjustable visualizer for infant neurodata",
+     "link": "https://neurostars.org/t/infantconnect-age-adjustable-visualizer-for-infant-neurodata/37163",
+     "date": "2026-11-01T16:18:51+00:00"
+    },
+    {
+     "title": "BEP Community review period: November 2 - November 13, 2026",
+     "link": "https://neurostars.org/t/bep-community-review-period-november-2-november-13-2026/36504",
+     "date": "2026-10-31T20:36:50+00:00"
+    },
+    {
+     "title": "Research Survey: How Do You Validate AI Outputs Derived from Brain Signals?",
+     "link": "https://neurostars.org/t/research-survey-how-do-you-validate-ai-outputs-derived-from-brain-signals/36503",
+     "date": "2026-10-31T06:28:26+00:00"
+    },
+    {
+     "title": "Prospective GSoC 2027 Contributor: Scoping C++ Backend and Codegen Tasks",
+     "link": "https://neurostars.org/t/prospective-gsoc-2027-contributor-scoping-c-backend-and-codegen-tasks/36502",
+     "date": "2026-10-30T08:31:22+00:00"
+    },
+    {
+     "title": "QSIPrep on HBCD-like data - Eddy's S2V",
+     "link": "https://neurostars.org/t/qsiprep-on-hbcd-like-data-eddys-s2v/36501",
+     "date": "2026-10-29T14:33:07+00:00"
+    },
+    {
+     "title": "Event detection and duration in slow GCaMP traces with plateaus, superimposed transients and baseline wander: how do you handle it?",
+     "link": "https://neurostars.org/t/event-detection-and-duration-in-slow-gcamp-traces-with-plateaus-superimposed-transients-and-baseline-wander-how-do-you-handle-it/36499",
+     "date": "2026-10-28T22:50:26+00:00"
+    },
+    {
+     "title": "Bad registration of PET images to MRI template?",
+     "link": "https://neurostars.org/t/bad-registration-of-pet-images-to-mri-template/36498",
+     "date": "2026-10-28T18:44:31+00:00"
+    },
+    {
+     "title": "PCNtoolkit version 1.4.0 is out! \ud83c\udf89",
+     "link": "https://neurostars.org/t/pcntoolkit-version-1-4-0-is-out/36496",
+     "date": "2026-10-28T00:04:04+00:00"
+    },
+    {
+     "title": "BIDS Steering Group Election 2026",
+     "link": "https://neurostars.org/t/bids-steering-group-election-2026/36495",
+     "date": "2026-10-27T18:58:33+00:00"
+    },
+    {
+     "title": "EDR Viewer for Mac: view WinEDR EDR and pCLAMP ABF/ATF recordings",
+     "link": "https://neurostars.org/t/edr-viewer-for-mac-view-winedr-edr-and-pclamp-abf-atf-recordings/36494",
+     "date": "2026-10-27T14:06:34+00:00"
+    },
+    {
+     "title": "Dcm2niix Failing to Convert Philips Multi-Echo DICOM",
+     "link": "https://neurostars.org/t/dcm2niix-failing-to-convert-philips-multi-echo-dicom/36493",
+     "date": "2026-10-27T09:02:47+00:00"
+    },
+    {
+     "title": "Registration and protocol-mask alignment problems with FSL XTRACT",
+     "link": "https://neurostars.org/t/registration-and-protocol-mask-alignment-problems-with-fsl-xtract/36491",
+     "date": "2026-10-26T20:44:19+00:00"
+    },
+    {
+     "title": "How can I obtain C-PAC benchmark reference outputs for v1.7.2 and v1.8.7?",
+     "link": "https://neurostars.org/t/how-can-i-obtain-c-pac-benchmark-reference-outputs-for-v1-7-2-and-v1-8-7/36483",
+     "date": "2026-10-24T01:23:07+00:00"
+    },
+    {
+     "title": "HBN RBC Datalad instance too large to clone on HPC with inode limits",
+     "link": "https://neurostars.org/t/hbn-rbc-datalad-instance-too-large-to-clone-on-hpc-with-inode-limits/36482",
+     "date": "2026-10-23T22:09:05+00:00"
+    },
+    {
+     "title": "Questions about HBN functional QC data and McElroy item harmonization in RBC",
+     "link": "https://neurostars.org/t/questions-about-hbn-functional-qc-data-and-mcelroy-item-harmonization-in-rbc/36480",
+     "date": "2026-10-23T12:37:57+00:00"
+    },
+    {
+     "title": "Openneuro upload failure",
+     "link": "https://neurostars.org/t/openneuro-upload-failure/36479",
+     "date": "2026-10-22T13:24:38+00:00"
+    },
+    {
+     "title": "We\u2019re hiring a Data Manager and Data Concierge to help make cutting-edge cerebellar research data organized, accessible, and useful across the scientific community",
+     "link": "https://neurostars.org/t/we-re-hiring-a-data-manager-and-data-concierge-to-help-make-cutting-edge-cerebellar-research-data-organized-accessible-and-useful-across-the-scientific-community/36476",
+     "date": "2026-10-21T20:44:57+00:00"
+    },
+    {
+     "title": "QSIPrep \"AttributeError: Can only use .str accessor with string values!\"",
+     "link": "https://neurostars.org/t/qsiprep-attributeerror-can-only-use-str-accessor-with-string-values/36474",
+     "date": "2026-10-21T13:50:57+00:00"
+    },
+    {
+     "title": "NBDC Globus Collections",
+     "link": "https://neurostars.org/t/nbdc-globus-collections/36472",
+     "date": "2026-10-20T13:47:41+00:00"
+    },
+    {
+     "title": "Postdoctoral Fellow in Neuroimaging for Substance Use/Psychiatry",
+     "link": "https://neurostars.org/t/postdoctoral-fellow-in-neuroimaging-for-substance-use-psychiatry/36471",
+     "date": "2026-10-20T12:32:25+00:00"
+    },
+    {
+     "title": "QSIPrep Exception raised while executing Node mask_template",
+     "link": "https://neurostars.org/t/qsiprep-exception-raised-while-executing-node-mask-template/36470",
+     "date": "2026-10-20T12:19:45+00:00"
+    },
+    {
+     "title": "Research Internship @Sigma Nova, Paris, France : Foundation Models for fMRI",
+     "link": "https://neurostars.org/t/research-internship-sigma-nova-paris-france-foundation-models-for-fmri/36469",
+     "date": "2026-10-20T11:48:23+00:00"
+    },
+    {
+     "title": "NDOS 0.2.0 \u2014 tooling for animal-lab data that was never organised to any standard",
+     "link": "https://neurostars.org/t/ndos-0-2-0-tooling-for-animal-lab-data-that-was-never-organised-to-any-standard/36467",
+     "date": "2026-10-19T14:45:42+00:00"
+    },
+    {
+     "title": "Guidance for Getting Started with INCF",
+     "link": "https://neurostars.org/t/guidance-for-getting-started-with-incf/36466",
+     "date": "2026-10-17T10:58:44+00:00"
+    },
+    {
+     "title": "International Master in Neural Engineering [fully remote]",
+     "link": "https://neurostars.org/t/international-master-in-neural-engineering-fully-remote/36465",
+     "date": "2026-10-16T09:01:32+00:00"
+    },
+    {
+     "title": "12-bit data for diffusion metric quality",
+     "link": "https://neurostars.org/t/12-bit-data-for-diffusion-metric-quality/36463",
+     "date": "2026-10-14T22:20:45+00:00"
+    },
+    {
+     "title": "Two pitfalls with GE two-echo fieldmaps in FSL (2\u03c0 offsets, fugue grid mismatch), plus phase-encoding direction on ds000201",
+     "link": "https://neurostars.org/t/two-pitfalls-with-ge-two-echo-fieldmaps-in-fsl-2-offsets-fugue-grid-mismatch-plus-phase-encoding-direction-on-ds000201/36462",
+     "date": "2026-10-14T19:34:57+00:00"
+    },
+    {
+     "title": "SPM26 is out now!",
+     "link": "https://neurostars.org/t/spm26-is-out-now/36461",
+     "date": "2026-10-14T12:07:21+00:00"
+    },
+    {
+     "title": "Using noise volumes in Nordic/fMRIPrep",
+     "link": "https://neurostars.org/t/using-noise-volumes-in-nordic-fmriprep/36459",
+     "date": "2026-10-13T18:55:47+00:00"
+    }
+   ]
   },
   {
    "title": "Brainder (Anderson Winkler)",
@@ -154,7 +1348,59 @@
    "kind": "rss",
    "feed_title": "Brainder.",
    "latest": "2026-09-08T05:56:43+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "ComBat harmonization in cross-validation",
+     "link": "https://brainder.org/2026/09/08/combat-harmonization-in-cross-validation/",
+     "date": "2026-09-08T05:56:43+00:00"
+    },
+    {
+     "title": "Gaussian approximation of a rectangular pulse",
+     "link": "https://brainder.org/2026/03/09/gaussian-approximation-of-a-rectangular-pulse/",
+     "date": "2026-03-09T22:25:35+00:00"
+    },
+    {
+     "title": "Uniform directions for multi-shell diffusion MRI",
+     "link": "https://brainder.org/2025/05/05/15656/",
+     "date": "2025-05-05T06:30:00+00:00"
+    },
+    {
+     "title": "We need better phenotypes",
+     "link": "https://brainder.org/2022/05/04/we-need-better-phenotypes/",
+     "date": "2022-05-05T02:14:11+00:00"
+    },
+    {
+     "title": "How many principal components?",
+     "link": "https://brainder.org/2021/04/05/how-many-principal-components/",
+     "date": "2021-04-05T07:00:00+00:00"
+    },
+    {
+     "title": "Simplifying Freedman-Lane",
+     "link": "https://brainder.org/2020/05/19/simplifying-freedman-lane/",
+     "date": "2020-05-19T06:00:00+00:00"
+    },
+    {
+     "title": "The German tank problem and the novel coronavirus",
+     "link": "https://brainder.org/2020/05/05/the-german-tank-problem-and-the-novel-coronavirus/",
+     "date": "2020-05-05T07:00:00+00:00"
+    },
+    {
+     "title": "Redundancy in canonical correlation analysis",
+     "link": "https://brainder.org/2019/12/27/redundancy-in-canonical-correlation-analysis/",
+     "date": "2019-12-27T19:25:33+00:00"
+    },
+    {
+     "title": "A higher Octave for PALM",
+     "link": "https://brainder.org/2019/10/08/a-fresh-octave-for-palm/",
+     "date": "2019-10-08T07:00:00+00:00"
+    },
+    {
+     "title": "Installing NiDB",
+     "link": "https://brainder.org/2018/02/19/installing-nidb/",
+     "date": "2018-02-19T15:46:04+00:00"
+    }
+   ]
   },
   {
    "title": "practiCal fMRI",
@@ -164,8 +1410,135 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "practiCal fMRI: the nuts &amp; bolts",
-   "latest": "2026-06-05T02:29:43.963000-07:00",
-   "status": 200
+   "latest": "2026-06-04T02:33:04.460000-07:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "Might vasculo-neural coupling be the main mechanism behind tFUS neuromodulation? What does AI have to say?",
+     "link": "https://practicalfmri.blogspot.com/2026/06/in-january-i-speculated-on-role-of.html",
+     "date": "2026-06-04T02:33:04.460000-07:00"
+    },
+    {
+     "title": "Transcranial focused ultrasound (tFUS) for neuromodulation: What's the role of blood vessels?",
+     "link": "https://practicalfmri.blogspot.com/2026/01/transcranial-focused-ultrasound-tfus.html",
+     "date": "2026-01-05T09:05:00-08:00"
+    },
+    {
+     "title": "Single slice EPI to visualize brain pulsations",
+     "link": "https://practicalfmri.blogspot.com/2025/06/single-slice-epi-to-visualize-brain.html",
+     "date": "2025-06-26T10:44:00-07:00"
+    },
+    {
+     "title": "Could MSM be a useful tracer for determining CSF flux in the human brain?",
+     "link": "https://practicalfmri.blogspot.com/2024/11/could-msm-be-useful-tracer-for.html",
+     "date": "2024-11-26T11:42:00.002000-08:00"
+    },
+    {
+     "title": "Functional connectivity, ha ha ha.",
+     "link": "https://practicalfmri.blogspot.com/2024/06/functional-connectivity-ha-ha-ha.html",
+     "date": "2024-06-19T07:53:00-07:00"
+    },
+    {
+     "title": "Core curriculum - Cell biology: synapses and neurotransmitters",
+     "link": "https://practicalfmri.blogspot.com/2024/06/core-curriculum-cell-biology-synapses.html",
+     "date": "2024-06-11T08:52:00-07:00"
+    },
+    {
+     "title": "Core curriculum - Cell biology: the neuron's action potential",
+     "link": "https://practicalfmri.blogspot.com/2024/05/core-curriculum-cell-biology-neurons.html",
+     "date": "2024-05-23T18:56:00-07:00"
+    },
+    {
+     "title": "Core curriculum - Cell biology: cell membranes and the resting potential",
+     "link": "https://practicalfmri.blogspot.com/2024/05/core-curriculum-cell-biology-cell.html",
+     "date": "2024-05-19T07:06:00-07:00"
+    },
+    {
+     "title": "Can we separate real and apparent motion in QC of fMRI data?",
+     "link": "https://practicalfmri.blogspot.com/2024/04/can-we-separate-real-and-apparent.html",
+     "date": "2024-04-21T08:57:00-07:00"
+    },
+    {
+     "title": "Core curriculum - Cell biology: taxonomy",
+     "link": "https://practicalfmri.blogspot.com/2024/04/core-curriculum-cell-biology-taxonomy.html",
+     "date": "2024-04-15T18:21:00-07:00"
+    },
+    {
+     "title": "Coffee Break with practiCal fMRI",
+     "link": "https://practicalfmri.blogspot.com/2024/04/coffee-break-with-practical-fmri.html",
+     "date": "2024-04-11T03:05:00-07:00"
+    },
+    {
+     "title": "Core curriculum - Mathematics: Linear algebra VI",
+     "link": "https://practicalfmri.blogspot.com/2024/03/core-curriculum-mathematics-linear.html",
+     "date": "2024-03-09T19:43:00-08:00"
+    },
+    {
+     "title": "Core curriculum - Mathematics: Linear algebra V",
+     "link": "https://practicalfmri.blogspot.com/2024/02/core-curriculum-mathematics-linear_22.html",
+     "date": "2024-02-22T16:29:00-08:00"
+    },
+    {
+     "title": "Core curriculum - Mathematics: Linear algebra IV",
+     "link": "https://practicalfmri.blogspot.com/2024/02/core-curriculum-mathematics-linear_18.html",
+     "date": "2024-02-18T04:08:00-08:00"
+    },
+    {
+     "title": "Core curriculum - Mathematics: Linear algebra III",
+     "link": "https://practicalfmri.blogspot.com/2024/02/core-curriculum-mathematics-linear.html",
+     "date": "2024-02-17T19:32:00-08:00"
+    },
+    {
+     "title": "Core curriculum - Mathematics: Linear algebra II",
+     "link": "https://practicalfmri.blogspot.com/2024/02/core-curriculum-mathematics-ii-linear.html",
+     "date": "2024-02-09T14:52:00-08:00"
+    },
+    {
+     "title": "Core corriculum - Mathematics: Linear algebra I",
+     "link": "https://practicalfmri.blogspot.com/2024/02/core-corriculum-mathematics-i-linear.html",
+     "date": "2024-02-03T11:08:00-08:00"
+    },
+    {
+     "title": "Core curriculum: How to learn from videos",
+     "link": "https://practicalfmri.blogspot.com/2024/01/core-curriculum-how-to-learn-from-videos.html",
+     "date": "2024-01-25T10:43:00-08:00"
+    },
+    {
+     "title": "Core curriculum: An introduction",
+     "link": "https://practicalfmri.blogspot.com/2024/01/core-curriculum-introduction.html",
+     "date": "2024-01-24T16:35:00-08:00"
+    },
+    {
+     "title": "A core curriculum for fMRI?",
+     "link": "https://practicalfmri.blogspot.com/2021/12/a-core-curriculum-for-fmri.html",
+     "date": "2021-12-13T18:19:00.002000-08:00"
+    },
+    {
+     "title": "Restraining the 32-channel coil",
+     "link": "https://practicalfmri.blogspot.com/2021/02/restraining-32-channel-coil.html",
+     "date": "2021-02-16T17:00:00.008000-08:00"
+    },
+    {
+     "title": "Using multiband-EPI for diffusion imaging on low-dimensional array coils",
+     "link": "https://practicalfmri.blogspot.com/2019/02/using-multiband-epi-for-diffusion.html",
+     "date": "2019-02-25T17:22:00.002000-08:00"
+    },
+    {
+     "title": "Using multi-band (aka SMS) EPI on on low-dimensional array coils",
+     "link": "https://practicalfmri.blogspot.com/2019/02/using-multi-band-aka-sms-epi-on-on-low.html",
+     "date": "2019-02-16T11:39:00.001000-08:00"
+    },
+    {
+     "title": "Arterial carbon dioxide as an endogenous \"contrast agent\" for blood flow imaging",
+     "link": "https://practicalfmri.blogspot.com/2019/01/arterial-carbon-dioxide-as-endogenous.html",
+     "date": "2019-01-13T13:40:00-08:00"
+    },
+    {
+     "title": "FMRI data modulators 3: Low frequency oscillations - part II",
+     "link": "https://practicalfmri.blogspot.com/2018/06/fmri-data-modulators-3-low-frequency.html",
+     "date": "2018-06-14T17:25:00-07:00"
+    }
+   ]
   },
   {
    "title": "MNE-Python releases",
@@ -176,7 +1549,59 @@
    "kind": "atom",
    "feed_title": "Release notes from mne-python",
    "latest": "2026-09-11T16:34:07+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "v1.13.2",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.13.2",
+     "date": "2026-09-11T16:34:07+00:00"
+    },
+    {
+     "title": "v1.13.1",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.13.1",
+     "date": "2026-09-11T16:25:51+00:00"
+    },
+    {
+     "title": "v1.13.0",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.13.0",
+     "date": "2026-09-09T17:01:18+00:00"
+    },
+    {
+     "title": "v1.12.1",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.12.1",
+     "date": "2026-04-20T17:07:30+00:00"
+    },
+    {
+     "title": "v1.12.0",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.12.0",
+     "date": "2026-04-07T19:35:16+00:00"
+    },
+    {
+     "title": "v1.11.0",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.11.0",
+     "date": "2025-11-21T19:34:03+00:00"
+    },
+    {
+     "title": "v1.10.2",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.10.2",
+     "date": "2025-10-14T00:15:33+00:00"
+    },
+    {
+     "title": "v1.10.1",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.10.1",
+     "date": "2025-08-11T14:16:42+00:00"
+    },
+    {
+     "title": "v1.10.0",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.10.0",
+     "date": "2025-07-15T16:36:20+00:00"
+    },
+    {
+     "title": "v1.9.0",
+     "link": "https://github.com/mne-tools/mne-python/releases/tag/v1.9.0",
+     "date": "2024-12-18T21:22:26+00:00"
+    }
+   ]
   },
   {
    "title": "nilearn releases",
@@ -187,7 +1612,59 @@
    "kind": "atom",
    "feed_title": "Release notes from nilearn",
    "latest": "2026-09-04T08:12:50+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "0.14.1",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.14.1",
+     "date": "2026-09-04T08:12:50+00:00"
+    },
+    {
+     "title": "0.14.0",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.14.0",
+     "date": "2026-07-02T06:46:44+00:00"
+    },
+    {
+     "title": "0.14.0rc0",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.14.0rc0",
+     "date": "2026-04-16T07:12:53+00:00"
+    },
+    {
+     "title": "0.13.1",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.13.1",
+     "date": "2026-02-10T17:09:49+00:00"
+    },
+    {
+     "title": "0.13.0",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.13.0",
+     "date": "2026-01-06T06:24:04+00:00"
+    },
+    {
+     "title": "0.12.1",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+     "date": "2025-09-03T06:05:00+00:00"
+    },
+    {
+     "title": "0.12.0",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.12.0",
+     "date": "2025-06-21T07:20:53+00:00"
+    },
+    {
+     "title": "0.11.1",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.11.1",
+     "date": "2024-12-23T09:33:25+00:00"
+    },
+    {
+     "title": "0.11.0",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.11.0",
+     "date": "2024-12-03T10:53:41+00:00"
+    },
+    {
+     "title": "0.10.4",
+     "link": "https://github.com/nilearn/nilearn/releases/tag/0.10.4",
+     "date": "2024-04-09T13:06:52+00:00"
+    }
+   ]
   },
   {
    "title": "FreeSurfer releases",
@@ -197,8 +1674,60 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-10-30T18:58:09+00:00",
-   "status": 200
+   "latest": "2026-11-03T13:39:59+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-03T13:39:59+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-03T13:39:59+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_build_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
+     "date": "2026-10-30T18:58:09+00:00"
+    },
+    {
+     "title": "dev_nightly_build_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
+     "date": "2026-10-30T18:58:09+00:00"
+    }
+   ]
   },
   {
    "title": "OpenNeuro (GitHub releases)",
@@ -209,7 +1738,59 @@
    "kind": "atom",
    "feed_title": "Release notes from openneuro",
    "latest": "2026-10-29T19:07:07+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "5.11.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.11.0",
+     "date": "2026-10-29T19:07:07+00:00"
+    },
+    {
+     "title": "5.10.2",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.10.2",
+     "date": "2026-10-23T19:02:43+00:00"
+    },
+    {
+     "title": "5.10.1",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.10.1",
+     "date": "2026-10-21T17:07:36+00:00"
+    },
+    {
+     "title": "5.10.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.10.0",
+     "date": "2026-10-21T16:09:12+00:00"
+    },
+    {
+     "title": "5.9.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.9.0",
+     "date": "2026-10-13T19:04:05+00:00"
+    },
+    {
+     "title": "5.8.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.8.0",
+     "date": "2026-09-30T23:33:52+00:00"
+    },
+    {
+     "title": "5.7.1",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.7.1",
+     "date": "2026-09-22T20:53:27+00:00"
+    },
+    {
+     "title": "5.7.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.7.0",
+     "date": "2026-09-17T18:16:52+00:00"
+    },
+    {
+     "title": "5.6.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.6.0",
+     "date": "2026-08-27T20:48:31+00:00"
+    },
+    {
+     "title": "5.5.1",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.5.1",
+     "date": "2026-08-13T18:20:03+00:00"
+    }
+   ]
   },
   {
    "title": "NeuroImage",
@@ -220,7 +1801,8 @@
    "kind": "rss",
    "feed_title": "ScienceDirect Publication: NeuroImage",
    "latest": null,
-   "status": 200
+   "status": 200,
+   "items": []
   },
   {
    "title": "Brainhack",
@@ -231,7 +1813,59 @@
    "kind": "atom",
    "feed_title": "Brainhack Org Events",
    "latest": "2025-09-11T13:53:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Brainhack Global 2025",
+     "link": "/2025/09/11/global2025.html",
+     "date": "2025-09-11T13:53:00+00:00"
+    },
+    {
+     "title": "Brainhack Global 2024",
+     "link": "/2024/09/11/global2024.html",
+     "date": "2024-09-11T13:53:00+00:00"
+    },
+    {
+     "title": "South African Brainhack",
+     "link": "/2024/07/01/southafrica.html",
+     "date": "2024-07-01T10:00:00+00:00"
+    },
+    {
+     "title": "Brainhack Global 2023",
+     "link": "/2023/11/28/global2023.html",
+     "date": "2023-11-28T13:53:00+00:00"
+    },
+    {
+     "title": "Neuroscience Alliance (NEURAL) OHBM",
+     "link": "/2023/04/19/neural_ohbm.html",
+     "date": "2023-04-19T00:00:00+00:00"
+    },
+    {
+     "title": "SPARK Academy Africa-BraTS BrainHack 2023",
+     "link": "/2023/04/19/spark_AI_Africa.html",
+     "date": "2023-04-19T00:00:00+00:00"
+    },
+    {
+     "title": "Brainhack Global 2022",
+     "link": "/2022/11/28/global2022.html",
+     "date": "2022-11-28T13:53:00+00:00"
+    },
+    {
+     "title": "Brainhack Krakow 2022",
+     "link": "/2022/09/18/krakow.html",
+     "date": "2022-09-18T10:00:00+00:00"
+    },
+    {
+     "title": "Brainhack Global 2021",
+     "link": "/2021/11/28/global2021.html",
+     "date": "2021-11-28T13:53:00+00:00"
+    },
+    {
+     "title": "1st Computational Psychiatry Hack @ China 2021",
+     "link": "/2021/08/29/china_computationa_psychiatry_hack.html",
+     "date": "2021-08-29T09:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "DANDI (GitHub releases)",
@@ -242,7 +1876,59 @@
    "kind": "atom",
    "feed_title": "Release notes from dandi-cli",
    "latest": "2026-11-03T19:44:28+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "0.82.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.82.0",
+     "date": "2026-11-03T19:44:28+00:00"
+    },
+    {
+     "title": "0.81.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.81.0",
+     "date": "2026-09-30T20:52:42+00:00"
+    },
+    {
+     "title": "0.80.1",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.80.1",
+     "date": "2026-09-26T00:34:57+00:00"
+    },
+    {
+     "title": "0.80.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.80.0",
+     "date": "2026-09-17T13:44:57+00:00"
+    },
+    {
+     "title": "0.79.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.79.0",
+     "date": "2026-09-14T21:57:49+00:00"
+    },
+    {
+     "title": "0.78.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.78.0",
+     "date": "2026-08-28T19:39:11+00:00"
+    },
+    {
+     "title": "0.77.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.77.0",
+     "date": "2026-08-08T01:08:15+00:00"
+    },
+    {
+     "title": "0.76.8",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.76.8",
+     "date": "2026-07-28T01:20:32+00:00"
+    },
+    {
+     "title": "0.76.7",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.76.7",
+     "date": "2026-07-10T19:01:32+00:00"
+    },
+    {
+     "title": "0.76.6",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.76.6",
+     "date": "2026-07-07T13:52:27+00:00"
+    }
+   ]
   }
  ],
  "Neuromodulation": [
@@ -255,7 +1941,8 @@
    "kind": "rss",
    "feed_title": "ScienceDirect Publication: Brain Stimulation",
    "latest": null,
-   "status": 200
+   "status": 200,
+   "items": []
   },
   {
    "title": "Neuromodulation (INS journal)",
@@ -266,7 +1953,8 @@
    "kind": "rss",
    "feed_title": "ScienceDirect Publication: Neuromodulation: Technology at the Neural Interface",
    "latest": null,
-   "status": 200
+   "status": 200,
+   "items": []
   },
   {
    "title": "Journal of Neural Engineering",
@@ -277,7 +1965,59 @@
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
    "latest": "2026-11-03T00:00:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "GROND: automated characterization of periodic and rhythmic EEG patterns",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb331",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Peripheral physiological decoding of arousal in a boundary-avoidance task: signal validity and individualized control",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb4ec",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Diff-ADN: a diffusion-guided artifact denoising network with deterministic residual refinement for EEG",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeab36",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Delineating neural contributions to electroencephalogram-based speech decoding",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb68d",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "CORRIGENDUM: In silico development and validation of Bayesian methods for optimizing deep brain stimulation parameters (2023 J. Neural Eng. 20 036015)",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32d",
+     "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+     "title": "Combined voltammetry and optical brain imaging: toward high resolution neurochemical measurements",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32e",
+     "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+     "title": "Cybertissue neuroprosthetics: a new implantable neuroprosthetics paradigm to achieve seamless lifetime integration",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb442",
+     "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+     "title": "Multimodal regulation of neurite extension by extracellular matrix composition and electrical stimulation on aligned collagen fiber scaffolds",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32c",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "AOR: adaptive orthogonal regression for depression feature selection with incomplete EEG channels",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32f",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+     "title": "MTDANet: lightweight multi-scale temporal hierarchy and distance-regularized linear attention network for motor imagery brain\u2013computer interfaces",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb330",
+     "date": "2026-10-26T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "SimNIBS releases",
@@ -288,7 +2028,59 @@
    "kind": "atom",
    "feed_title": "Release notes from simnibs",
    "latest": "2026-03-03T16:52:20+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "4.6.0",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.6.0",
+     "date": "2026-03-03T16:52:20+00:00"
+    },
+    {
+     "title": "4.5.0",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.5.0",
+     "date": "2025-03-26T11:52:19+00:00"
+    },
+    {
+     "title": "v4.1.0",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.1.0",
+     "date": "2024-04-17T13:32:36+00:00"
+    },
+    {
+     "title": "v4.1.0a",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.1.0a",
+     "date": "2023-11-02T12:51:03+00:00"
+    },
+    {
+     "title": "v4.0.1",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.0.1",
+     "date": "2023-06-06T18:37:35+00:00"
+    },
+    {
+     "title": "dev",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/dev",
+     "date": "2023-05-17T13:48:26+00:00"
+    },
+    {
+     "title": "SimNIBS 4",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.0.0",
+     "date": "2022-11-28T12:54:45+00:00"
+    },
+    {
+     "title": "v4.0-beta1",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v4.0-beta1",
+     "date": "2022-08-08T12:52:30+00:00"
+    },
+    {
+     "title": "v3.2.6",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v3.2.6",
+     "date": "2022-03-18T16:53:10+00:00"
+    },
+    {
+     "title": "v3.2.5",
+     "link": "https://github.com/simnibs/simnibs/releases/tag/v3.2.5",
+     "date": "2021-11-29T15:46:30+00:00"
+    }
+   ]
   },
   {
    "title": "TI-Toolbox releases",
@@ -298,8 +2090,60 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from TI-Toolbox",
-   "latest": "2026-10-23T07:06:10+00:00",
-   "status": 200
+   "latest": "2026-11-03T23:30:15+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "v3.1.3",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.1.3",
+     "date": "2026-11-03T23:30:15+00:00"
+    },
+    {
+     "title": "v3.1.2",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.1.2",
+     "date": "2026-10-23T07:06:10+00:00"
+    },
+    {
+     "title": "v3.1.1",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.1.1",
+     "date": "2026-10-21T01:55:50+00:00"
+    },
+    {
+     "title": "v3.1.0",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.1.0",
+     "date": "2026-10-09T18:06:00+00:00"
+    },
+    {
+     "title": "v3.0.2",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.0.2",
+     "date": "2026-09-28T21:30:39+00:00"
+    },
+    {
+     "title": "v3.0.1",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.0.1",
+     "date": "2026-09-23T21:46:03+00:00"
+    },
+    {
+     "title": "v3.0.0",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v3.0.0",
+     "date": "2026-09-23T00:53:57+00:00"
+    },
+    {
+     "title": "2.5.0",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v2.5.0",
+     "date": "2026-08-31T21:23:58+00:00"
+    },
+    {
+     "title": "Version 2.4.0",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v2.4.0",
+     "date": "2026-07-27T15:06:22+00:00"
+    },
+    {
+     "title": "Version 2.3.2",
+     "link": "https://github.com/idossha/TI-Toolbox/releases/tag/v2.3.2",
+     "date": "2026-06-11T06:35:48+00:00"
+    }
+   ]
   },
   {
    "title": "OpenBCI blog",
@@ -310,7 +2154,209 @@
    "kind": "rss",
    "feed_title": "OpenBCI Community",
    "latest": "2026-10-23T16:33:39+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "MEDITACS: Exploring Loving-Kindness and Compassion Meditation with EEG and tACS",
+     "link": "https://openbci.com/community/meditacs-exploring-loving-kindness-and-compassion-meditation-with-eeg-and-tacs/",
+     "date": "2026-10-23T16:33:39+00:00"
+    },
+    {
+     "title": "Building a Real-Time EEG Reading Support System for Students with Dyslexia",
+     "link": "https://openbci.com/community/building-a-real-time-eeg-reading-support-system-for-students-with-dyslexia/",
+     "date": "2026-04-27T20:45:03+00:00"
+    },
+    {
+     "title": "EEG Controlled Robotic Arm in Real-time",
+     "link": "https://openbci.com/community/eeg-controlled-robotic-arm-in-real-time/",
+     "date": "2026-04-16T18:35:08+00:00"
+    },
+    {
+     "title": "Controlling an Exoskeleton Arm in Two Directions (Focus state control)",
+     "link": "https://openbci.com/community/controlling-an-exoskeleton-arm-in-two-directions-focus-state-control/",
+     "date": "2026-03-30T20:29:30+00:00"
+    },
+    {
+     "title": "Experiments in Motor Imagery",
+     "link": "https://openbci.com/community/experiments-in-motor-imagery/",
+     "date": "2026-01-07T19:41:30+00:00"
+    },
+    {
+     "title": "Maximizing Post-Stroke Motor Recovery with Co-Adaptive Neurofeedback",
+     "link": "https://openbci.com/community/maximizing-post-stroke-motor-recovery-with-co-adaptive-neurofeedback/",
+     "date": "2025-10-22T17:49:06+00:00"
+    },
+    {
+     "title": "OpenBCI and Pupil Labs Announce Launch of\u00a0 Untethered, All-in-One Brain, Body, and Eye Tracking Headset",
+     "link": "https://openbci.com/community/openbci-and-pupil-labs-partnership-galea-neon/",
+     "date": "2025-10-01T09:24:00+00:00"
+    },
+    {
+     "title": "ACAT Tool Kit & OpenBCI EEG Gel Cap",
+     "link": "https://openbci.com/community/acat-tool-kit-openbci-eeg-gel-cap/",
+     "date": "2025-08-12T19:42:42+00:00"
+    },
+    {
+     "title": "Open-BCI Discovery Program: Epilepsy-Helmet",
+     "link": "https://openbci.com/community/open-bci-discovery-program-epilepsy-helmet/",
+     "date": "2025-07-29T18:10:03+00:00"
+    },
+    {
+     "title": "Robotic Future",
+     "link": "https://openbci.com/community/robotic-future/",
+     "date": "2025-07-23T15:43:01+00:00"
+    },
+    {
+     "title": "Predictive Processing in Bilingual Brains: Understanding Language with EEG",
+     "link": "https://openbci.com/community/predictive-processing-in-bilingual-brains-understanding-language-with-eeg/",
+     "date": "2025-07-16T17:28:49+00:00"
+    },
+    {
+     "title": "Using EEG to Optimize Study Methods",
+     "link": "https://openbci.com/community/using-eeg-to-optimize-study-methods/",
+     "date": "2025-07-11T18:57:00+00:00"
+    },
+    {
+     "title": "Animal Research Using OpenBCI",
+     "link": "https://openbci.com/community/animal-research-using-openbci/",
+     "date": "2025-07-09T16:39:51+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: From Thought to Movement \u2013 A Brain Physiological Interface",
+     "link": "https://openbci.com/community/openbci-discovery-program-from-thought-to-movement-a-brain-physiological-interface/",
+     "date": "2025-05-28T20:46:29+00:00"
+    },
+    {
+     "title": "Brain-Power Drive with Proactive Healthcare for Mobility Aids (Update)",
+     "link": "https://openbci.com/community/brain-power-drive-with-proactive-healthcare-for-mobility-aids-update/",
+     "date": "2025-05-07T21:38:40+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Neurofeedback in Optimising Focus (NOVA)",
+     "link": "https://openbci.com/community/openbci-discovery-program-neurofeedback-in-optimising-focus-nova/",
+     "date": "2025-04-15T20:18:13+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: SYNAPTICON",
+     "link": "https://openbci.com/community/openbci-discovery-program-synapticon/",
+     "date": "2025-04-10T17:58:39+00:00"
+    },
+    {
+     "title": "Detecting Color-Blindness using Brain Signals",
+     "link": "https://openbci.com/community/detecting-color-blindness-using-brain-signals/",
+     "date": "2025-04-07T13:28:30+00:00"
+    },
+    {
+     "title": "Machine Yearning",
+     "link": "https://openbci.com/community/machine-yearning/",
+     "date": "2025-04-07T13:26:56+00:00"
+    },
+    {
+     "title": "OpenBCI @ MIT Reality Hack 2025",
+     "link": "https://openbci.com/community/openbci-mit-reality-hack-2025/",
+     "date": "2025-02-03T16:47:43+00:00"
+    },
+    {
+     "title": "From Mind to Music, Medical Head-Wearable for Music Therapy and Neuro-Rehabilitation",
+     "link": "https://openbci.com/community/from-mind-to-music-medical-head-wearable-for-music-therapy-and-neuro-rehabilitation/",
+     "date": "2025-01-21T22:01:29+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: EEG/EMG Wheelchair",
+     "link": "https://openbci.com/community/openbci-discovery-program-eeg-emg-wheelchair/",
+     "date": "2025-01-16T20:56:23+00:00"
+    },
+    {
+     "title": "BCI Game for CYBATHLON Challenges 2024",
+     "link": "https://openbci.com/community/bci-game-for-cybathlon-challenges-2024/",
+     "date": "2025-01-09T17:11:26+00:00"
+    },
+    {
+     "title": "OpenBCI Program: BCI Controlled Exoskeleton",
+     "link": "https://openbci.com/community/openbci-program-bci-controlled-exoskeleton/",
+     "date": "2024-11-06T19:09:34+00:00"
+    },
+    {
+     "title": "Mind-Controlled Game \u2013 OpenBCI + cVEP + Unity",
+     "link": "https://openbci.com/community/mind-controlled-game-openbci-mindaffectbci-unity/",
+     "date": "2024-10-23T19:47:15+00:00"
+    },
+    {
+     "title": "Mind-Controlled Robot \u2013 OpenBCI + cVEP + Maqueen V2",
+     "link": "https://openbci.com/community/mind-controlled-robot-openbci-mindaffectbci-maqueen-v2/",
+     "date": "2024-08-23T18:59:49+00:00"
+    },
+    {
+     "title": "Brain-Power Drive with Proactive Healthcare for Mobility Aids",
+     "link": "https://openbci.com/community/brain-power-drive-with-proactive-healthcare-for-mobility-aids/",
+     "date": "2024-07-22T16:27:10+00:00"
+    },
+    {
+     "title": "Yasmeen Hmaidan Joins the OpenBCI Team!",
+     "link": "https://openbci.com/community/yasmeen-hmaidan-joins-the-openbci-team/",
+     "date": "2024-06-05T20:39:38+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Exploring AI-Assisted Neurofeedback in the Treatment of Cluster Headache",
+     "link": "https://openbci.com/community/openbci-discovery-program-exploring-ai-assisted-neurofeedback-in-the-treatment-of-cluster-headache/",
+     "date": "2024-04-15T17:36:54+00:00"
+    },
+    {
+     "title": "S.A.P.I.E.N.S. \u2013 Sensor Aided Prosthesis Integrating Electrophysiology Neural Systems",
+     "link": "https://openbci.com/community/s-a-p-i-e-n-s-sensor-aided-prosthesis-integrating-electrophysiology-neural-systems/",
+     "date": "2024-04-08T17:44:17+00:00"
+    },
+    {
+     "title": "Ranya Belmaachi Joining the OpenBCI Team!",
+     "link": "https://openbci.com/community/ranya-belmaachi-joining-the-openbci-team/",
+     "date": "2024-03-22T21:43:09+00:00"
+    },
+    {
+     "title": "Communicating Through Brain Waves: Enhancing Communication for Non-Verbal Individuals",
+     "link": "https://openbci.com/community/communicating-through-brain-waves-enhancing-communication-for-non-verbal-individuals/",
+     "date": "2024-03-19T15:50:06+00:00"
+    },
+    {
+     "title": "Free Resources \u2013 EEG and Physiological Datasets, and more",
+     "link": "https://openbci.com/community/free-resources-eeg-and-physiological-datasets-and-more/",
+     "date": "2024-02-17T19:53:19+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: NeuroSpectrum: A Brainwave-Powered Vision Enhancement Device",
+     "link": "https://openbci.com/community/openbci-discovery-program-neurospectrum-a-brainwave-powered-vision-enhancement-device/",
+     "date": "2024-01-22T18:38:12+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Zeroeth BCI",
+     "link": "https://openbci.com/community/openbci-discovery-program-zeroeth-bci/",
+     "date": "2024-01-02T15:51:19+00:00"
+    },
+    {
+     "title": "NEW Product Alert \u2013 OpenBCI x cEEGrid Bundle",
+     "link": "https://openbci.com/community/new-product-alert-openbci-x-ceegrid-bundle/",
+     "date": "2023-12-21T18:21:17+00:00"
+    },
+    {
+     "title": "OpenBCI in BIOADAPTED",
+     "link": "https://openbci.com/community/openbci-in-bioadapted/",
+     "date": "2023-12-20T16:32:03+00:00"
+    },
+    {
+     "title": "OPENBCI Discovery Program : MUSE",
+     "link": "https://openbci.com/community/openbci-discovery-program-muse/",
+     "date": "2023-12-14T20:38:09+00:00"
+    },
+    {
+     "title": "OpenBCI Galea Beta Reveal @ Slush 2023",
+     "link": "https://openbci.com/community/openbci-galea-beta-reveal-slush-2023/",
+     "date": "2023-12-02T18:27:44+00:00"
+    },
+    {
+     "title": "OpenBCI unveils vision for wearable, neuro-powered personal computer at Slush 2023",
+     "link": "https://openbci.com/community/openbci-unveils-vision-for-wearable-neuro-powered-personal-computer-at-slush-2023/",
+     "date": "2023-12-01T14:50:00+00:00"
+    }
+   ]
   },
   {
    "title": "NeuroTechX (Medium)",
@@ -321,7 +2367,59 @@
    "kind": "rss",
    "feed_title": "NeuroTechX Content Lab - Medium",
    "latest": "2026-10-23T14:59:14+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "An Off-Road Bike for the Mind",
+     "link": "https://medium.com/neurotechx/an-off-road-bike-for-the-mind-261aaffb7889?source=rss----f4faf96cadc---4",
+     "date": "2026-10-23T14:59:14+00:00"
+    },
+    {
+     "title": "The Psychiatrist Who Never Sits in a Chair",
+     "link": "https://medium.com/neurotechx/the-psychiatrist-who-never-sits-in-a-chair-3dcc15517670?source=rss----f4faf96cadc---4",
+     "date": "2026-10-16T21:15:27+00:00"
+    },
+    {
+     "title": "Two Different Boots",
+     "link": "https://medium.com/neurotechx/two-different-boots-28294db37b93?source=rss----f4faf96cadc---4",
+     "date": "2026-09-28T08:52:40+00:00"
+    },
+    {
+     "title": "Neuroethics from First Principles",
+     "link": "https://medium.com/neurotechx/neuroethics-from-first-principles-53ec16e4b375?source=rss----f4faf96cadc---4",
+     "date": "2026-09-09T17:34:45+00:00"
+    },
+    {
+     "title": "The Device Is the Easy Part",
+     "link": "https://medium.com/neurotechx/the-device-is-the-easy-part-bb54033db6b5?source=rss----f4faf96cadc---4",
+     "date": "2026-09-01T20:31:30+00:00"
+    },
+    {
+     "title": "The Implant Comes Out. The Recovery Stays.",
+     "link": "https://medium.com/neurotechx/the-implant-comes-out-the-recovery-stays-39a8c551033e?source=rss----f4faf96cadc---4",
+     "date": "2026-09-01T20:30:24+00:00"
+    },
+    {
+     "title": "The Nervous System in Your Ear",
+     "link": "https://medium.com/neurotechx/the-nervous-system-in-your-ear-5c8d7bd66123?source=rss----f4faf96cadc---4",
+     "date": "2026-08-31T17:49:28+00:00"
+    },
+    {
+     "title": "The Neural Tourniquet: Daniel Powell on Stopping Blood Loss Through the Nervous System",
+     "link": "https://medium.com/neurotechx/the-neural-tourniquet-daniel-powell-on-stopping-blood-loss-through-the-nervous-system-4196440b9086?source=rss----f4faf96cadc---4",
+     "date": "2026-08-31T17:49:16+00:00"
+    },
+    {
+     "title": "The Man Taking TMS Out of the Dark Ages",
+     "link": "https://medium.com/neurotechx/the-man-taking-tms-out-of-the-dark-ages-78e8cd40803c?source=rss----f4faf96cadc---4",
+     "date": "2026-07-22T11:26:37+00:00"
+    },
+    {
+     "title": "The Sound That Regulates: Laura Avonius on Audicin and the Science of Brainwave Audio",
+     "link": "https://medium.com/neurotechx/the-sound-that-regulates-laura-avonius-on-audicin-and-the-science-of-brainwave-audio-065be47279d4?source=rss----f4faf96cadc---4",
+     "date": "2026-07-20T15:25:18+00:00"
+    }
+   ]
   },
   {
    "title": "IEEE Brain",
@@ -332,7 +2430,59 @@
    "kind": "rss",
    "feed_title": "IEEE Brain",
    "latest": "2026-09-23T14:36:50+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Neuroethical Perspectives on Neurotechnology in Latin America",
+     "link": "https://brain.ieee.org/publications/research-and-white-papers/neuroethical-perspectives-on-neurotechnology-in-latin-america/",
+     "date": "2026-09-23T14:36:50+00:00"
+    },
+    {
+     "title": "Q&A with Felix Schwock, PhD student at University of Washington and Best Poster Award Winner at the 2025 IEEE Brain Discovery and Neurotechnology Workshop",
+     "link": "https://brain.ieee.org/podcasts/qa-with-felix-schwock-phd-student-at-university-of-washington-and-best-poster-award-winner-at-the-2025-ieee-brain-discovery-and-neurotechnology-workshop/",
+     "date": "2026-06-22T19:25:41+00:00"
+    },
+    {
+     "title": "Episode 29: Q&A with Dr. Anahita Kyani, Director of Neuroscience, Data Science and Digital Health at Johnson & Johnson Innovative Medicine",
+     "link": "https://brain.ieee.org/podcasts/episode-29-qa-with-dr-anahita-kyani-director-of-neuroscience-data-science-and-digital-health-at-johnson-johnson-innovative-medicine/",
+     "date": "2026-06-22T19:14:06+00:00"
+    },
+    {
+     "title": "Q&A with Dhruv Vaish, PhD student at UC Berkeley and Best Poster Award Winner at the 2025 IEEE Brain Discovery and Neurotechnology Workshop",
+     "link": "https://brain.ieee.org/podcasts/qa-with-dhruv-vaish-phd-student-at-uc-berkeley-and-best-poster-award-winner-at-the-2025-ieee-brain-discovery-and-neurotechnology-workshop/",
+     "date": "2026-02-25T17:51:59+00:00"
+    },
+    {
+     "title": "IEEE Advances Responsible Neurotechnology Standard",
+     "link": "https://brain.ieee.org/news-and-insights/ieee-brain-news/ieee-advances-responsible-neurotechnology-standard/",
+     "date": "2026-02-25T16:16:01+00:00"
+    },
+    {
+     "title": "Q&A with Dr. Alain Dagher, Neurologist and Professor at McGill University and the Montreal Neurological Institute",
+     "link": "https://brain.ieee.org/podcasts/qa-with-dr-alain-dagher-neurologist-and-professor-at-mcgill-university-and-the-montreal-neurological-institute/",
+     "date": "2026-02-25T16:01:04+00:00"
+    },
+    {
+     "title": "Q&A with Dr. Richard Carson, Professor of Biomedical Engineering and Radiology & Biomedical Imaging, Yale University and Yale School of Medicine",
+     "link": "https://brain.ieee.org/podcasts/qa-with-dr-richard-carson-professor-of-biomedical-engineering-and-radiology-biomedical-imaging-yale-university-and-yale-school-of-medicine/",
+     "date": "2025-11-04T18:24:59+00:00"
+    },
+    {
+     "title": "Call for Papers: IEEE Transactions on Human-Machine Systems",
+     "link": "https://brain.ieee.org/braininsight-articles/call-for-papers-ieee-transactions-on-human-machine-systems/",
+     "date": "2025-06-18T14:50:14+00:00"
+    },
+    {
+     "title": "IEEE Brain Joins the American Brain Coalition",
+     "link": "https://brain.ieee.org/braininsight-articles/ieee-brain-joins-the-american-brain-coalition-as-a-nonprofit-member/",
+     "date": "2025-03-03T17:22:08+00:00"
+    },
+    {
+     "title": "Call for Papers: IEEE Brain Special Issue",
+     "link": "https://brain.ieee.org/braininsight-articles/ieee-journal-on-flexible-electronics/",
+     "date": "2025-03-03T17:16:40+00:00"
+    }
+   ]
   }
  ],
  "Open web and tools": [
@@ -345,7 +2495,8 @@
    "kind": "rss",
    "feed_title": "Center17",
    "latest": null,
-   "status": 200
+   "status": 200,
+   "items": []
   },
   {
    "title": "Scripting News (Dave Winer)",
@@ -356,7 +2507,44 @@
    "kind": "rss",
    "feed_title": "Scripting News",
    "latest": "2026-11-03T17:21:09+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Frontier's debugger is back",
+     "link": "http://scripting.com/2026/11/03/172109.html?title=frontiersDebuggerIsBack",
+     "date": "2026-11-03T17:21:09+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/02.html#a163902",
+     "date": "2026-11-02T16:39:02+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/02.html#a193741",
+     "date": "2026-11-02T19:37:41+00:00"
+    },
+    {
+     "title": "What's on my plate",
+     "link": "http://scripting.com/2026/11/02/142343.html?title=whatsOnMyPlate",
+     "date": "2026-11-02T14:23:43+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/01.html#a132405",
+     "date": "2026-11-01T13:24:05+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/01.html#a140722",
+     "date": "2026-11-01T14:07:22+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/01.html#a210613",
+     "date": "2026-11-01T21:06:13+00:00"
+    }
+   ]
   },
   {
    "title": "rss.chat worknotes",
@@ -367,7 +2555,209 @@
    "kind": "rss",
    "feed_title": "rss.chat worknotes",
    "latest": "2026-08-05T19:02:00+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "rss.chat feeds now support WebSub",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-05T19:02:00+00:00"
+    },
+    {
+     "title": "You can point it at any hub",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-05T19:02:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-05T19:02:00+00:00"
+    },
+    {
+     "title": "Fixed a bug in feeds we generate",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-02T16:40:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-02T16:40:00+00:00"
+    },
+    {
+     "title": "Security fix in v0.6.11 -- please update",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-01T22:45:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-08-01T22:45:00+00:00"
+    },
+    {
+     "title": "The server will read a file over the web for you: /readhttpfile",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-31T13:30:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-31T13:30:00+00:00"
+    },
+    {
+     "title": "You can add your own menu to the menubar -- the Scripts menu",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-31T13:30:00+00:00"
+    },
+    {
+     "title": "That error message at startup is gone",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-29T16:23:00+00:00"
+    },
+    {
+     "title": "And reallysimple, the feed reader FeedLand and other apps are built on, now understands rss.chat conversations",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-29T16:23:00+00:00"
+    },
+    {
+     "title": "Getting into your own server no longer waits on email",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-29T14:30:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-29T14:30:00+00:00"
+    },
+    {
+     "title": "Replying through the API works with either field name",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-27T18:15:00+00:00"
+    },
+    {
+     "title": "Posting through the API got simpler: send markdown or HTML, whichever you have",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-27T17:30:00+00:00"
+    },
+    {
+     "title": "And the API docs were rewritten to earn that story",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-27T17:30:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-27T17:30:00+00:00"
+    },
+    {
+     "title": "The RSS.chat network has a name and a front door",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-26T16:49:00+00:00"
+    },
+    {
+     "title": "Every user has a feed from the moment they sign up",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-25T22:17:00+00:00"
+    },
+    {
+     "title": "And every server can now back itself up, nightly",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-25T22:17:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-25T22:17:00+00:00"
+    },
+    {
+     "title": "The Docs menu now reaches everything",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-25T15:39:00+00:00"
+    },
+    {
+     "title": "A whole conversation in one call: /getthread",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-25T15:15:00+00:00"
+    },
+    {
+     "title": "The hit counter now counts only rss.chat",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-25T14:56:00+00:00"
+    },
+    {
+     "title": "These worknotes are a feed now",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-24T16:45:00+00:00"
+    },
+    {
+     "title": "The Return key stopped breaking paragraphs at the wrong spot",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-23T23:30:00+00:00"
+    },
+    {
+     "title": "A security fix -- posts are now cleaned as they're saved -- and the first update note of a new kind: how to bring a server you already run up to date",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-23T14:06:00+00:00"
+    },
+    {
+     "title": "Updating a server you already run",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-23T14:06:00+00:00"
+    },
+    {
+     "title": "Posts can carry images now, and the server stores and serves them itself",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-22T22:15:00+00:00"
+    },
+    {
+     "title": "Paste an image into a post -- that is the whole feature",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-22T22:15:00+00:00"
+    },
+    {
+     "title": "SQLite is now the default, everywhere",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-22T15:30:00+00:00"
+    },
+    {
+     "title": "The install docs also gained the piece that was missing: email",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-22T15:30:00+00:00"
+    },
+    {
+     "title": "rss.chat itself now runs on SQLite",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-22T15:30:00+00:00"
+    },
+    {
+     "title": "A startup crash that wore two disguises",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-22T14:45:00+00:00"
+    },
+    {
+     "title": "The Software versions dialog now tells you which database engine the server runs on",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-22T14:45:00+00:00"
+    },
+    {
+     "title": "An rss.chat server can now run on SQLite -- no MySQL, no database setup of any kind",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-21T15:45:00+00:00"
+    },
+    {
+     "title": "And every server now has a backup story: export and import",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-21T15:45:00+00:00"
+    },
+    {
+     "title": "Three small courtesies for writers, all shipped today",
+     "link": "https://github.com/scripting/rss.chat/blob/main/server/code/worknotes.md",
+     "date": "2026-07-20T21:45:00+00:00"
+    },
+    {
+     "title": "The reply editor got out of your way",
+     "link": "https://github.com/scripting/rss.chat/blob/main/client/code/worknotes.md",
+     "date": "2026-07-20T21:15:00+00:00"
+    }
+   ]
   },
   {
    "title": "Ghost changelog",
@@ -378,7 +2768,84 @@
    "kind": "rss",
    "feed_title": "Changelog",
    "latest": "2026-10-21T13:36:57+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Stripe Checkout customization",
+     "link": "https://ghost.org/changelog/stripe-checkout-customization/",
+     "date": "2026-10-21T13:36:57+00:00"
+    },
+    {
+     "title": "Tier-specific welcome sequences",
+     "link": "https://ghost.org/changelog/tier-specific-welcome-sequences/",
+     "date": "2026-10-15T14:57:45+00:00"
+    },
+    {
+     "title": "Automation analytics",
+     "link": "https://ghost.org/changelog/automation-analytics/",
+     "date": "2026-10-07T17:34:51+00:00"
+    },
+    {
+     "title": "Gift subscription improvements",
+     "link": "https://ghost.org/changelog/gift-subscription-improvements/",
+     "date": "2026-08-27T16:46:20+00:00"
+    },
+    {
+     "title": "Analytics for email sequences",
+     "link": "https://ghost.org/changelog/analytics-for-email-sequences/",
+     "date": "2026-08-07T15:53:46+00:00"
+    },
+    {
+     "title": "Optimize your site for AI search",
+     "link": "https://ghost.org/changelog/geo/",
+     "date": "2026-07-16T18:01:16+00:00"
+    },
+    {
+     "title": "Publisher gift links",
+     "link": "https://ghost.org/changelog/publisher-gift-links/",
+     "date": "2026-07-06T13:17:52+00:00"
+    },
+    {
+     "title": "Email sequences for new members",
+     "link": "https://ghost.org/changelog/email-sequences-for-new-members/",
+     "date": "2026-06-24T13:47:05+00:00"
+    },
+    {
+     "title": "Your new admin toolbar",
+     "link": "https://ghost.org/changelog/admin-toolbar/",
+     "date": "2026-06-18T10:12:31+00:00"
+    },
+    {
+     "title": "Dynamic filters for members",
+     "link": "https://ghost.org/changelog/dynamic-filters-for-members/",
+     "date": "2026-06-11T10:37:00+00:00"
+    },
+    {
+     "title": "Expanding your social presence",
+     "link": "https://ghost.org/changelog/expanding-your-social-presence/",
+     "date": "2026-06-04T18:08:12+00:00"
+    },
+    {
+     "title": "Comment threads, votes and pins",
+     "link": "https://ghost.org/changelog/comment-threads-votes-and-pins/",
+     "date": "2026-05-27T18:45:11+00:00"
+    },
+    {
+     "title": "Gift subscriptions",
+     "link": "https://ghost.org/changelog/gift-subscriptions/",
+     "date": "2026-05-21T13:15:44+00:00"
+    },
+    {
+     "title": "Easy theme editing",
+     "link": "https://ghost.org/changelog/theme-editor/",
+     "date": "2026-05-14T20:38:10+00:00"
+    },
+    {
+     "title": "Saved member views",
+     "link": "https://ghost.org/changelog/saved-member-views/",
+     "date": "2026-05-07T18:03:06+00:00"
+    }
+   ]
   },
   {
    "title": "JAX releases",
@@ -389,7 +2856,59 @@
    "kind": "atom",
    "feed_title": "Release notes from jax",
    "latest": "2026-10-22T05:37:05+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "JAX v0.12.0.1",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.12.0.1",
+     "date": "2026-10-22T05:37:05+00:00"
+    },
+    {
+     "title": "JAX v0.12.0",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.12.0",
+     "date": "2026-10-19T11:18:24+00:00"
+    },
+    {
+     "title": "JAX v0.11.2",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.11.2",
+     "date": "2026-09-17T23:43:51+00:00"
+    },
+    {
+     "title": "JAX v0.11.1",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.11.1",
+     "date": "2026-08-17T20:45:31+00:00"
+    },
+    {
+     "title": "JAX v0.11.0",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.11.0",
+     "date": "2026-07-16T19:53:40+00:00"
+    },
+    {
+     "title": "JAX v0.10.2",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.10.2",
+     "date": "2026-06-17T23:39:56+00:00"
+    },
+    {
+     "title": "JAX v0.10.1",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.10.1",
+     "date": "2026-05-20T15:07:07+00:00"
+    },
+    {
+     "title": "JAX v0.10.0",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.10.0",
+     "date": "2026-04-16T13:09:15+00:00"
+    },
+    {
+     "title": "JAX v0.9.2",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.9.2",
+     "date": "2026-03-18T23:40:31+00:00"
+    },
+    {
+     "title": "JAX v0.9.1",
+     "link": "https://github.com/jax-ml/jax/releases/tag/jax-v0.9.1",
+     "date": "2026-03-02T11:13:44+00:00"
+    }
+   ]
   },
   {
    "title": "Equinox releases",
@@ -400,7 +2919,59 @@
    "kind": "atom",
    "feed_title": "Release notes from equinox",
    "latest": "2026-05-05T10:22:55+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Equinox v0.13.8",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.8",
+     "date": "2026-05-05T10:22:55+00:00"
+    },
+    {
+     "title": "Equinox v0.13.7",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.7",
+     "date": "2026-04-20T13:45:54+00:00"
+    },
+    {
+     "title": "Equinox v0.13.6",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.6",
+     "date": "2026-03-09T19:57:13+00:00"
+    },
+    {
+     "title": "Equinox v0.13.5",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.5",
+     "date": "2026-03-04T12:21:52+00:00"
+    },
+    {
+     "title": "Equinox v0.13.4",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.4",
+     "date": "2026-01-26T22:36:01+00:00"
+    },
+    {
+     "title": "Equinox v0.13.3",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.3",
+     "date": "2026-01-25T00:47:11+00:00"
+    },
+    {
+     "title": "Equinox v0.13.2",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.2",
+     "date": "2025-10-09T10:21:57+00:00"
+    },
+    {
+     "title": "Equinox v0.13.1",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.1",
+     "date": "2025-09-20T15:25:15+00:00"
+    },
+    {
+     "title": "Equinox v0.13.0",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.13.0",
+     "date": "2025-07-11T12:19:41+00:00"
+    },
+    {
+     "title": "Equinox v0.12.2",
+     "link": "https://github.com/patrick-kidger/equinox/releases/tag/v0.12.2",
+     "date": "2025-05-14T10:27:40+00:00"
+    }
+   ]
   },
   {
    "title": "Diffrax releases",
@@ -411,7 +2982,59 @@
    "kind": "atom",
    "feed_title": "Release notes from diffrax",
    "latest": "2026-02-18T09:56:38+00:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Diffrax v0.7.2",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.7.2",
+     "date": "2026-02-18T09:56:38+00:00"
+    },
+    {
+     "title": "Diffrax v0.7.1",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.7.1",
+     "date": "2026-02-01T17:28:26+00:00"
+    },
+    {
+     "title": "Diffrax v0.7.0",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.7.0",
+     "date": "2025-03-14T10:06:04+00:00"
+    },
+    {
+     "title": "Diffrax v0.6.2",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.6.2",
+     "date": "2024-12-24T17:08:35+00:00"
+    },
+    {
+     "title": "Diffrax v0.6.1",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.6.1",
+     "date": "2024-12-09T23:33:59+00:00"
+    },
+    {
+     "title": "Diffrax v0.6.0",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.6.0",
+     "date": "2024-07-01T09:44:09+00:00"
+    },
+    {
+     "title": "Diffrax v0.5.1",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.5.1",
+     "date": "2024-05-19T15:54:18+00:00"
+    },
+    {
+     "title": "Diffrax v0.5.0",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.5.0",
+     "date": "2024-01-09T19:23:37+00:00"
+    },
+    {
+     "title": "Diffrax v0.4.1",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.4.1",
+     "date": "2023-08-03T20:53:30+00:00"
+    },
+    {
+     "title": "Diffrax v0.4.0",
+     "link": "https://github.com/patrick-kidger/diffrax/releases/tag/v0.4.0",
+     "date": "2023-05-22T15:47:32+00:00"
+    }
+   ]
   },
   {
    "title": "NeuroFedora blog",
@@ -422,7 +3045,159 @@
    "kind": "atom",
    "feed_title": "NeuroFedora: Blog",
    "latest": "2025-09-22T10:59:02+01:00",
-   "status": 200
+   "status": 200,
+   "items": [
+    {
+     "title": "Next Open NeuroFedora meeting: 22 September 2025 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2025/09/22/next-open-neurofedora-meeting-22-September-2025-1300-utc.html",
+     "date": "2025-09-22T10:59:02+01:00"
+    },
+    {
+     "title": "Packaging changes at NeuroFedora",
+     "link": "https://neuroblog.fedoraproject.org/2025/08/02/packaging-changes-at-neurofedora.html",
+     "date": "2025-08-02T14:02:06+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 02 June 2025 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2025/06/02/next-open-neurofedora-meeting-02-June-2025-1300-utc.html",
+     "date": "2025-06-02T11:17:04+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 07 April 2025 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2025/03/10/next-open-neurofedora-meeting-07-April-2025-1300-utc.html",
+     "date": "2025-03-10T09:24:05+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 10 March 2025 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2025/03/10/next-open-neurofedora-meeting-10-march-2025-1300-utc.html",
+     "date": "2025-03-10T09:24:05+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 10 February 2025 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2025/02/10/next-open-neurofedora-meeting-10-february-2025-1300-utc.html",
+     "date": "2025-02-10T09:24:05+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 27 January 2025 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2025/01/27/next-open-neurofedora-meeting-27-january-2025-1300-utc.html",
+     "date": "2025-01-27T10:15:32+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 02 December 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/11/18/next-open-neurofedora-meeting-02-december-1300-utc.html",
+     "date": "2024-11-18T09:56:35+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 18 November 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/11/18/next-open-neurofedora-meeting-18-november-1300-utc.html",
+     "date": "2024-11-18T09:54:44+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 07 October 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/09/23/next-open-neurofedora-meeting-07-october-1300-utc.html",
+     "date": "2024-09-23T10:45:49+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 23 September 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/09/23/next-open-neurofedora-meeting-23-september-1300-utc.html",
+     "date": "2024-09-23T10:45:40+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 09 September 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/08/23/next-open-neurofedora-meeting-09-september-1300-utc.html",
+     "date": "2024-08-23T15:07:51+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 12 August 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/08/12/next-open-neurofedora-meeting-12-august-1300-utc.html",
+     "date": "2024-08-12T10:26:49+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 29 July 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/07/29/next-open-neurofedora-meeting-29-july-1300-utc.html",
+     "date": "2024-07-29T10:34:41+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 15 July 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/07/15/next-open-neurofedora-meeting-15-july-1300-utc.html",
+     "date": "2024-07-15T10:53:33+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 01 July 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/06/17/next-open-neurofedora-meeting-01-july-1300-utc.html",
+     "date": "2024-06-17T11:10:14+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 17 June 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/06/17/next-open-neurofedora-meeting-17-june-1300-utc.html",
+     "date": "2024-06-17T11:10:14+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 03 June 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/06/03/next-open-neurofedora-meeting-06-june-1300-utc.html",
+     "date": "2024-06-03T11:10:14+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 20 May 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/05/20/next-open-neurofedora-meeting-20-may-1300-utc.html",
+     "date": "2024-05-20T08:26:02+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 22 April 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/04/22/next-open-neurofedora-meeting-22-april-1300-utc.html",
+     "date": "2024-04-22T10:49:03+01:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 25 March 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/03/25/next-open-neurofedora-meeting-25-march-1300-utc.html",
+     "date": "2024-03-25T09:11:15+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 11 March 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/03/09/next-open-neurofedora-meeting-11-march-1300-utc.html",
+     "date": "2024-03-09T14:54:23+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 26 February 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/02/26/next-open-neurofedora-meeting-26-february-1300-utc.html",
+     "date": "2024-02-26T09:42:49+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 12 February 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/02/12/next-open-neurofedora-meeting-12-february-1300-utc.html",
+     "date": "2024-02-12T09:42:49+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 29 January 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/01/26/next-open-neurofedora-meeting-29-january-1300-utc.html",
+     "date": "2024-01-26T09:17:28+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 15 January 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2024/01/15/next-open-neurofedora-meeting-15-january-1300-utc.html",
+     "date": "2024-01-15T09:18:02+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 04 December 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2023/12/04/next-open-neurofedora-meeting-04-December-1300-utc.html",
+     "date": "2023-12-04T09:22:00+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 20 November 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2023/11/20/next-open-neurofedora-meeting-20-November-1300-utc.html",
+     "date": "2023-11-20T12:29:03+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 06 November 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2023/11/06/next-open-neurofedora-meeting-06-November-1300-utc.html",
+     "date": "2023-11-06T12:06:42+00:00"
+    },
+    {
+     "title": "Next Open NeuroFedora meeting: 23 October 1300 UTC",
+     "link": "https://neuroblog.fedoraproject.org/2023/10/23/next-open-neurofedora-meeting-23-October-1300-utc.html",
+     "date": "2023-10-23T09:28:59+01:00"
+    }
+   ]
   }
  ]
 }

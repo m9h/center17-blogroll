@@ -55,26 +55,48 @@ def _latest(dates, parser):
     return max(out, default=None)
 
 
+def _one(d, parser):
+    try:
+        v = parser(d) if d else None
+    except Exception:  # noqa: BLE001
+        v = None
+    return v.replace(tzinfo=v.tzinfo or dt.timezone.utc) if v is not None else None
+
+
 def parse_feed(data):
-    """Return (kind, title, latest_date) or raise."""
+    """Return (kind, title, latest_date, items); items are dicts title/link/date."""
     root = ET.fromstring(data)
     tag = root.tag.lower()
+    items = []
     if tag.endswith("rss"):
         ch = root.find("channel")
         title = (ch.findtext("title") or "").strip()
-        dates = [i.findtext("pubDate") for i in ch.findall("item") if i.findtext("pubDate")]
-        return "rss", title, _latest(dates, parsedate_to_datetime)
-    if tag.endswith("feed"):
+        for i in ch.findall("item"):
+            items.append({"title": (i.findtext("title") or "").strip(), "link": (i.findtext("link") or "").strip(),
+                          "date": _one(i.findtext("pubDate"), parsedate_to_datetime)})
+        kind = "rss"
+    elif tag.endswith("feed"):
         ns = {"a": "http://www.w3.org/2005/Atom"}
         title = (root.findtext("a:title", namespaces=ns) or "").strip()
-        dates = [e.findtext("a:updated", namespaces=ns) or e.findtext("a:published", namespaces=ns) for e in root.findall("a:entry", ns)]
-        return "atom", title, _latest([d for d in dates if d], _iso)
-    if tag.endswith("rdf"):
+        for e in root.findall("a:entry", ns):
+            link = ""
+            for l in e.findall("a:link", ns):
+                if l.get("rel", "alternate") == "alternate":
+                    link = l.get("href", ""); break
+            items.append({"title": (e.findtext("a:title", namespaces=ns) or "").strip(), "link": link,
+                          "date": _one(e.findtext("a:published", namespaces=ns) or e.findtext("a:updated", namespaces=ns), _iso)})
+        kind = "atom"
+    elif tag.endswith("rdf"):
         ns = {"r": "http://purl.org/rss/1.0/", "dc": "http://purl.org/dc/elements/1.1/"}
         title = (root.findtext("r:channel/r:title", namespaces=ns) or "").strip()
-        dates = [i.findtext("dc:date", namespaces=ns) for i in root.findall("r:item", ns)]
-        return "rss1", title, _latest([d for d in dates if d], _iso)
-    raise ValueError(f"not a feed (root <{root.tag}>)")
+        for i in root.findall("r:item", ns):
+            items.append({"title": (i.findtext("r:title", namespaces=ns) or "").strip(), "link": (i.findtext("r:link", namespaces=ns) or "").strip(),
+                          "date": _one(i.findtext("dc:date", namespaces=ns), _iso)})
+        kind = "rss1"
+    else:
+        raise ValueError(f"not a feed (root <{root.tag}>)")
+    dated = [x["date"] for x in items if x["date"]]
+    return kind, title, (max(dated) if dated else None), items
 
 
 def check(entry):
@@ -82,11 +104,96 @@ def check(entry):
     res = {"title": title, "feed": url, "site": site, "note": note, "ok": False}
     try:
         status, ctype, data = fetch(url)
-        kind, ftitle, latest = parse_feed(data)
-        res.update(ok=True, kind=kind, feed_title=ftitle, latest=latest.isoformat() if latest else None, status=status)
+        kind, ftitle, latest, items = parse_feed(data)
+        res.update(ok=True, kind=kind, feed_title=ftitle, latest=latest.isoformat() if latest else None, status=status,
+                   items=[{"title": x["title"], "link": x["link"], "date": x["date"].isoformat()} for x in items if x["date"] and x["link"]][:40])
     except Exception as e:  # noqa: BLE001
         res["error"] = f"{type(e).__name__}: {str(e)[:120]}"
     return res
+
+
+RIVER_CSS = """
+@font-face{font-family:'System';src:local('Iosevka'),local('PragmataPro'),local('IBM Plex Mono'),local('SF Mono'),local('Menlo'),local('Consolas')}
+:root{--mono:'System','IBM Plex Mono','SF Mono',Menlo,Consolas,monospace;--red:#c8102e;--fg:#d4d4d4;--dim:#888}
+*{margin:0;padding:0;box-sizing:border-box}body{background:#111;color:var(--fg);font-family:'Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif;font-size:17px;line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none;border-bottom:1px solid #555}a:hover{border-bottom-color:var(--red)}
+.topnav{position:sticky;top:0;background:rgba(17,17,17,.94);backdrop-filter:blur(6px);border-bottom:1px solid #2a2a2a}
+.topnav .inner{max-width:1100px;margin:0 auto;padding:14px 40px;display:flex;align-items:baseline;gap:28px;font-family:var(--mono);font-size:.74rem;text-transform:uppercase;letter-spacing:.14em}
+.topnav a{border-bottom:none;color:#999}.topnav a:hover{color:var(--fg)}.topnav .brand{color:var(--fg);margin-right:12px}.topnav .brand b{color:var(--red)}.topnav .ext{margin-left:auto}.topnav .ext::after{content:" \\2197"}
+.page{max-width:1100px;margin:0 auto;padding:48px 40px 80px}
+.masthead{padding-bottom:36px;border-bottom:3px solid var(--fg);margin-bottom:48px;display:grid;grid-template-columns:1fr 320px;gap:40px;align-items:end}
+.masthead h1{font-family:var(--mono);font-size:2.2rem;font-weight:400;letter-spacing:.06em;line-height:1.1;margin-bottom:10px}.masthead h1 b{color:var(--red)}
+.masthead .lede{font-style:italic;color:var(--dim);max-width:560px}.masthead .now{font-family:var(--mono);font-size:.74rem;line-height:1.9;color:var(--dim)}
+.masthead .now dt{text-transform:uppercase;letter-spacing:.14em;font-size:.62rem;color:#666;margin-top:8px}.masthead .now a{color:#bbb}
+.day{position:relative;margin-bottom:40px;padding-left:48px}
+.day-label{position:absolute;left:-8px;top:0;font-family:var(--mono);font-size:.6rem;text-transform:uppercase;letter-spacing:.18em;color:#999;writing-mode:vertical-lr;transform:rotate(180deg);white-space:nowrap}
+.rule{height:1px;background:#333;margin-bottom:16px}
+.row{display:grid;grid-template-columns:210px 1fr 70px;gap:16px;padding:10px 0;border-bottom:1px dotted #2a2a2a;align-items:baseline}.row:last-child{border-bottom:none}
+.row:hover .row-title{color:var(--red)}.row-src{font-family:var(--mono);font-size:.74rem;color:#999;overflow-wrap:anywhere}.row-title{font-size:.95rem}.row-time{font-family:var(--mono);font-size:.7rem;color:#999;text-align:right;white-space:nowrap}
+footer{margin-top:64px;padding-top:24px;border-top:3px solid var(--fg);display:flex;justify-content:space-between;font-size:.78rem;color:#999}
+footer nav{display:flex;gap:20px}footer nav a{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--dim);border-bottom:none}
+@media(max-width:700px){.topnav .inner{padding:12px 20px;gap:16px;flex-wrap:wrap}.topnav .ext{margin-left:0}.page{padding:32px 20px 48px}.masthead{grid-template-columns:1fr}.day{padding-left:0}.day-label{position:static;writing-mode:horizontal-tb;transform:none;display:block;margin-bottom:8px}.row{grid-template-columns:1fr;gap:4px}.row-time{text-align:left}}
+"""
+
+
+def write_river(by_folder, stamp, max_items=120, max_per_feed=6):
+    now = dt.datetime.now(dt.timezone.utc)
+    items = []
+    for folder, rs in by_folder.items():
+        for r in rs:
+            if not r.get("ok"):
+                continue
+            for it in r.get("items", [])[:max_per_feed]:
+                d = dt.datetime.fromisoformat(it["date"])
+                if d > now + dt.timedelta(days=1):
+                    continue  # future-dated junk
+                items.append({"source": r["title"], "site": r["site"], "folder": folder, "title": it["title"] or it["link"], "link": it["link"], "date": d})
+    items.sort(key=lambda x: x["date"], reverse=True)
+    items = items[:max_items]
+
+    # HTML
+    h = ['<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">',
+         '<title>Center17 river: the blogroll, newest first</title>',
+         '<meta name="description" content="The newest items across the Center17 blogroll: computational psychiatry, neuroimaging, neuromodulation and the open web.">',
+         '<link rel="alternate" type="application/rss+xml" title="Center17 river" href="river.xml">',
+         f"<style>{RIVER_CSS}</style></head><body>",
+         '<nav class="topnav"><div class="inner"><a class="brand" href="https://center17.org/">Center<b>17</b></a>'
+         '<a href="https://github.com/m9h">Code</a><a href="https://center17.org/data/">Data</a><a href="https://huggingface.co/mhough">Models</a>'
+         '<a href="./">Blog</a><a href="https://www.wefunkradio.com/">WeFunk</a><a class="ext" href="https://projects.center17.org/">Projects</a></div></nav>',
+         '<div class="page"><header class="masthead"><div><h1>The <b>river</b></h1>',
+         '<p class="lede">The newest items from the Center17 blogroll, in one stream. Computational psychiatry, neuroimaging, neuromodulation and the open web.</p></div>',
+         f'<dl class="now"><dt>Subscribe</dt><dd><a href="river.xml">River as RSS</a> &middot; <a href="blogroll.opml">Blogroll as OPML</a></dd>'
+         f'<dt>Browse</dt><dd><a href="https://center17.org/blogroll/">The blogroll</a> &middot; <a href="https://github.com/m9h/center17-blogroll">Source</a></dd>'
+         f'<dt>Updated</dt><dd>{now.strftime("%Y-%m-%d %H:%M")} UTC</dd></dl></header>']
+    day = None
+    for it in items:
+        d = it["date"].astimezone(dt.timezone.utc).strftime("%Y-%m-%d")
+        if d != day:
+            if day is not None:
+                h.append("</div>")
+            h.append(f'<div class="day"><span class="day-label">{d}</span><div class="rule"></div>')
+            day = d
+        h.append(f'<a class="row" href="{html.escape(it["link"])}"><span class="row-src">{html.escape(it["source"])}</span>'
+                 f'<span class="row-title">{html.escape(it["title"])}</span><span class="row-time">{it["date"].astimezone(dt.timezone.utc).strftime("%H:%M")}</span></a>')
+    if day is not None:
+        h.append("</div>")
+    h.append('<footer><span>&copy; 2017&ndash;2026 Center17</span><nav><a href="https://center17.org/">Blog</a><a href="https://projects.center17.org/">Projects</a>'
+             '<a href="https://center17.org/blogroll/">Blogroll</a><a href="river.xml">RSS</a></nav></footer></div></body></html>')
+    (HERE / "index.html").write_text("\n".join(h) + "\n")
+
+    # RSS 2.0
+    def rfc(d):
+        return d.astimezone(dt.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+    x = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="http://source.scripting.com/">', "<channel>",
+         "<title>Center17 river</title>", "<link>https://m9h.github.io/center17-blogroll/</link>",
+         "<description>The newest items across the Center17 blogroll: computational psychiatry, neuroimaging, neuromodulation and the open web.</description>",
+         f"<lastBuildDate>{rfc(now)}</lastBuildDate>", '<atom:link href="https://m9h.github.io/center17-blogroll/river.xml" rel="self" type="application/rss+xml"/>']
+    for it in items:
+        x.append("<item>" + f"<title>{html.escape(it['title'])}</title><link>{html.escape(it['link'])}</link><guid isPermaLink=\"true\">{html.escape(it['link'])}</guid>"
+                 f"<pubDate>{rfc(it['date'])}</pubDate><source url=\"{html.escape(it['site'])}\">{html.escape(it['source'])}</source><category>{html.escape(it['folder'])}</category></item>")
+    x += ["</channel>", "</rss>", ""]
+    (HERE / "river.xml").write_text("\n".join(x))
+    print(f"== river: {len(items)} items, newest {items[0]['date'].isoformat() if items else '-'}")
 
 
 def main():
@@ -151,6 +258,9 @@ def main():
     h += [f'<li><a href="{html.escape(u)}">{html.escape(n)}</a>{(": " + html.escape(note)) if note else ""}</li>' for n, u, note in SUICIDE_PREVENTION]
     h.append("</ul>")
     (HERE / "ghost-page.html").write_text("\n".join(h) + "\n")
+
+    # ---- River: newest items across the blogroll (index.html for GitHub Pages, river.xml as RSS)
+    write_river(by_folder, stamp)
 
     # ---- report
     for folder, rs in by_folder.items():
