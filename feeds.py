@@ -54,15 +54,6 @@ FOLDERS = {
     ],
 }
 
-# Dated anchors, not feeds. (name, url, when, note)
-EVENTS = [
-    ("Computational Psychiatry Course, Zurich (TNU, ETH/UZH)", "https://www.translationalneuromodeling.org/cpcourse/", "annually in early September; 2026: 7–12 Sept, hybrid", "the starting block"),
-    ("SOBP Annual Meeting and Brainhack", "https://sobp.org/", "annually late April / early May; 2026: 30 Apr–2 May, New York", "Society of Biological Psychiatry"),
-    ("Aaron Swartz Day", "https://www.aaronswartzday.org/", "annually around 8 November, Internet Archive, San Francisco", "open access, open data; see the suicide-prevention resources below"),
-    ("OHBM Annual Meeting", "https://www.humanbrainmapping.org/", "annually in June", ""),
-    ("Brainhack Global", "https://brainhack.org/global.html", "annually in December", ""),
-]
-
 # Suicide prevention resources (kept with Aaron Swartz Day). (name, url, note)
 SUICIDE_PREVENTION = [
     ("988 Suicide & Crisis Lifeline (US)", "https://988lifeline.org/", "call or text 988"),

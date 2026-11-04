@@ -143,9 +143,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
-   "latest": "2026-10-30T00:00:00+00:00",
+   "latest": "2026-11-04T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Changing brains and minds on a changing planet",
+     "link": "https://www.nature.com/articles/s44220-026-00763-w",
+     "date": "2026-11-04T00:00:00+00:00"
+    },
     {
      "title": "The mental health system caught my sister each time she fell but never saw her coming",
      "link": "https://www.nature.com/articles/s44220-026-00736-z",
@@ -180,11 +185,6 @@
      "title": "Connectome-wide dysconnectivity signature tracks clinical status in major depressive disorder",
      "link": "https://www.nature.com/articles/s44220-026-00747-w",
      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-     "title": "Understanding psychological resilience: a longitudinal environment-wide association study in Hong Kong",
-     "link": "https://www.nature.com/articles/s44220-026-00742-1",
-     "date": "2026-10-20T00:00:00+00:00"
     }
    ]
   },
@@ -202,11 +202,6 @@
     {
      "title": "Temporal imprecision of the self in drug-free psychosis: Abnormal infraslow phase dynamics and brain complexity",
      "link": "https://www.nature.com/articles/s41398-026-04526-0",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "Counteracting the overestimation of effect size in mass-univariate brain-wide association studies using cross-validation",
-     "link": "https://www.nature.com/articles/s41398-026-04529-x",
      "date": "2026-11-04T00:00:00+00:00"
     },
     {
@@ -238,6 +233,11 @@
      "title": "<i>TCF7L2</i> functionally relevant genetic variation with clinical implications in bipolar disorder with impaired glucose metabolism",
      "link": "https://www.nature.com/articles/s41398-026-04521-5",
      "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Serum B-cell activating factor and delayed memory in first-episode drug-na\u00efve schizophrenia: a case-control study",
+     "link": "https://www.nature.com/articles/s41398-026-04546-w",
+     "date": "2026-10-30T00:00:00+00:00"
     }
    ]
   },
@@ -249,19 +249,9 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-04T00:00:00+00:00",
+   "latest": "2026-11-02T00:00:00+00:00",
    "status": 200,
    "items": [
-    {
-     "title": "Mapping cerebellar morphology in 15q11.2 CNV carriers using normative modeling",
-     "link": "https://www.nature.com/articles/s41380-026-03711-3",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "A preconceptional stress model identifies thalamostriatal substrates of intergenerational vulnerability",
-     "link": "https://www.nature.com/articles/s41380-026-03937-1",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
     {
      "title": "Dynamic epigenetic changes during antidepressant pharmacotherapy in major depressive disorder",
      "link": "https://www.nature.com/articles/s41380-026-03945-1",
@@ -290,6 +280,16 @@
     {
      "title": "Identification of fluid endocannabinoid and sphingolipid biomarkers in schizophrenia. A machine learning approach toward clinical value",
      "link": "https://www.nature.com/articles/s41380-026-03933-5",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Polygenic dissection of suicidal thoughts and behaviours in high-risk mood-disorder cohorts",
+     "link": "https://www.nature.com/articles/s41380-026-03952-2",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "A <i>Crh</i>-defined insular cortex\u2013brainstem\u2013thalamic circuit regulates anxiety-related behavioral states",
+     "link": "https://www.nature.com/articles/s41380-026-03950-4",
      "date": "2026-10-30T00:00:00+00:00"
     }
    ]

@@ -13,9 +13,9 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-04 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
-| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-10-30 |  |
+| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-04 |  |
 | [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-04 |  |
-| [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-04 |  |
+| [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-02 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-01 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-03 | Cognitive Neuroscience and Neuroimaging |
 | [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-03 |  |
@@ -65,13 +65,20 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 
 ## Annual anchors
 
-| Event | When | Note |
+Also as a calendar you can subscribe to: [`events.ics`](https://projects.center17.org/center17-blogroll/events.ics).
+
+| Event | When | Where |
 |---|---|---|
-| [Computational Psychiatry Course, Zurich (TNU, ETH/UZH)](https://www.translationalneuromodeling.org/cpcourse/) | annually in early September; 2026: 7–12 Sept, hybrid | the starting block |
-| [SOBP Annual Meeting and Brainhack](https://sobp.org/) | annually late April / early May; 2026: 30 Apr–2 May, New York | Society of Biological Psychiatry |
-| [Aaron Swartz Day](https://www.aaronswartzday.org/) | annually around 8 November, Internet Archive, San Francisco | open access, open data; see the suicide-prevention resources below |
-| [OHBM Annual Meeting](https://www.humanbrainmapping.org/) | annually in June |  |
-| [Brainhack Global](https://brainhack.org/global.html) | annually in December |  |
+| [Aaron Swartz Day and International Hackathon](https://www.aaronswartzday.org/) | 8 November 2026 | Internet Archive, San Francisco, and satellite hackathons |
+| [NeurIPS 2026](https://neurips.cc/Conferences/2026) | 6 to 12 December 2026 | Sydney, with official satellites in Atlanta (8 to 13 Dec) and Paris (9 to 13 Dec) |
+| [Brainhack Global 2026 (local hubs)](https://brainhack.org/global.html) | 16 November to 18 December 2026 (expected) | Hybrid hubs worldwide |
+| [SOBP Annual Meeting and Brainhack](https://sobp.org/sobp-annual-meeting/) | 6 to 8 May 2027 | Chicago, Illinois |
+| [OHBM 2027 Annual Meeting](https://humanbrainmapping.org/ohbm-2027/) | 26 to 30 June 2027 | Metro Toronto Convention Centre, Toronto |
+| [Computational Psychiatry Course, Zurich (TNU)](https://www.translationalneuromodeling.org/cpcourse/) | 6 to 11 September 2027 (expected) | Zurich and online |
+| [Aaron Swartz Day and International Hackathon](https://www.aaronswartzday.org/) | 6 to 7 November 2027 (expected) | Internet Archive, San Francisco, and satellite hackathons |
+| [SOBP Annual Meeting](https://sobp.org/sobp-annual-meeting/) | 20 to 22 April 2028 | San Francisco Marriott Marquis, San Francisco |
+| [OHBM 2028 Annual Meeting](https://humanbrainmapping.org/FutureMeetings/) | 18 to 22 June 2028 | Yokohama |
+| [SOBP Annual Meeting](https://sobp.org/sobp-annual-meeting/) | 19 to 21 April 2029 | Boston Marriott Copley Place, Boston |
 
 ## Suicide prevention
 

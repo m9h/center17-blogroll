@@ -4,7 +4,7 @@ on:
     - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
-    paths: ["feeds.py", "build.py"]
+    paths: ["feeds.py", "events.py", "build.py"]
 permissions:
   contents: write
 jobs:
@@ -19,6 +19,6 @@ jobs:
         run: |
           git config user.name "center17-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A blogroll.opml README.md ghost-page.html validation.json index.html river.xml
+          git add -A blogroll.opml README.md ghost-page.html validation.json index.html river.xml events.ics events.html
           git diff --cached --quiet || git commit -m "Rebuild river $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

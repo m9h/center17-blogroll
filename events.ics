@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Center17//center17-blogroll//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Center17 events
+X-WR-CALDESC:Annual anchors for computational psychiatry\, neuroimaging\,
+  neuromodulation and the open web.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aaron-swartz-day-2026@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Aaron Swartz Day and International Hackathon
+LOCATION:Internet Archive\, San Francisco\, and satellite hackathons
+URL:https://www.aaronswartzday.org/
+DESCRIPTION:10am to 5pm Pacific. Open access\, open data\, SecureDrop\; s
+ ee the suicide-prevention resources on the blogroll.\nhttps://www.aarons
+ wartzday.org/
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:brainhack-global-2026@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261219
+SUMMARY:Brainhack Global 2026 (local hubs) (expected dates)
+LOCATION:Hybrid hubs worldwide
+URL:https://brainhack.org/global.html
+DESCRIPTION:Brainhack Global runs as local events from late autumn into s
+ pring\; the 2025 edition ran autumn 2025 to spring 2026. Dates per hub o
+ n brainhack.org.\nPlaceholder from the usual pattern\; replaced when the
+  organiser announces dates.\nhttps://brainhack.org/global.html
+STATUS:TENTATIVE
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:NeurIPS 2026
+LOCATION:Sydney\, with official satellites in Atlanta (8 to 13 Dec) and P
+ aris (9 to 13 Dec)
+URL:https://neurips.cc/Conferences/2026
+DESCRIPTION:Tutorials 7 Dec\, main sessions 8 to 10 Dec\, workshops 11 to
+  12 Dec.\nhttps://neurips.cc/Conferences/2026
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-2027@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270509
+SUMMARY:SOBP Annual Meeting and Brainhack
+LOCATION:Chicago\, Illinois
+URL:https://sobp.org/sobp-annual-meeting/
+DESCRIPTION:Society of Biological Psychiatry. The Brainhack usually sits 
+ alongside the meeting.\nhttps://sobp.org/sobp-annual-meeting/
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ohbm-2027@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270701
+SUMMARY:OHBM 2027 Annual Meeting
+LOCATION:Metro Toronto Convention Centre\, Toronto
+URL:https://humanbrainmapping.org/ohbm-2027/
+DESCRIPTION:Organization for Human Brain Mapping. Registration opens Janu
+ ary 2027.\nhttps://humanbrainmapping.org/ohbm-2027/
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cpc-zurich-2027@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270912
+SUMMARY:Computational Psychiatry Course\, Zurich (TNU) (expected dates)
+LOCATION:Zurich and online
+URL:https://www.translationalneuromodeling.org/cpcourse/
+DESCRIPTION:The starting block. Held the first or second week of Septembe
+ r\; 2026 was 7 to 12 September. Dates are usually announced in February.
+ \nPlaceholder from the usual pattern\; replaced when the organiser annou
+ nces dates.\nhttps://www.translationalneuromodeling.org/cpcourse/
+STATUS:TENTATIVE
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aaron-swartz-day-2027@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271108
+SUMMARY:Aaron Swartz Day and International Hackathon (expected dates)
+LOCATION:Internet Archive\, San Francisco\, and satellite hackathons
+URL:https://www.aaronswartzday.org/
+DESCRIPTION:Held on the weekend nearest 8 November.\nPlaceholder from the
+  usual pattern\; replaced when the organiser announces dates.\nhttps://w
+ ww.aaronswartzday.org/
+STATUS:TENTATIVE
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-2028@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280423
+SUMMARY:SOBP Annual Meeting
+LOCATION:San Francisco Marriott Marquis\, San Francisco
+URL:https://sobp.org/sobp-annual-meeting/
+DESCRIPTION:https://sobp.org/sobp-annual-meeting/
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ohbm-2028@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20280618
+DTEND;VALUE=DATE:20280623
+SUMMARY:OHBM 2028 Annual Meeting
+LOCATION:Yokohama
+URL:https://humanbrainmapping.org/FutureMeetings/
+DESCRIPTION:https://humanbrainmapping.org/FutureMeetings/
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-2029@center17.org
+DTSTAMP:20261104T192759Z
+DTSTART;VALUE=DATE:20290419
+DTEND;VALUE=DATE:20290422
+SUMMARY:SOBP Annual Meeting
+LOCATION:Boston Marriott Copley Place\, Boston
+URL:https://sobp.org/sobp-annual-meeting/
+DESCRIPTION:https://sobp.org/sobp-annual-meeting/
+STATUS:CONFIRMED
+CATEGORIES:Center17
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
