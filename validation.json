@@ -196,9 +196,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-01T00:00:00+00:00",
+   "latest": "2026-11-03T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression",
+     "link": "https://www.nature.com/articles/s41398-026-04545-x",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
     {
      "title": "Non-suicidal self-injury in adolescents and young adults: an expert review",
      "link": "https://www.nature.com/articles/s41398-026-04531-3",
@@ -233,11 +238,6 @@
      "title": "Electroacupuncture alleviates chronic pain and comorbid depression through Gut-Metabolite-Brain axis remodeling to restore mPFC Glu/GABA balance",
      "link": "https://www.nature.com/articles/s41398-026-04544-y",
      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Exploring the relationship between oral microbiome and postoperative delirium in patients with oral squamous cell carcinoma",
-     "link": "https://www.nature.com/articles/s41398-026-04489-2",
-     "date": "2026-10-29T00:00:00+00:00"
     }
    ]
   },
@@ -1184,9 +1184,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-03T20:17:16+00:00",
+   "latest": "2026-11-04T07:35:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Frequent slow waves appearing across many channels in resting-state EEG \u2014 equipment issue or subject arousal?",
+     "link": "https://neurostars.org/t/frequent-slow-waves-appearing-across-many-channels-in-resting-state-eeg-equipment-issue-or-subject-arousal/39077",
+     "date": "2026-11-04T07:35:00+00:00"
+    },
     {
      "title": "Empty MARS-WMH masks: advice on visual QC",
      "link": "https://neurostars.org/t/empty-mars-wmh-masks-advice-on-visual-qc/39076",
@@ -1331,11 +1336,6 @@
      "title": "SPM26 is out now!",
      "link": "https://neurostars.org/t/spm26-is-out-now/36461",
      "date": "2026-10-14T12:07:21+00:00"
-    },
-    {
-     "title": "Using noise volumes in Nordic/fMRIPrep",
-     "link": "https://neurostars.org/t/using-noise-volumes-in-nordic-fmriprep/36459",
-     "date": "2026-10-13T18:55:47+00:00"
     }
    ]
   },
@@ -1674,58 +1674,58 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-03T13:39:59+00:00",
+   "latest": "2026-11-03T20:46:13+00:00",
    "status": 200,
    "items": [
     {
-     "title": "dev_nightly_tests_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
-     "date": "2026-11-03T13:39:59+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-03T13:39:59+00:00"
-    },
-    {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_tests_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_tests_darwin_x86_64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_tests_darwin_arm64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_build_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_build_darwin_x86_64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
     },
     {
      "title": "dev_nightly_build_darwin_arm64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
-     "date": "2026-10-30T18:58:09+00:00"
+     "date": "2026-11-03T20:46:13+00:00"
     }
    ]
   },
