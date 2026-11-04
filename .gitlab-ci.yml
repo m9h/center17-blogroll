@@ -1,0 +1,12 @@
+# GitLab Pages for the river and calendar (mirrored from github.com/m9h/center17-blogroll;
+# the outputs are generated and committed by the GitHub Action, so this job only publishes them).
+pages:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - mkdir -p public
+    - cp index.html river.xml events.html events.ics blogroll.opml public/
+  artifacts:
+    paths: [public]
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
