@@ -728,9 +728,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-03T14:00:00+00:00",
+   "latest": "2026-11-04T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Shapley fields reveal mosaic chemotopic organization in the mouse Olfactory bulb across diverse chemical feature sets",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014917",
+     "date": "2026-11-04T14:00:00+00:00"
+    },
+    {
+     "title": "Bayesian efficient coding",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014894",
+     "date": "2026-11-04T14:00:00+00:00"
+    },
     {
      "title": "Folding without glutamine: Proteome-scale removal of a canonical amino acid",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014931",
@@ -869,16 +879,6 @@
     {
      "title": "Thirteen quick tips for bacteriophage genome annotation",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014887",
-     "date": "2026-10-26T14:00:00+00:00"
-    },
-    {
-     "title": "Calsequestrin localization at RyR2 clusters enables calcium wave propagation in ventricular myocytes",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014449",
-     "date": "2026-10-26T14:00:00+00:00"
-    },
-    {
-     "title": "An integrative computational approach for obstacle avoidance during action selection",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013756",
      "date": "2026-10-26T14:00:00+00:00"
     }
    ]
