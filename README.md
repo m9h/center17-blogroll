@@ -65,7 +65,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 
 ## Annual anchors
 
-Also as a calendar you can subscribe to: [`events.ics`](https://projects.center17.org/center17-blogroll/events.ics).
+Also as a calendar you can subscribe to: [`events.ics`](https://river.center17.org/events.ics).
 
 | Event | When | Where |
 |---|---|---|

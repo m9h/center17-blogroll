@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="http://source.scripting.com/">
 <channel>
 <title>Center17 river</title>
-<link>https://projects.center17.org/center17-blogroll/</link>
+<link>https://river.center17.org/</link>
 <description>The newest items across the Center17 blogroll: computational psychiatry, neuroimaging, neuromodulation and the open web.</description>
-<lastBuildDate>Thu, 05 Nov 2026 00:39:47 GMT</lastBuildDate>
-<atom:link href="https://projects.center17.org/center17-blogroll/river.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 05 Nov 2026 02:15:30 GMT</lastBuildDate>
+<atom:link href="https://river.center17.org/river.xml" rel="self" type="application/rss+xml"/>
 <item><title>dev_nightly_tests_rok8: Merge pull request #1489 from Jon-Williams/dev</title><link>https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8</link><guid isPermaLink="true">https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8</guid><pubDate>Wed, 04 Nov 2026 19:07:40 GMT</pubDate><source url="https://surfer.nmr.mgh.harvard.edu/">FreeSurfer releases</source><category>Neuroimaging</category></item>
 <item><title>dev_nightly_build_rok8: Merge pull request #1489 from Jon-Williams/dev</title><link>https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8</link><guid isPermaLink="true">https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8</guid><pubDate>Wed, 04 Nov 2026 19:07:40 GMT</pubDate><source url="https://surfer.nmr.mgh.harvard.edu/">FreeSurfer releases</source><category>Neuroimaging</category></item>
 <item><title>Lifecycle triggers for automations</title><link>https://ghost.org/changelog/lifecycle-triggers-for-automations/</link><guid isPermaLink="true">https://ghost.org/changelog/lifecycle-triggers-for-automations/</guid><pubDate>Wed, 04 Nov 2026 17:06:54 GMT</pubDate><source url="https://ghost.org/changelog/">Ghost changelog</source><category>Open web and tools</category></item>
