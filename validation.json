@@ -158,9 +158,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
-   "latest": "2026-11-04T00:00:00+00:00",
+   "latest": "2026-11-05T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Distributed EEG phase-resetting dynamics predict depressive symptom severity in untreated adults",
+     "link": "https://www.nature.com/articles/s44220-026-00757-8",
+     "date": "2026-11-05T00:00:00+00:00"
+    },
     {
      "title": "Changing brains and minds on a changing planet",
      "link": "https://www.nature.com/articles/s44220-026-00763-w",
@@ -195,11 +200,6 @@
      "title": "Maternal mental health remains a missing priority",
      "link": "https://www.nature.com/articles/s44220-026-00752-z",
      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-     "title": "Connectome-wide dysconnectivity signature tracks clinical status in major depressive disorder",
-     "link": "https://www.nature.com/articles/s44220-026-00747-w",
-     "date": "2026-10-21T00:00:00+00:00"
     }
    ]
   },
@@ -906,17 +906,27 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-03T00:00:00+00:00",
+   "latest": "2026-11-05T00:00:00+00:00",
    "status": 200,
    "items": [
     {
-     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
-     "link": "https://elifesciences.org/articles/108089",
-     "date": "2026-11-03T00:00:00+00:00"
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
+     "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/108055",
+     "date": "2026-11-05T00:00:00+00:00"
     },
     {
      "title": "A validated antibody toolbox for ALS research",
      "link": "https://elifesciences.org/articles/111349",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
+     "link": "https://elifesciences.org/articles/108089",
      "date": "2026-11-03T00:00:00+00:00"
     },
     {
@@ -925,23 +935,23 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Fitness level, but not sex, affects exercise-induced pain modulation",
-     "link": "https://elifesciences.org/articles/109061",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
      "title": "Compensation of hyperexcitability with simulation-based inference",
      "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-     "link": "https://elifesciences.org/articles/102095",
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
+     "title": "Fitness level, but not sex, affects exercise-induced pain modulation",
+     "link": "https://elifesciences.org/articles/109061",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+     "link": "https://elifesciences.org/articles/102095",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1038,16 +1048,6 @@
      "title": "A mechanistic theory of planning in prefrontal cortex",
      "link": "https://elifesciences.org/articles/109757",
      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-     "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex",
-     "link": "https://elifesciences.org/articles/106510",
-     "date": "2026-10-20T00:00:00+00:00"
-    },
-    {
-     "title": "An integrated human forebrain organoid reveals microglia-mediated CD8<sup>+</sup> T cell recruitment and neuroimmune dysfunction in Alzheimer\u2019s disease pathology",
-     "link": "https://elifesciences.org/articles/111730",
-     "date": "2026-10-20T00:00:00+00:00"
     }
    ]
   }
@@ -1689,13 +1689,28 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-04T19:07:40+00:00",
+   "latest": "2026-11-04T21:40:10+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "date": "2026-11-04T21:40:10+00:00"
+    },
     {
      "title": "dev_nightly_tests_rok8: Merge pull request #1489 from Jon-Williams/dev",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-04T19:07:40+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
+     "date": "2026-11-04T21:40:10+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
+     "date": "2026-11-04T21:40:10+00:00"
     },
     {
      "title": "dev_nightly_build_rok8: Merge pull request #1489 from Jon-Williams/dev",
@@ -1703,13 +1718,13 @@
      "date": "2026-11-04T19:07:40+00:00"
     },
     {
-     "title": "dev_nightly_tests_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
-     "date": "2026-11-03T20:46:13+00:00"
+     "title": "dev_nightly_build_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
+     "date": "2026-11-04T21:40:10+00:00"
     },
     {
-     "title": "dev_nightly_tests_rok9",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "title": "dev_nightly_tests_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
      "date": "2026-11-03T20:46:13+00:00"
     },
     {
@@ -1718,28 +1733,13 @@
      "date": "2026-11-03T20:46:13+00:00"
     },
     {
-     "title": "dev_nightly_tests_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
      "title": "dev_nightly_build_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
      "date": "2026-11-03T20:46:13+00:00"
     },
     {
-     "title": "dev_nightly_build_rok9",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
      "title": "dev_nightly_build_darwin_x86_64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
      "date": "2026-11-03T20:46:13+00:00"
     }
    ]
