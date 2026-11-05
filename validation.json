@@ -8,43 +8,58 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-04T00:00:00-05:00",
+   "latest": "2026-11-05T00:00:00-05:00",
    "status": 200,
    "items": [
     {
-     "title": "Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics",
-     "link": "https://arxiv.org/abs/2611.03841",
-     "date": "2026-11-04T00:00:00-05:00"
+     "title": "A minimal E/I circuit model explains differential recovery from amblyopia under TTX and reverse occlusion",
+     "link": "https://arxiv.org/abs/2611.06189",
+     "date": "2026-11-05T00:00:00-05:00"
     },
     {
-     "title": "Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure",
-     "link": "https://arxiv.org/abs/2611.03897",
-     "date": "2026-11-04T00:00:00-05:00"
+     "title": "Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness",
+     "link": "https://arxiv.org/abs/2611.06418",
+     "date": "2026-11-05T00:00:00-05:00"
     },
     {
-     "title": "When Model Complexity Matters in Cross-Subject Naturalistic fMRI Prediction",
-     "link": "https://arxiv.org/abs/2611.04041",
-     "date": "2026-11-04T00:00:00-05:00"
+     "title": "Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure",
+     "link": "https://arxiv.org/abs/2611.06618",
+     "date": "2026-11-05T00:00:00-05:00"
     },
     {
-     "title": "Curriculum unlearning in humans and neural networks",
-     "link": "https://arxiv.org/abs/2611.04565",
-     "date": "2026-11-04T00:00:00-05:00"
+     "title": "Learning Time-Varying Connectomes for Stable Behavior Across Development",
+     "link": "https://arxiv.org/abs/2611.06895",
+     "date": "2026-11-05T00:00:00-05:00"
+    },
+    {
+     "title": "Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life",
+     "link": "https://arxiv.org/abs/2611.06603",
+     "date": "2026-11-05T00:00:00-05:00"
+    },
+    {
+     "title": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
+     "link": "https://arxiv.org/abs/2611.06700",
+     "date": "2026-11-05T00:00:00-05:00"
+    },
+    {
+     "title": "Cell-type-specific modularity in E/I networks shapes dynamical regimes and computational capabilities",
+     "link": "https://arxiv.org/abs/2611.06720",
+     "date": "2026-11-05T00:00:00-05:00"
+    },
+    {
+     "title": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
+     "link": "https://arxiv.org/abs/2606.11833",
+     "date": "2026-11-05T00:00:00-05:00"
+    },
+    {
+     "title": "Beauty is in the ELBO of the Beholder: A Variational Account of Processing Fluency in Face Perception",
+     "link": "https://arxiv.org/abs/2608.24219",
+     "date": "2026-11-05T00:00:00-05:00"
     },
     {
      "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
      "link": "https://arxiv.org/abs/2611.05374",
-     "date": "2026-11-04T00:00:00-05:00"
-    },
-    {
-     "title": "Do agents need to sleep?",
-     "link": "https://arxiv.org/abs/2611.02216",
-     "date": "2026-11-04T00:00:00-05:00"
-    },
-    {
-     "title": "Maternal Anxiety During Pregnancy and Offspring Information Processing Across Development: A Theory-Guided Predictive-Processing Reappraisal of Two Longitudinal Cohorts",
-     "link": "https://arxiv.org/abs/2608.24983",
-     "date": "2026-11-04T00:00:00-05:00"
+     "date": "2026-11-05T00:00:00-05:00"
     }
    ]
   },
@@ -56,9 +71,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-04T05:00:30+00:00",
+   "latest": "2026-11-05T05:00:26+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Brain registers spatial location outside hippocampus",
+     "link": "https://www.thetransmitter.org/systems-neuroscience/brain-registers-spatial-location-outside-hippocampus/",
+     "date": "2026-11-05T05:00:26+00:00"
+    },
     {
      "title": "The three-banded panther worm is rewriting the story of brain evolution",
      "link": "https://www.thetransmitter.org/neuros-ark/the-three-banded-panther-worm-is-rewriting-the-story-of-brain-evolution/",
@@ -103,11 +123,6 @@
      "title": "Fly taste connectome traces paths from sensation to action",
      "link": "https://www.thetransmitter.org/connectome/fly-taste-connectome-traces-paths-from-sensation-to-action/",
      "date": "2026-10-30T15:51:37+00:00"
-    },
-    {
-     "title": "Remembering Gerry Fischbach, \u2018orchestra conductor\u2019 who brought scientists  together",
-     "link": "https://www.thetransmitter.org/neurobiology/remembering-gerry-fischbach-orchestra-conductor-who-brought-scientists-together/",
-     "date": "2026-10-29T17:15:23+00:00"
     }
    ]
   },
@@ -1184,9 +1199,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-04T17:04:32+00:00",
+   "latest": "2026-11-05T03:51:04+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Targeting GSoC 2027 with INCF",
+     "link": "https://neurostars.org/t/targeting-gsoc-2027-with-incf/39083",
+     "date": "2026-11-05T03:51:04+00:00"
+    },
     {
      "title": "Viewing clusters/corrected stats of positives and negatives in SPM or elsewhere?",
      "link": "https://neurostars.org/t/viewing-clusters-corrected-stats-of-positives-and-negatives-in-spm-or-elsewhere/39081",
@@ -1331,11 +1351,6 @@
      "title": "International Master in Neural Engineering [fully remote]",
      "link": "https://neurostars.org/t/international-master-in-neural-engineering-fully-remote/36465",
      "date": "2026-10-16T09:01:32+00:00"
-    },
-    {
-     "title": "12-bit data for diffusion metric quality",
-     "link": "https://neurostars.org/t/12-bit-data-for-diffusion-metric-quality/36463",
-     "date": "2026-10-14T22:20:45+00:00"
     }
    ]
   },
