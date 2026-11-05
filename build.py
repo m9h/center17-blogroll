@@ -273,9 +273,9 @@ def write_river(by_folder, stamp, max_items=120, max_per_feed=6):
     def rfc(d):
         return d.astimezone(dt.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
     x = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="http://source.scripting.com/">', "<channel>",
-         "<title>Center17 river</title>", "<link>https://projects.center17.org/center17-blogroll/</link>",
+         "<title>Center17 river</title>", "<link>https://river.center17.org/</link>",
          "<description>The newest items across the Center17 blogroll: computational psychiatry, neuroimaging, neuromodulation and the open web.</description>",
-         f"<lastBuildDate>{rfc(now)}</lastBuildDate>", '<atom:link href="https://projects.center17.org/center17-blogroll/river.xml" rel="self" type="application/rss+xml"/>']
+         f"<lastBuildDate>{rfc(now)}</lastBuildDate>", '<atom:link href="https://river.center17.org/river.xml" rel="self" type="application/rss+xml"/>']
     for it in items:
         x.append("<item>" + f"<title>{html.escape(it['title'])}</title><link>{html.escape(it['link'])}</link><guid isPermaLink=\"true\">{html.escape(it['link'])}</guid>"
                  f"<pubDate>{rfc(it['date'])}</pubDate><source url=\"{html.escape(it['site'])}\">{html.escape(it['source'])}</source><category>{html.escape(it['folder'])}</category></item>")
@@ -323,7 +323,7 @@ def main():
             m += [f"- {r['title']}: `{r['error']}`" for r in dead]
             m += ["", "</details>"]
         m.append("")
-    m += ["## Annual anchors", "", "Also as a calendar you can subscribe to: [`events.ics`](https://projects.center17.org/center17-blogroll/events.ics).", "", "| Event | When | Where |", "|---|---|---|"]
+    m += ["## Annual anchors", "", "Also as a calendar you can subscribe to: [`events.ics`](https://river.center17.org/events.ics).", "", "| Event | When | Where |", "|---|---|---|"]
     m += [f"| [{e['name']}]({e['url']}) | {_when(e)}{' (expected)' if e['status']=='expected' else ''} | {e['city']} |" for e in EVENTS]
     m += ["", "## Suicide prevention", "", "Kept alongside Aaron Swartz Day. If you are in crisis, use the first line that applies to where you are.", "",
           "| Resource | Note |", "|---|---|"]
