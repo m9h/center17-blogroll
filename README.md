@@ -55,7 +55,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [Center17](https://center17.org/rss/) | [center17.org](https://center17.org/) |  | this blog |
-| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-04 | RSS, OPML, textcasting |
+| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-05 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
 | [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-04 |  |
 | [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-10-22 |  |

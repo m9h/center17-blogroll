@@ -910,8 +910,8 @@
    "status": 200,
    "items": [
     {
-     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
-     "link": "https://elifesciences.org/articles/112088",
+     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
+     "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -920,13 +920,18 @@
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "A validated antibody toolbox for ALS research",
-     "link": "https://elifesciences.org/articles/111349",
-     "date": "2026-11-03T00:00:00+00:00"
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
+     "date": "2026-11-05T00:00:00+00:00"
     },
     {
      "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
      "link": "https://elifesciences.org/articles/108089",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "A validated antibody toolbox for ALS research",
+     "link": "https://elifesciences.org/articles/111349",
      "date": "2026-11-03T00:00:00+00:00"
     },
     {
@@ -935,13 +940,18 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
+     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+     "link": "https://elifesciences.org/articles/111371",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -952,11 +962,6 @@
     {
      "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
      "link": "https://elifesciences.org/articles/102095",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-     "link": "https://elifesciences.org/articles/111371",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1042,11 +1047,6 @@
     {
      "title": "Complementary stable and dynamic prelimbic ensembles encode learned threat value underlying generalization and discrimination",
      "link": "https://elifesciences.org/articles/111177",
-     "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-     "title": "A mechanistic theory of planning in prefrontal cortex",
-     "link": "https://elifesciences.org/articles/109757",
      "date": "2026-10-21T00:00:00+00:00"
     }
    ]
@@ -2521,9 +2521,24 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-04T16:21:35+00:00",
+   "latest": "2026-11-05T15:57:11+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/05.html#a141815",
+     "date": "2026-11-05T14:18:15+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/05.html#a155711",
+     "date": "2026-11-05T15:57:11+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/05.html#a142927",
+     "date": "2026-11-05T14:29:27+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/04.html#a162135",
