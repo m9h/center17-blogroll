@@ -1674,9 +1674,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-03T20:46:13+00:00",
+   "latest": "2026-11-04T19:07:40+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok8: Merge pull request #1489 from Jon-Williams/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-04T19:07:40+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8: Merge pull request #1489 from Jon-Williams/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-04T19:07:40+00:00"
+    },
     {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
@@ -1685,11 +1695,6 @@
     {
      "title": "dev_nightly_tests_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-03T20:46:13+00:00"
     },
     {
@@ -1710,11 +1715,6 @@
     {
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
      "date": "2026-11-03T20:46:13+00:00"
     },
     {

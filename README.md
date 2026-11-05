@@ -3,7 +3,7 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-04: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-05: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
@@ -31,7 +31,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [practiCal fMRI](https://practicalfmri.blogspot.com/feeds/posts/default) | [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/) | 2026-06-04 |  |
 | [MNE-Python releases](https://github.com/mne-tools/mne-python/releases.atom) | [mne.tools](https://mne.tools/) | 2026-09-11 |  |
 | [nilearn releases](https://github.com/nilearn/nilearn/releases.atom) | [nilearn.github.io](https://nilearn.github.io/) | 2026-09-04 |  |
-| [FreeSurfer releases](https://github.com/freesurfer/freesurfer/releases.atom) | [surfer.nmr.mgh.harvard.edu](https://surfer.nmr.mgh.harvard.edu/) | 2026-11-03 |  |
+| [FreeSurfer releases](https://github.com/freesurfer/freesurfer/releases.atom) | [surfer.nmr.mgh.harvard.edu](https://surfer.nmr.mgh.harvard.edu/) | 2026-11-04 |  |
 | [OpenNeuro (GitHub releases)](https://github.com/OpenNeuroOrg/openneuro/releases.atom) | [openneuro.org](https://openneuro.org/) | 2026-10-29 |  |
 | [NeuroImage](https://rss.sciencedirect.com/publication/science/10538119) | [www.sciencedirect.com/journal/neuroimage](https://www.sciencedirect.com/journal/neuroimage) |  |  |
 | [Brainhack](https://brainhack.org/feed.xml) | [brainhack.org](https://brainhack.org/) | 2025-09-11 |  |
