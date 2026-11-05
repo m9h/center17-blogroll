@@ -1,9 +1,11 @@
-# GitLab Pages for the river and calendar (mirrored from github.com/m9h/center17-blogroll;
-# the outputs are generated and committed by the GitHub Action, so this job only publishes them).
+# GitLab Pages for the river and calendar. The job rebuilds the outputs itself
+# (same build.py as the GitHub Action) so a scheduled pipeline keeps the river
+# fresh without depending on GitHub. On a plain push it also rebuilds.
 pages:
   stage: deploy
-  image: alpine:latest
+  image: python:3.12-alpine
   script:
+    - python3 build.py
     - mkdir -p public
     - cp index.html river.xml events.html events.ics blogroll.opml public/
   artifacts:
