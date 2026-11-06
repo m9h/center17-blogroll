@@ -8,58 +8,123 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-05T00:00:00-05:00",
+   "latest": "2026-11-06T00:00:00-05:00",
    "status": 200,
    "items": [
     {
-     "title": "A minimal E/I circuit model explains differential recovery from amblyopia under TTX and reverse occlusion",
-     "link": "https://arxiv.org/abs/2611.06189",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "No Support Beyond Reach: The Measure Centrality Index 2.0 and Adversarial Comparisons of Consciousness Theories",
+     "link": "https://arxiv.org/abs/2611.06925",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness",
-     "link": "https://arxiv.org/abs/2611.06418",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "Foundation Models as Modular Tools for fMRI Analysis",
+     "link": "https://arxiv.org/abs/2611.06926",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure",
-     "link": "https://arxiv.org/abs/2611.06618",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "Reading a neuron's tuning from its correlations with other neurons",
+     "link": "https://arxiv.org/abs/2611.06927",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Learning Time-Varying Connectomes for Stable Behavior Across Development",
-     "link": "https://arxiv.org/abs/2611.06895",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "A minimal dynamical model of human-AI cognitive coevolution",
+     "link": "https://arxiv.org/abs/2611.06928",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life",
-     "link": "https://arxiv.org/abs/2611.06603",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems",
+     "link": "https://arxiv.org/abs/2611.06929",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
-     "link": "https://arxiv.org/abs/2611.06700",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "Category differences in similarity between fixation density maps and psychological potential fields for sketches",
+     "link": "https://arxiv.org/abs/2611.06930",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Cell-type-specific modularity in E/I networks shapes dynamical regimes and computational capabilities",
-     "link": "https://arxiv.org/abs/2611.06720",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "Distilling Neural Population Geometry into Transformers and GRUs for Motor Control",
+     "link": "https://arxiv.org/abs/2611.06931",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
-     "link": "https://arxiv.org/abs/2606.11833",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "Oscillatory Phase Coding Emerges in Adaptive RNNs for Flexible Working Memory",
+     "link": "https://arxiv.org/abs/2611.06932",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "Beauty is in the ELBO of the Beholder: A Variational Account of Processing Fluency in Face Perception",
-     "link": "https://arxiv.org/abs/2608.24219",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "Capturing Membrane Dynamics and Spike Timing of Human Neurons at Scale using Neural Operators",
+     "link": "https://arxiv.org/abs/2611.06933",
+     "date": "2026-11-06T00:00:00-05:00"
     },
     {
-     "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
-     "link": "https://arxiv.org/abs/2611.05374",
-     "date": "2026-11-05T00:00:00-05:00"
+     "title": "BrainPFN: Amortized Brain-Behaviour Prediction via Prior-Data Fitted Networks",
+     "link": "https://arxiv.org/abs/2611.06934",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "An Evolutionary Hypothesis for White's Illusion: Constant Percentage Correction and Modern Individual Variation",
+     "link": "https://arxiv.org/abs/2611.06935",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "From Maps to Metabolism: Historical Precedents and a Unified Critique of Computationalism",
+     "link": "https://arxiv.org/abs/2611.06936",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN",
+     "link": "https://arxiv.org/abs/2611.06940",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Self-Supervised Learning of Local Predictive Directions as a Neural Computation",
+     "link": "https://arxiv.org/abs/2611.07809",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Reversible Dynamics, Asymmetric Actions: Parking as a Trajectory-Level Affordance",
+     "link": "https://arxiv.org/abs/2611.07965",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Bearing, heading and the perceptual geometry of collective motion",
+     "link": "https://arxiv.org/abs/2611.07214",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Invariance before structure: two modes of emergent compression in representation learning",
+     "link": "https://arxiv.org/abs/2611.07952",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Do sEMG Foundation Models Improve Cross-Subject Generalisation?",
+     "link": "https://arxiv.org/abs/2611.08199",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+     "link": "https://arxiv.org/abs/2611.08469",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting",
+     "link": "https://arxiv.org/abs/2606.02937",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Emergent Generalization by Representation Learning in Artificial Neural Networks",
+     "link": "https://arxiv.org/abs/2607.10430",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Effective pruning of task-trained recurrent neural networks using noisy fluctuations and connection rescaling",
+     "link": "https://arxiv.org/abs/2608.05464",
+     "date": "2026-11-06T00:00:00-05:00"
+    },
+    {
+     "title": "Characterizing universal object representations across vision models",
+     "link": "https://arxiv.org/abs/2605.13675",
+     "date": "2026-11-06T00:00:00-05:00"
     }
    ]
   },
@@ -71,9 +136,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-05T05:00:26+00:00",
+   "latest": "2026-11-06T05:00:20+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Public engagement can help cultivate support for animal research",
+     "link": "https://www.thetransmitter.org/science-and-society/public-engagement-can-help-cultivate-support-for-animal-research/",
+     "date": "2026-11-06T05:00:20+00:00"
+    },
     {
      "title": "Brain registers spatial location outside hippocampus",
      "link": "https://www.thetransmitter.org/systems-neuroscience/brain-registers-spatial-location-outside-hippocampus/",
@@ -118,11 +188,6 @@
      "title": "When is self-organization a mechanism in brain development?",
      "link": "https://www.thetransmitter.org/development/when-is-self-organization-a-mechanism-in-brain-development/",
      "date": "2026-11-02T05:00:00+00:00"
-    },
-    {
-     "title": "Fly taste connectome traces paths from sensation to action",
-     "link": "https://www.thetransmitter.org/connectome/fly-taste-connectome-traces-paths-from-sensation-to-action/",
-     "date": "2026-10-30T15:51:37+00:00"
     }
    ]
   },
