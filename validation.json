@@ -211,9 +211,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-04T00:00:00+00:00",
+   "latest": "2026-11-05T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Impaired outcome-based decision-making in human cocaine addiction",
+     "link": "https://www.nature.com/articles/s41398-026-04547-9",
+     "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+     "title": "Control of whole-body glucose metabolism by central lactate in the presence of antipsychotics",
+     "link": "https://www.nature.com/articles/s41398-026-04537-x",
+     "date": "2026-11-05T00:00:00+00:00"
+    },
     {
      "title": "Temporal imprecision of the self in drug-free psychosis: Abnormal infraslow phase dynamics and brain complexity",
      "link": "https://www.nature.com/articles/s41398-026-04526-0",
@@ -243,16 +253,6 @@
      "title": "Non-suicidal self-injury in adolescents and young adults: an expert review",
      "link": "https://www.nature.com/articles/s41398-026-04531-3",
      "date": "2026-11-01T00:00:00+00:00"
-    },
-    {
-     "title": "Integrative neuroimaging-transcriptomic analysis of neurodevelopment in adolescent-onset mental health problems",
-     "link": "https://www.nature.com/articles/s41398-026-04543-z",
-     "date": "2026-10-31T00:00:00+00:00"
-    },
-    {
-     "title": "<i>TCF7L2</i> functionally relevant genetic variation with clinical implications in bipolar disorder with impaired glucose metabolism",
-     "link": "https://www.nature.com/articles/s41398-026-04521-5",
-     "date": "2026-10-30T00:00:00+00:00"
     }
    ]
   },
@@ -743,9 +743,34 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-04T14:00:00+00:00",
+   "latest": "2026-11-05T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "TriTower-m6Am: A triple-tower heterogeneous deep learning architecture integrating semantic, sequential, and structural information for mRNA N6,2\u2032-O-dimethyladenosine site prediction",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014939",
+     "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+     "title": "A computational framework to model cartilage degeneration induced by mechanoinflammation and cytokine-driven inflammation in post-traumatic osteoarthritis",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014935",
+     "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+     "title": "Ten simple rules for a successful global health roundtable",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014916",
+     "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+     "title": "Membrane tension and cell\u2013nucleus mechanical coupling regulate confined cell migration",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014909",
+     "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+     "title": "Social manipulations trigger shifts in group-level dominance patterns",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014875",
+     "date": "2026-11-05T14:00:00+00:00"
+    },
     {
      "title": "Shapley fields reveal mosaic chemotopic organization in the mouse Olfactory bulb across diverse chemical feature sets",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014917",
@@ -870,31 +895,6 @@
      "title": "Ten simple rules for designing your career pivot",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014890",
      "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for preparing a job application for an academic position",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014889",
-     "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "Evolutionary and dynamic constraints converge on a conserved coupling sector in thermally adapted GH1 \u03b2-glucosidases",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014879",
-     "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "<i>In silico</i> prediction of metabolic trait robustness in microbial cells",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014864",
-     "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "KmerSignificance score: A discriminative and biologically informed framework for viral <i>k</i>-mer prioritization",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014332",
-     "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "Thirteen quick tips for bacteriophage genome annotation",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014887",
-     "date": "2026-10-26T14:00:00+00:00"
     }
    ]
   },
@@ -910,13 +910,13 @@
    "status": 200,
    "items": [
     {
-     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
-     "link": "https://elifesciences.org/articles/111256",
+     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/108055",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/108055",
+     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
+     "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1199,9 +1199,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-05T03:51:04+00:00",
+   "latest": "2026-11-05T21:24:06+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "ST School 2027 (Valpara\u00edso, Chile, Jan 18\u201322): hands-on tractography workshop, registration open",
+     "link": "https://neurostars.org/t/st-school-2027-valparaiso-chile-jan-18-22-hands-on-tractography-workshop-registration-open/39085",
+     "date": "2026-11-05T21:24:06+00:00"
+    },
     {
      "title": "Targeting GSoC 2027 with INCF",
      "link": "https://neurostars.org/t/targeting-gsoc-2027-with-incf/39083",
@@ -1346,11 +1351,6 @@
      "title": "Guidance for Getting Started with INCF",
      "link": "https://neurostars.org/t/guidance-for-getting-started-with-incf/36466",
      "date": "2026-10-17T10:58:44+00:00"
-    },
-    {
-     "title": "International Master in Neural Engineering [fully remote]",
-     "link": "https://neurostars.org/t/international-master-in-neural-engineering-fully-remote/36465",
-     "date": "2026-10-16T09:01:32+00:00"
     }
    ]
   },
@@ -1689,18 +1689,23 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-04T21:40:10+00:00",
+   "latest": "2026-11-05T20:43:07+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
     {
      "title": "dev_nightly_tests_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
      "date": "2026-11-04T21:40:10+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok8: Merge pull request #1489 from Jon-Williams/dev",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
-     "date": "2026-11-04T19:07:40+00:00"
     },
     {
      "title": "dev_nightly_tests_darwin_arm64",
@@ -1711,11 +1716,6 @@
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-04T21:40:10+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8: Merge pull request #1489 from Jon-Williams/dev",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-04T19:07:40+00:00"
     },
     {
      "title": "dev_nightly_build_darwin_arm64",
@@ -1752,9 +1752,14 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from openneuro",
-   "latest": "2026-10-29T19:07:07+00:00",
+   "latest": "2026-11-05T21:38:50+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "5.12.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.12.0",
+     "date": "2026-11-05T21:38:50+00:00"
+    },
     {
      "title": "5.11.0",
      "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.11.0",
@@ -1799,11 +1804,6 @@
      "title": "5.6.0",
      "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.6.0",
      "date": "2026-08-27T20:48:31+00:00"
-    },
-    {
-     "title": "5.5.1",
-     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.5.1",
-     "date": "2026-08-13T18:20:03+00:00"
     }
    ]
   },
