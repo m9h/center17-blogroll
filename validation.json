@@ -276,9 +276,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-05T00:00:00+00:00",
+   "latest": "2026-11-06T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Effects of chronic oxytocin administration on white matter microstructure in autistic adults: a pilot pharmaco-neuroimaging DTI study",
+     "link": "https://www.nature.com/articles/s41398-026-04542-0",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
     {
      "title": "Impaired outcome-based decision-making in human cocaine addiction",
      "link": "https://www.nature.com/articles/s41398-026-04547-9",
@@ -313,11 +318,6 @@
      "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression",
      "link": "https://www.nature.com/articles/s41398-026-04545-x",
      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-     "title": "Non-suicidal self-injury in adolescents and young adults: an expert review",
-     "link": "https://www.nature.com/articles/s41398-026-04531-3",
-     "date": "2026-11-01T00:00:00+00:00"
     }
    ]
   },
@@ -971,22 +971,32 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-05T00:00:00+00:00",
+   "latest": "2026-11-06T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Expectation-driven gain modulation of preparatory spatial attention",
+     "link": "https://elifesciences.org/articles/110315",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/109742",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
     {
      "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
      "link": "https://elifesciences.org/articles/108055",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
-     "link": "https://elifesciences.org/articles/111256",
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
-     "link": "https://elifesciences.org/articles/112088",
+     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
+     "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1005,8 +1015,8 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
+     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+     "link": "https://elifesciences.org/articles/102095",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1015,8 +1025,8 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1025,8 +1035,8 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-     "link": "https://elifesciences.org/articles/102095",
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1055,6 +1065,11 @@
      "date": "2026-10-27T00:00:00+00:00"
     },
     {
+     "title": "Heterogeneous responses to embryonic critical period perturbations within the <i>Drosophila</i> larval locomotor circuit",
+     "link": "https://elifesciences.org/articles/108656",
+     "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
      "title": "Open source laser-scanning photostimulation for neuroscience with Zapit",
      "link": "https://elifesciences.org/articles/111872",
      "date": "2026-10-26T00:00:00+00:00"
@@ -1065,13 +1080,13 @@
      "date": "2026-10-26T00:00:00+00:00"
     },
     {
-     "title": "Heterogeneous responses to embryonic critical period perturbations within the <i>Drosophila</i> larval locomotor circuit",
-     "link": "https://elifesciences.org/articles/108656",
-     "date": "2026-10-26T00:00:00+00:00"
+     "title": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
+     "link": "https://elifesciences.org/articles/111490",
+     "date": "2026-10-23T00:00:00+00:00"
     },
     {
-     "title": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
-     "link": "https://elifesciences.org/articles/108036",
+     "title": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
+     "link": "https://elifesciences.org/articles/108442",
      "date": "2026-10-23T00:00:00+00:00"
     },
     {
@@ -1085,13 +1100,8 @@
      "date": "2026-10-23T00:00:00+00:00"
     },
     {
-     "title": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
-     "link": "https://elifesciences.org/articles/108442",
-     "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-     "title": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
-     "link": "https://elifesciences.org/articles/111490",
+     "title": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
+     "link": "https://elifesciences.org/articles/108036",
      "date": "2026-10-23T00:00:00+00:00"
     },
     {
@@ -1103,16 +1113,6 @@
      "title": "Olfactory combinatorial coding supports risk\u2013reward decision-making in <i>Caenorhabditis elegans</i>",
      "link": "https://elifesciences.org/articles/104828",
      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-     "title": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal",
-     "link": "https://elifesciences.org/articles/109678",
-     "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-     "title": "Complementary stable and dynamic prelimbic ensembles encode learned threat value underlying generalization and discrimination",
-     "link": "https://elifesciences.org/articles/111177",
-     "date": "2026-10-21T00:00:00+00:00"
     }
    ]
   }
@@ -1264,9 +1264,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-05T21:24:06+00:00",
+   "latest": "2026-11-06T11:11:02+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Post-doc vacancy in the SPM team",
+     "link": "https://neurostars.org/t/post-doc-vacancy-in-the-spm-team/39086",
+     "date": "2026-11-06T11:11:02+00:00"
+    },
     {
      "title": "ST School 2027 (Valpara\u00edso, Chile, Jan 18\u201322): hands-on tractography workshop, registration open",
      "link": "https://neurostars.org/t/st-school-2027-valparaiso-chile-jan-18-22-hands-on-tractography-workshop-registration-open/39085",
@@ -1411,11 +1416,6 @@
      "title": "NDOS 0.2.0 \u2014 tooling for animal-lab data that was never organised to any standard",
      "link": "https://neurostars.org/t/ndos-0-2-0-tooling-for-animal-lab-data-that-was-never-organised-to-any-standard/36467",
      "date": "2026-10-19T14:45:42+00:00"
-    },
-    {
-     "title": "Guidance for Getting Started with INCF",
-     "link": "https://neurostars.org/t/guidance-for-getting-started-with-incf/36466",
-     "date": "2026-10-17T10:58:44+00:00"
     }
    ]
   },
@@ -1758,8 +1758,38 @@
    "status": 200,
    "items": [
     {
+     "title": "dev_nightly_tests_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
      "title": "dev_nightly_tests_rok8",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
+     "date": "2026-11-05T20:43:07+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-05T20:43:07+00:00"
     },
     {
@@ -1768,44 +1798,14 @@
      "date": "2026-11-05T20:43:07+00:00"
     },
     {
-     "title": "dev_nightly_tests_rok9",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-11-04T21:40:10+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
-     "date": "2026-11-04T21:40:10+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok9",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
-     "date": "2026-11-04T21:40:10+00:00"
+     "title": "dev_nightly_build_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
+     "date": "2026-11-05T20:43:07+00:00"
     },
     {
      "title": "dev_nightly_build_darwin_arm64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
-     "date": "2026-11-04T21:40:10+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
-     "title": "dev_nightly_build_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
-     "date": "2026-11-03T20:46:13+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
-     "date": "2026-11-03T20:46:13+00:00"
+     "date": "2026-11-05T20:43:07+00:00"
     }
    ]
   },
@@ -2044,9 +2044,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-04T00:00:00+00:00",
+   "latest": "2026-11-06T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "REFS: robust EEG feature selection with incomplete labels for multi-dimensional emotion recognition",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97e",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
     {
      "title": "Towards semantic brain-computer interfacing: the graded inventory of semantic triggers (GIST) paradigm",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb724",
@@ -2091,11 +2096,6 @@
      "title": "Cybertissue neuroprosthetics: a new implantable neuroprosthetics paradigm to achieve seamless lifetime integration",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb442",
      "date": "2026-10-27T00:00:00+00:00"
-    },
-    {
-     "title": "Multimodal regulation of neurite extension by extracellular matrix composition and electrical stimulation on aligned collagen fiber scaffolds",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb32c",
-     "date": "2026-10-26T00:00:00+00:00"
     }
    ]
   },
