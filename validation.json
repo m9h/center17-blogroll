@@ -276,9 +276,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-05T00:00:00+00:00",
+   "latest": "2026-11-06T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Effects of chronic oxytocin administration on white matter microstructure in autistic adults: a pilot pharmaco-neuroimaging DTI study",
+     "link": "https://www.nature.com/articles/s41398-026-04542-0",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
     {
      "title": "Impaired outcome-based decision-making in human cocaine addiction",
      "link": "https://www.nature.com/articles/s41398-026-04547-9",
@@ -313,11 +318,6 @@
      "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression",
      "link": "https://www.nature.com/articles/s41398-026-04545-x",
      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-     "title": "Non-suicidal self-injury in adolescents and young adults: an expert review",
-     "link": "https://www.nature.com/articles/s41398-026-04531-3",
-     "date": "2026-11-01T00:00:00+00:00"
     }
    ]
   },
@@ -808,9 +808,34 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-05T14:00:00+00:00",
+   "latest": "2026-11-06T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Ten simple rules for a department chair",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
+     "date": "2026-11-06T14:00:00+00:00"
+    },
+    {
+     "title": "PINN-based functional inference in size-structured population models: Application to fish oogenesis",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014933",
+     "date": "2026-11-06T14:00:00+00:00"
+    },
+    {
+     "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014881",
+     "date": "2026-11-06T14:00:00+00:00"
+    },
+    {
+     "title": "Sequence-based coevolutionary prediction of species-specific interactomes",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014839",
+     "date": "2026-11-06T14:00:00+00:00"
+    },
+    {
+     "title": "SwimmingIndividuals: A high-performance agent-based model for marine ecosystems",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013610",
+     "date": "2026-11-06T14:00:00+00:00"
+    },
     {
      "title": "TriTower-m6Am: A triple-tower heterogeneous deep learning architecture integrating semantic, sequential, and structural information for mRNA N6,2\u2032-O-dimethyladenosine site prediction",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014939",
@@ -935,31 +960,6 @@
      "title": "Early vs late fusion of qMIDS with machine learning based classifiers for oral cancer diagnosis from gene expression data",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014888",
      "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "Modeling reaction\u2013diffusion processes in simplified to complex astroglial branchlet geometries using different simulation tools",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014878",
-     "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "On real-time calibrated prediction for complex model-based decision support in pandemics: Part 1",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014868",
-     "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014911",
-     "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "Eight quick tips for using the reactome knowledgebase",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014891",
-     "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for designing your career pivot",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014890",
-     "date": "2026-10-27T14:00:00+00:00"
     }
    ]
   },
@@ -995,6 +995,11 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
+     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
+     "link": "https://elifesciences.org/articles/111256",
+     "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
      "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
      "link": "https://elifesciences.org/articles/112088",
      "date": "2026-11-05T00:00:00+00:00"
@@ -1002,11 +1007,6 @@
     {
      "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
      "link": "https://elifesciences.org/articles/108055",
-     "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
-     "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1264,9 +1264,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-06T15:19:08+00:00",
+   "latest": "2026-11-06T22:41:48+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Missing regions registered in CIFTI but not in NIFTI format",
+     "link": "https://neurostars.org/t/missing-regions-registered-in-cifti-but-not-in-nifti-format/39091",
+     "date": "2026-11-06T22:41:48+00:00"
+    },
     {
      "title": "Be vigilant! - Increasing occurrences of spam on NeuroStars",
      "link": "https://neurostars.org/t/be-vigilant-increasing-occurrences-of-spam-on-neurostars/39089",
@@ -1411,11 +1416,6 @@
      "title": "Research Internship @Sigma Nova, Paris, France : Foundation Models for fMRI",
      "link": "https://neurostars.org/t/research-internship-sigma-nova-paris-france-foundation-models-for-fmri/36469",
      "date": "2026-10-20T11:48:23+00:00"
-    },
-    {
-     "title": "NDOS 0.2.0 \u2014 tooling for animal-lab data that was never organised to any standard",
-     "link": "https://neurostars.org/t/ndos-0-2-0-tooling-for-animal-lab-data-that-was-never-organised-to-any-standard/36467",
-     "date": "2026-10-19T14:45:42+00:00"
     }
    ]
   },
@@ -1754,9 +1754,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-05T20:43:07+00:00",
+   "latest": "2026-11-06T13:53:51+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-06T13:53:51+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-06T13:53:51+00:00"
+    },
     {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
@@ -1765,11 +1775,6 @@
     {
      "title": "dev_nightly_tests_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-11-05T20:43:07+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-05T20:43:07+00:00"
     },
     {
@@ -1790,11 +1795,6 @@
     {
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
-     "date": "2026-11-05T20:43:07+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
      "date": "2026-11-05T20:43:07+00:00"
     },
     {
