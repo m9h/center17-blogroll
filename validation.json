@@ -169,6 +169,11 @@
      "date": "2026-11-07T00:00:00+00:00"
     },
     {
+     "title": "Reduced attenuation of neural activation during fear extinction learning in patients with anxiety disorders: a delayed fear extinction fMRI study",
+     "link": "https://www.nature.com/articles/s41398-026-04430-7",
+     "date": "2026-11-07T00:00:00+00:00"
+    },
+    {
      "title": "Effects of chronic oxytocin administration on white matter microstructure in autistic adults: a pilot pharmaco-neuroimaging DTI study",
      "link": "https://www.nature.com/articles/s41398-026-04542-0",
      "date": "2026-11-06T00:00:00+00:00"
@@ -196,11 +201,6 @@
     {
      "title": "A precision health approach to medication management in neurodevelopmental conditions: a model development and validation study using four international cohorts",
      "link": "https://www.nature.com/articles/s41398-026-04541-1",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "Counteracting the overestimation of effect size in mass-univariate brain-wide association studies using cross-validation",
-     "link": "https://www.nature.com/articles/s41398-026-04529-x",
      "date": "2026-11-04T00:00:00+00:00"
     }
    ]
@@ -269,6 +269,11 @@
    "latest": "2026-12-01T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "PTSD is Associated with Advanced Epigenetic Age in 43,155 US Military Veterans",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01662-8/fulltext?rss=yes",
+     "date": "2026-11-07T00:00:00+00:00"
+    },
     {
      "title": "A Dynamic Model of Amygdala Circuits in Threat and Reward: Implications for Affective Disorders",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01660-4/fulltext?rss=yes",
@@ -463,11 +468,6 @@
      "title": "NMDA Receptor Hypofunction and Working Memory: Effects Beyond Memory Maintenance",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01518-0/fulltext?rss=yes",
      "date": "2026-09-08T00:00:00+00:00"
-    },
-    {
-     "title": "Dexamphetamine-induced striatal hyperdopaminergia attenuates reward-related neural activation: A11C-PHNO PET-fMRI study",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01517-9/fulltext?rss=yes",
-     "date": "2026-09-07T00:00:00+00:00"
     }
    ]
   },
@@ -479,9 +479,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-   "latest": "2026-11-03T00:00:00+00:00",
+   "latest": "2026-11-07T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Examining the Relationship Between Regional Vulnerability and Psychotic-Like Experiences in Adolescents: The Potential Mediating Role of Cognition",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00338-1/fulltext?rss=yes",
+     "date": "2026-11-07T00:00:00+00:00"
+    },
     {
      "title": "Distinct drug and aversive cue-reactivity patterns are associated with opioid use disorder",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00319-8/fulltext?rss=yes",
@@ -675,11 +680,6 @@
     {
      "title": "Reply to: Medication Direction Is Essential for Interpreting Cerebellar Volume Differences in ENIGMA-OCD",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00212-0/fulltext?rss=yes",
-     "date": "2026-07-27T00:00:00+00:00"
-    },
-    {
-     "title": "Symptom Domain Predictors of Auditory Processing Anomalies in Posttraumatic Stress Disorder: An Event-Related Potential Study",
-     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00210-7/fulltext?rss=yes",
      "date": "2026-07-27T00:00:00+00:00"
     }
    ]
@@ -2470,9 +2470,34 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-06T15:33:02+00:00",
+   "latest": "2026-11-07T17:30:30+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/07.html#a173030",
+     "date": "2026-11-07T17:30:30+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/07.html#a153140",
+     "date": "2026-11-07T15:31:40+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/07.html#a154042",
+     "date": "2026-11-07T15:40:42+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/07.html#a155034",
+     "date": "2026-11-07T15:50:34+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/07.html#a172254",
+     "date": "2026-11-07T17:22:54+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/06.html#a143145",
