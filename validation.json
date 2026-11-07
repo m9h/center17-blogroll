@@ -1642,14 +1642,34 @@
    "status": 200,
    "items": [
     {
+     "title": "dev_nightly_tests_ub24: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
+     "date": "2026-11-06T22:23:07+00:00"
+    },
+    {
      "title": "dev_nightly_tests_ub22: Merge pull request #1490 from Ash-Bal/dev",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub22",
      "date": "2026-11-06T22:23:07+00:00"
     },
     {
-     "title": "dev_nightly_tests_rok8",
+     "title": "dev_nightly_tests_rok9: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "date": "2026-11-06T22:23:07+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_rok8: Merge pull request #1490 from Ash-Bal/dev",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
-     "date": "2026-11-06T13:53:51+00:00"
+     "date": "2026-11-06T22:23:07+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_arm64: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
+     "date": "2026-11-06T22:23:07+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub24: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
+     "date": "2026-11-06T22:23:07+00:00"
     },
     {
      "title": "dev_nightly_build_ub22: Merge pull request #1490 from Ash-Bal/dev",
@@ -1657,39 +1677,19 @@
      "date": "2026-11-06T22:23:07+00:00"
     },
     {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-06T13:53:51+00:00"
-    },
-    {
-     "title": "a8.3.0: Merge pull request #1490 from Ash-Bal/dev",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/a8.3.0",
+     "title": "dev_nightly_build_rok9: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-06T22:23:07+00:00"
     },
     {
-     "title": "dev_nightly_tests_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
-     "date": "2026-11-05T20:43:07+00:00"
+     "title": "dev_nightly_build_rok8: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-06T22:23:07+00:00"
     },
     {
-     "title": "dev_nightly_tests_rok9",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-11-05T20:43:07+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
-     "date": "2026-11-05T20:43:07+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
-     "date": "2026-11-05T20:43:07+00:00"
-    },
-    {
-     "title": "dev_nightly_build_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
-     "date": "2026-11-05T20:43:07+00:00"
+     "title": "dev_nightly_build_darwin_arm64: Merge pull request #1490 from Ash-Bal/dev",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
+     "date": "2026-11-06T22:23:07+00:00"
     }
    ]
   },
