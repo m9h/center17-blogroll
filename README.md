@@ -26,7 +26,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [OHBM blog](https://www.ohbmbrainmappingblog.com/blog/feed) | [www.ohbmbrainmappingblog.com](https://www.ohbmbrainmappingblog.com/) | 2024-08-26 |  |
-| [NeuroStars (latest)](https://neurostars.org/latest.rss) | [neurostars.org](https://neurostars.org/) | 2026-11-08 | Q&A forum |
+| [NeuroStars (latest)](https://neurostars.org/latest.rss) | [neurostars.org](https://neurostars.org/) | 2026-11-06 | Q&A forum |
 | [Brainder (Anderson Winkler)](https://brainder.org/feed/) | [brainder.org](https://brainder.org/) | 2026-09-08 |  |
 | [practiCal fMRI](https://practicalfmri.blogspot.com/feeds/posts/default) | [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/) | 2026-06-04 |  |
 | [MNE-Python releases](https://github.com/mne-tools/mne-python/releases.atom) | [mne.tools](https://mne.tools/) | 2026-09-11 |  |
@@ -55,7 +55,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [Center17](https://center17.org/rss/) | [center17.org](https://center17.org/) |  | this blog |
-| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-07 | RSS, OPML, textcasting |
+| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-08 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
 | [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-04 |  |
 | [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-10-22 |  |

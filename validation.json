@@ -1148,14 +1148,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-08T07:18:00+00:00",
+   "latest": "2026-11-06T22:41:48+00:00",
    "status": 200,
    "items": [
-    {
-     "title": "Dyson Airwrap for a shared household \u2014 worth it, or does the attachment clutter win?",
-     "link": "https://neurostars.org/t/dyson-airwrap-for-a-shared-household-worth-it-or-does-the-attachment-clutter-win/39096",
-     "date": "2026-11-08T07:18:00+00:00"
-    },
     {
      "title": "Missing regions registered in CIFTI but not in NIFTI format",
      "link": "https://neurostars.org/t/missing-regions-registered-in-cifti-but-not-in-nifti-format/39091",
@@ -1300,6 +1295,11 @@
      "title": "QSIPrep Exception raised while executing Node mask_template",
      "link": "https://neurostars.org/t/qsiprep-exception-raised-while-executing-node-mask-template/36470",
      "date": "2026-10-20T12:19:45+00:00"
+    },
+    {
+     "title": "Research Internship @Sigma Nova, Paris, France : Foundation Models for fMRI",
+     "link": "https://neurostars.org/t/research-internship-sigma-nova-paris-france-foundation-models-for-fmri/36469",
+     "date": "2026-10-20T11:48:23+00:00"
     }
    ]
   },
@@ -2470,9 +2470,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-07T18:36:37+00:00",
+   "latest": "2026-11-08T16:55:47+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/08.html#a165547",
+     "date": "2026-11-08T16:55:47+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/07.html#a153140",
