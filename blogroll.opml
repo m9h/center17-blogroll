@@ -2,7 +2,7 @@
 <opml version="2.0">
 <head>
 <title>Center17 blogroll</title>
-<dateModified>Sun, 08 Nov 2026 06:27:11 GMT</dateModified>
+<dateModified>Sun, 08 Nov 2026 12:23:43 GMT</dateModified>
 <ownerName>Center17</ownerName>
 <ownerId>https://center17.org/</ownerId>
 </head>
@@ -36,6 +36,7 @@
 <outline text="Neuromodulation">
   <outline type="rss" text="Brain Stimulation (journal)" title="Brain Stimulation (journal)" xmlUrl="https://rss.sciencedirect.com/publication/science/1935861X" htmlUrl="https://www.brainstimjrnl.com/"/>
   <outline type="rss" text="Neuromodulation (INS journal)" title="Neuromodulation (INS journal)" xmlUrl="https://rss.sciencedirect.com/publication/science/10947159" htmlUrl="https://www.neuromodulationjournal.org/"/>
+  <outline type="rss" text="Journal of Neural Engineering" title="Journal of Neural Engineering" xmlUrl="https://iopscience.iop.org/journal/rss/1741-2552" htmlUrl="https://iopscience.iop.org/journal/1741-2552"/>
   <outline type="rss" text="SimNIBS releases" title="SimNIBS releases" xmlUrl="https://github.com/simnibs/simnibs/releases.atom" htmlUrl="https://simnibs.github.io/simnibs/"/>
   <outline type="rss" text="TI-Toolbox releases" title="TI-Toolbox releases" xmlUrl="https://github.com/idossha/TI-Toolbox/releases.atom" htmlUrl="https://github.com/idossha/TI-Toolbox"/>
   <outline type="rss" text="OpenBCI blog" title="OpenBCI blog" xmlUrl="https://openbci.com/community/feed/" htmlUrl="https://openbci.com/community/"/>
