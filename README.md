@@ -3,7 +3,7 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-08: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-08: 37 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
@@ -31,7 +31,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [practiCal fMRI](https://practicalfmri.blogspot.com/feeds/posts/default) | [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/) | 2026-06-04 |  |
 | [MNE-Python releases](https://github.com/mne-tools/mne-python/releases.atom) | [mne.tools](https://mne.tools/) | 2026-09-11 |  |
 | [nilearn releases](https://github.com/nilearn/nilearn/releases.atom) | [nilearn.github.io](https://nilearn.github.io/) | 2026-09-04 |  |
-| [FreeSurfer releases](https://github.com/freesurfer/freesurfer/releases.atom) | [surfer.nmr.mgh.harvard.edu](https://surfer.nmr.mgh.harvard.edu/) | 2026-11-06 |  |
+| [FreeSurfer releases](https://github.com/freesurfer/freesurfer/releases.atom) | [surfer.nmr.mgh.harvard.edu](https://surfer.nmr.mgh.harvard.edu/) | 2026-11-07 |  |
 | [OpenNeuro (GitHub releases)](https://github.com/OpenNeuroOrg/openneuro/releases.atom) | [openneuro.org](https://openneuro.org/) | 2026-11-05 |  |
 | [NeuroImage](https://rss.sciencedirect.com/publication/science/10538119) | [www.sciencedirect.com/journal/neuroimage](https://www.sciencedirect.com/journal/neuroimage) |  |  |
 | [Brainhack](https://brainhack.org/feed.xml) | [brainhack.org](https://brainhack.org/) | 2025-09-11 |  |
@@ -43,12 +43,17 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 |---|---|---|---|
 | [Brain Stimulation (journal)](https://rss.sciencedirect.com/publication/science/1935861X) | [www.brainstimjrnl.com](https://www.brainstimjrnl.com/) |  |  |
 | [Neuromodulation (INS journal)](https://rss.sciencedirect.com/publication/science/10947159) | [www.neuromodulationjournal.org](https://www.neuromodulationjournal.org/) |  |  |
-| [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-06 |  |
 | [SimNIBS releases](https://github.com/simnibs/simnibs/releases.atom) | [simnibs.github.io/simnibs](https://simnibs.github.io/simnibs/) | 2026-03-03 |  |
 | [TI-Toolbox releases](https://github.com/idossha/TI-Toolbox/releases.atom) | [github.com/idossha/TI-Toolbox](https://github.com/idossha/TI-Toolbox) | 2026-11-03 | temporal interference |
 | [OpenBCI blog](https://openbci.com/community/feed/) | [openbci.com/community](https://openbci.com/community/) | 2026-10-23 |  |
 | [NeuroTechX (Medium)](https://medium.com/feed/neurotechx) | [neurotechx.com](https://neurotechx.com/) | 2026-10-23 |  |
 | [IEEE Brain](https://brain.ieee.org/feed/) | [brain.ieee.org](https://brain.ieee.org/) | 2026-09-23 |  |
+
+<details><summary>Not currently reachable (kept in feeds.py, excluded from the OPML)</summary>
+
+- Journal of Neural Engineering: `ParseError: not well-formed (invalid token): line 3, column 12`
+
+</details>
 
 ## Open web and tools
 
