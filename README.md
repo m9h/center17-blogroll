@@ -3,7 +3,7 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-07: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-08: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
