@@ -2,7 +2,7 @@
 <opml version="2.0">
 <head>
 <title>Center17 blogroll</title>
-<dateModified>Sun, 08 Nov 2026 18:20:52 GMT</dateModified>
+<dateModified>Mon, 09 Nov 2026 00:43:23 GMT</dateModified>
 <ownerName>Center17</ownerName>
 <ownerId>https://center17.org/</ownerId>
 </head>
@@ -17,7 +17,6 @@
   <outline type="rss" text="Molecular Psychiatry" title="Molecular Psychiatry" xmlUrl="https://www.nature.com/mp.rss" htmlUrl="https://www.nature.com/mp/"/>
   <outline type="rss" text="Biological Psychiatry (SOBP)" title="Biological Psychiatry (SOBP)" xmlUrl="https://www.biologicalpsychiatryjournal.com/current.rss" htmlUrl="https://www.biologicalpsychiatryjournal.com/"/>
   <outline type="rss" text="Biological Psychiatry: CNNI" title="Biological Psychiatry: CNNI" xmlUrl="https://www.biologicalpsychiatrycnni.org/current.rss" htmlUrl="https://www.biologicalpsychiatrycnni.org/"/>
-  <outline type="rss" text="PLOS Computational Biology" title="PLOS Computational Biology" xmlUrl="https://journals.plos.org/ploscompbiol/feed/atom" htmlUrl="https://journals.plos.org/ploscompbiol/"/>
   <outline type="rss" text="eLife: Neuroscience" title="eLife: Neuroscience" xmlUrl="https://elifesciences.org/rss/subject/neuroscience.xml" htmlUrl="https://elifesciences.org/subjects/neuroscience"/>
 </outline>
 <outline text="Neuroimaging">

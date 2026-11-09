@@ -689,163 +689,8 @@
    "feed": "https://journals.plos.org/ploscompbiol/feed/atom",
    "site": "https://journals.plos.org/ploscompbiol/",
    "note": "",
-   "ok": true,
-   "kind": "atom",
-   "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-06T14:00:00+00:00",
-   "status": 200,
-   "items": [
-    {
-     "title": "Ten simple rules for a department chair",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "PINN-based functional inference in size-structured population models: Application to fish oogenesis",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014933",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014881",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "Sequence-based coevolutionary prediction of species-specific interactomes",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014839",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "SwimmingIndividuals: A high-performance agent-based model for marine ecosystems",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013610",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "TriTower-m6Am: A triple-tower heterogeneous deep learning architecture integrating semantic, sequential, and structural information for mRNA N6,2\u2032-O-dimethyladenosine site prediction",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014939",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "A computational framework to model cartilage degeneration induced by mechanoinflammation and cytokine-driven inflammation in post-traumatic osteoarthritis",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014935",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for a successful global health roundtable",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014916",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Membrane tension and cell\u2013nucleus mechanical coupling regulate confined cell migration",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014909",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Social manipulations trigger shifts in group-level dominance patterns",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014875",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Shapley fields reveal mosaic chemotopic organization in the mouse Olfactory bulb across diverse chemical feature sets",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014917",
-     "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-     "title": "Bayesian efficient coding",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014894",
-     "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-     "title": "Folding without glutamine: Proteome-scale removal of a canonical amino acid",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014931",
-     "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-     "title": "The influence of ensemble size and composition on the performance of combined real-time COVID-19 forecasts",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014908",
-     "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-     "title": "Global sensitivity analysis for stochastic models of infectious diseases: Re-emergence of yellow fever virus in the Americas as a case study",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013952",
-     "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-     "title": "SpatioCAD: Context-aware graph diffusion model for pinpointing spatially variable genes in heterogeneous tissues",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014923",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "The promiscuity and degeneracy of ten unique RNA base-pairing rules can determine the success of adaptive RNA evolution",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014914",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "Direction-selective retinal ganglion cells encode motion direction uniformly, despite having discretely distributed cardinal preferences",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014872",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "Traction force microscopy using temporal information",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014855",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "ATP-independent entropy-driven dsRNA unwinding by DDX3X revealed by coarse-grained simulations and deep learning",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014928",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Coupled beta and high-frequency oscillations emerge from synchronized bursting in a minimal model of the parkinsonian subthalamic nucleus",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014921",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for teaching practical AI to health data teams",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014915",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014906",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Degeneracy in neuronal bifurcation landscapes: Equivalent bifurcation sequences across distinct parameter sets",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014893",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Taxonova: Deep learning enables fast and confidence-aware microbiome species-level amplicon classification",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014912",
-     "date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-     "title": "From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898",
-     "date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-     "title": "Cd47 deficiency in mouse brain under excitotoxic stress",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014897",
-     "date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-     "title": "Individualised electrophysiological neural field models for the assessment of thalamocortical function in disorders of consciousness: A multicentre study",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014905",
-     "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "The evolutionary advantage of replacers in the Moran process",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014892",
-     "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "Early vs late fusion of qMIDS with machine learning based classifiers for oral cancer diagnosis from gene expression data",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014888",
-     "date": "2026-10-28T14:00:00+00:00"
-    }
-   ]
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "title": "eLife: Neuroscience",
@@ -2470,13 +2315,18 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-08T16:55:47+00:00",
+   "latest": "2026-11-08T19:11:34+00:00",
    "status": 200,
    "items": [
     {
      "title": "",
      "link": "http://scripting.com/2026/11/08.html#a165547",
      "date": "2026-11-08T16:55:47+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/08.html#a191134",
+     "date": "2026-11-08T19:11:34+00:00"
     },
     {
      "title": "",
