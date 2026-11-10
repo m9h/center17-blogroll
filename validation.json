@@ -326,6 +326,11 @@
    "status": 200,
    "items": [
     {
+     "title": "The Use of Large Language Models in Literature Reviews of Biological Psychiatry Research: Promises and Pitfalls",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01664-1/fulltext?rss=yes",
+     "date": "2026-11-09T00:00:00+00:00"
+    },
+    {
      "title": "PTSD is Associated with Advanced Epigenetic Age in 43,155 US Military Veterans",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01662-8/fulltext?rss=yes",
      "date": "2026-11-07T00:00:00+00:00"
@@ -519,11 +524,6 @@
      "title": "Comparisons of the structure and function of higher cortical circuits in marmosets and macaques: Models for mental health disorders",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01515-5/fulltext?rss=yes",
      "date": "2026-09-09T00:00:00+00:00"
-    },
-    {
-     "title": "NMDA Receptor Hypofunction and Working Memory: Effects Beyond Memory Maintenance",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01518-0/fulltext?rss=yes",
-     "date": "2026-09-08T00:00:00+00:00"
     }
    ]
   },
@@ -911,12 +911,22 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-06T00:00:00+00:00",
+   "latest": "2026-11-09T00:00:00+00:00",
    "status": 200,
    "items": [
     {
+     "title": "Dual-feature selectivity enables bidirectional coding in visual cortical neurons",
+     "link": "https://elifesciences.org/articles/109861",
+     "date": "2026-11-09T00:00:00+00:00"
+    },
+    {
      "title": "The resource elasticity of control",
      "link": "https://elifesciences.org/articles/105507",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "Expectation-driven gain modulation of preparatory spatial attention",
+     "link": "https://elifesciences.org/articles/110315",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -927,11 +937,6 @@
     {
      "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
      "link": "https://elifesciences.org/articles/109742",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "Expectation-driven gain modulation of preparatory spatial attention",
-     "link": "https://elifesciences.org/articles/110315",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -950,13 +955,13 @@
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "A validated antibody toolbox for ALS research",
-     "link": "https://elifesciences.org/articles/111349",
+     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
+     "link": "https://elifesciences.org/articles/108089",
      "date": "2026-11-03T00:00:00+00:00"
     },
     {
-     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
-     "link": "https://elifesciences.org/articles/108089",
+     "title": "A validated antibody toolbox for ALS research",
+     "link": "https://elifesciences.org/articles/111349",
      "date": "2026-11-03T00:00:00+00:00"
     },
     {
@@ -965,23 +970,23 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
      "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
      "link": "https://elifesciences.org/articles/102095",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
      "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
      "link": "https://elifesciences.org/articles/111371",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1047,11 +1052,6 @@
     {
      "title": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
      "link": "https://elifesciences.org/articles/103530",
-     "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-     "title": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
-     "link": "https://elifesciences.org/articles/108036",
      "date": "2026-10-23T00:00:00+00:00"
     }
    ]
@@ -1204,9 +1204,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-09T01:41:51+00:00",
+   "latest": "2026-11-09T17:31:59+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Utilvo DICOM Viewer Online \u2014 Client-Side DICOM Part 10 Clinical PACS Sandbox & Multi-Frame XA/CT/MR Viewer",
+     "link": "https://neurostars.org/t/utilvo-dicom-viewer-online-client-side-dicom-part-10-clinical-pacs-sandbox-multi-frame-xa-ct-mr-viewer/39102",
+     "date": "2026-11-09T17:31:59+00:00"
+    },
     {
      "title": "BrainFMBench: an open, living benchmark of brain MRI foundation models",
      "link": "https://neurostars.org/t/brainfmbench-an-open-living-benchmark-of-brain-mri-foundation-models/39101",
@@ -1351,11 +1356,6 @@
      "title": "Postdoctoral Fellow in Neuroimaging for Substance Use/Psychiatry",
      "link": "https://neurostars.org/t/postdoctoral-fellow-in-neuroimaging-for-substance-use-psychiatry/36471",
      "date": "2026-10-20T12:32:25+00:00"
-    },
-    {
-     "title": "QSIPrep Exception raised while executing Node mask_template",
-     "link": "https://neurostars.org/t/qsiprep-exception-raised-while-executing-node-mask-template/36470",
-     "date": "2026-10-20T12:19:45+00:00"
     }
    ]
   },
@@ -1694,9 +1694,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-08T02:27:37+00:00",
+   "latest": "2026-11-09T14:07:01+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-09T14:07:01+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-09T14:07:01+00:00"
+    },
     {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
@@ -1710,11 +1720,6 @@
     {
      "title": "dev_nightly_tests_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-11-08T02:27:37+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-08T02:27:37+00:00"
     },
     {
@@ -1741,11 +1746,6 @@
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-08T02:27:37+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-08T02:27:37+00:00"
     }
    ]
   },
@@ -1757,9 +1757,14 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from openneuro",
-   "latest": "2026-11-05T21:38:50+00:00",
+   "latest": "2026-11-09T15:55:41+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "5.13.0",
+     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.13.0",
+     "date": "2026-11-09T15:55:41+00:00"
+    },
     {
      "title": "5.12.0",
      "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.12.0",
@@ -1804,11 +1809,6 @@
      "title": "5.7.0",
      "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.7.0",
      "date": "2026-09-17T18:16:52+00:00"
-    },
-    {
-     "title": "5.6.0",
-     "link": "https://github.com/OpenNeuroOrg/openneuro/releases/tag/v5.6.0",
-     "date": "2026-08-27T20:48:31+00:00"
     }
    ]
   },
@@ -2386,9 +2386,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "NeuroTechX Content Lab - Medium",
-   "latest": "2026-10-23T14:59:14+00:00",
+   "latest": "2026-11-09T21:56:06+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Translating the Brain\u2019s Data into Clinical Insight",
+     "link": "https://medium.com/neurotechx/translating-the-brains-data-into-clinical-insight-852de596ab65?source=rss----f4faf96cadc---4",
+     "date": "2026-11-09T21:56:06+00:00"
+    },
     {
      "title": "An Off-Road Bike for the Mind",
      "link": "https://medium.com/neurotechx/an-off-road-bike-for-the-mind-261aaffb7889?source=rss----f4faf96cadc---4",
@@ -2433,11 +2438,6 @@
      "title": "The Man Taking TMS Out of the Dark Ages",
      "link": "https://medium.com/neurotechx/the-man-taking-tms-out-of-the-dark-ages-78e8cd40803c?source=rss----f4faf96cadc---4",
      "date": "2026-07-22T11:26:37+00:00"
-    },
-    {
-     "title": "The Sound That Regulates: Laura Avonius on Audicin and the Science of Brainwave Audio",
-     "link": "https://medium.com/neurotechx/the-sound-that-regulates-laura-avonius-on-audicin-and-the-science-of-brainwave-audio-065be47279d4?source=rss----f4faf96cadc---4",
-     "date": "2026-07-20T15:25:18+00:00"
     }
    ]
   },
@@ -2526,9 +2526,44 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-08T19:11:34+00:00",
+   "latest": "2026-11-09T16:46:59+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a164659",
+     "date": "2026-11-09T16:46:59+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a162009",
+     "date": "2026-11-09T16:20:09+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a153244",
+     "date": "2026-11-09T15:32:44+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a143754",
+     "date": "2026-11-09T14:37:54+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a145112",
+     "date": "2026-11-09T14:51:12+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a141627",
+     "date": "2026-11-09T14:16:27+00:00"
+    },
+    {
+     "title": "Dems: the campaign never ends",
+     "link": "http://scripting.com/2026/11/09/142759.html?title=demsTheCampaignNeverEnds",
+     "date": "2026-11-09T14:27:59+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/08.html#a165547",
