@@ -9,8 +9,8 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
-| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) | 2026-11-09 | daily preprints |
-| [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-09 | Simons Foundation neuroscience news |
+| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) |  | daily preprints |
+| [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-10 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
 | [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-05 |  |
@@ -55,7 +55,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [Center17](https://center17.org/rss/) | [center17.org](https://center17.org/) |  | this blog |
-| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-09 | RSS, OPML, textcasting |
+| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-10 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
 | [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-04 |  |
 | [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-10-22 |  |

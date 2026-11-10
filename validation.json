@@ -8,65 +8,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-09T00:00:00-05:00",
+   "latest": null,
    "status": 200,
-   "items": [
-    {
-     "title": "Structure is in the zoom: probing neural symmetry through dimensionality scaling",
-     "link": "https://arxiv.org/abs/2611.08506",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Spiking neuromodulation: a linear control perspective",
-     "link": "https://arxiv.org/abs/2611.08571",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Path-dependent triage: Early judgments lead conversational AI chatbots to miss mental-health emergencies",
-     "link": "https://arxiv.org/abs/2611.09647",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Decoding spatial and semantic information from large-scale visual cortical activity for natural-movie reconstruction",
-     "link": "https://arxiv.org/abs/2611.08887",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "A hair-thin implant opens the entire depth of the mouse brain to revisiting the same structures at subcellular resolution",
-     "link": "https://arxiv.org/abs/2611.09481",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Traits and tangles: An analysis of the Big Five paradigm by tangle-based clustering",
-     "link": "https://arxiv.org/abs/2411.18670",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "A multi-scale information geometry reveals the structure of mutual information in neural populations",
-     "link": "https://arxiv.org/abs/2605.06304",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
-     "link": "https://arxiv.org/abs/2605.20496",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Multimodal Physiological Decoding Reveals Individualized Arousal Dynamics in Closed-Loop Neurofeedback",
-     "link": "https://arxiv.org/abs/2610.04113",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Oscillatory Phase Coding Emerges in Adaptive RNNs for Flexible Working Memory",
-     "link": "https://arxiv.org/abs/2611.06932",
-     "date": "2026-11-09T00:00:00-05:00"
-    },
-    {
-     "title": "Embedding stochastic dynamics in latent manifolds of recurrent neural networks",
-     "link": "https://arxiv.org/abs/2602.14885",
-     "date": "2026-11-09T00:00:00-05:00"
-    }
-   ]
+   "items": []
   },
   {
    "title": "The Transmitter",
@@ -76,9 +20,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-09T05:00:40+00:00",
+   "latest": "2026-11-10T05:00:27+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Language development during the first 1,000 days; and more",
+     "link": "https://www.thetransmitter.org/spectrum/language-development-during-the-first-1000-days-and-more/",
+     "date": "2026-11-10T05:00:27+00:00"
+    },
+    {
+     "title": "What \u2018Brain Flows\u2019 gets right",
+     "link": "https://www.thetransmitter.org/reviews/what-brain-flows-gets-right/",
+     "date": "2026-11-10T05:00:01+00:00"
+    },
     {
      "title": "Amid funding uncertainty, graduate neuroscience programs in the U.S. adapt",
      "link": "https://www.thetransmitter.org/special-report-graduate-education-in-flux/amid-funding-uncertainty-graduate-neuroscience-programs-in-the-u-s-adapt/",
@@ -118,16 +72,6 @@
      "title": "\u2018Brain Flows: How Network Dynamics Compose the Human Mind,\u2019 an excerpt",
      "link": "https://www.thetransmitter.org/cognitive-neuroscience/brain-flows-how-network-dynamics-compose-the-human-mind-an-excerpt/",
      "date": "2026-11-03T05:00:54+00:00"
-    },
-    {
-     "title": "Prenatal pruning of neurons with copy number variants; and more",
-     "link": "https://www.thetransmitter.org/spectrum/prenatal-pruning-of-neurons-with-copy-number-variants-and-more/",
-     "date": "2026-11-03T05:00:17+00:00"
-    },
-    {
-     "title": "New Stanford initiative aims to build digital twin of human brain",
-     "link": "https://www.thetransmitter.org/funding/new-stanford-initiative-aims-to-build-digital-twin-of-human-brain/",
-     "date": "2026-11-02T17:02:56+00:00"
     }
    ]
   },
@@ -2526,24 +2470,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-09T16:46:59+00:00",
+   "latest": "2026-11-10T02:19:00+00:00",
    "status": 200,
    "items": [
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/09.html#a164659",
-     "date": "2026-11-09T16:46:59+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/09.html#a162009",
-     "date": "2026-11-09T16:20:09+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/09.html#a153244",
-     "date": "2026-11-09T15:32:44+00:00"
-    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/09.html#a143754",
@@ -2553,6 +2482,21 @@
      "title": "",
      "link": "http://scripting.com/2026/11/09.html#a145112",
      "date": "2026-11-09T14:51:12+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a162009",
+     "date": "2026-11-09T16:20:09+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a020947",
+     "date": "2026-11-10T02:09:47+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/09.html#a021900",
+     "date": "2026-11-10T02:19:00+00:00"
     },
     {
      "title": "",
