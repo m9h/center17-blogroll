@@ -2591,9 +2591,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-10T02:19:00+00:00",
+   "latest": "2026-11-10T16:30:12+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/10.html#a163012",
+     "date": "2026-11-10T16:30:12+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/10.html#a143303",
+     "date": "2026-11-10T14:33:03+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/09.html#a143754",
@@ -2997,9 +3007,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Changelog",
-   "latest": "2026-11-04T17:06:54+00:00",
+   "latest": "2026-11-10T15:48:43+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Custom fields",
+     "link": "https://ghost.org/changelog/custom-fields/",
+     "date": "2026-11-10T15:48:43+00:00"
+    },
     {
      "title": "Lifecycle triggers for automations",
      "link": "https://ghost.org/changelog/lifecycle-triggers-for-automations/",
@@ -3069,11 +3084,6 @@
      "title": "Gift subscriptions",
      "link": "https://ghost.org/changelog/gift-subscriptions/",
      "date": "2026-05-21T13:15:44+00:00"
-    },
-    {
-     "title": "Easy theme editing",
-     "link": "https://ghost.org/changelog/theme-editor/",
-     "date": "2026-05-14T20:38:10+00:00"
     }
    ]
   },

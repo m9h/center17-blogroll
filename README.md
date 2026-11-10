@@ -57,7 +57,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Center17](https://center17.org/rss/) | [center17.org](https://center17.org/) |  | this blog |
 | [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-10 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
-| [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-04 |  |
+| [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-10 |  |
 | [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-10-22 |  |
 | [Equinox releases](https://github.com/patrick-kidger/equinox/releases.atom) | [docs.kidger.site/equinox](https://docs.kidger.site/equinox/) | 2026-05-05 | Kidger stack |
 | [Diffrax releases](https://github.com/patrick-kidger/diffrax/releases.atom) | [docs.kidger.site/diffrax](https://docs.kidger.site/diffrax/) | 2026-02-18 | Kidger stack |
