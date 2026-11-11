@@ -956,9 +956,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-10T00:00:00+00:00",
+   "latest": "2026-11-11T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval",
+     "link": "https://elifesciences.org/articles/108972",
+     "date": "2026-11-11T00:00:00+00:00"
+    },
     {
      "title": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states",
      "link": "https://elifesciences.org/articles/106826",
@@ -970,13 +975,13 @@
      "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/109742",
+     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
+     "link": "https://elifesciences.org/articles/107651",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "Expectation-driven gain modulation of preparatory spatial attention",
-     "link": "https://elifesciences.org/articles/110315",
+     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/109742",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -985,9 +990,14 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
-     "link": "https://elifesciences.org/articles/107651",
+     "title": "Expectation-driven gain modulation of preparatory spatial attention",
+     "link": "https://elifesciences.org/articles/110315",
      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
+     "date": "2026-11-05T00:00:00+00:00"
     },
     {
      "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
@@ -997,11 +1007,6 @@
     {
      "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
      "link": "https://elifesciences.org/articles/108055",
-     "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
-     "link": "https://elifesciences.org/articles/112088",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1025,13 +1030,13 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-     "link": "https://elifesciences.org/articles/111371",
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
+     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+     "link": "https://elifesciences.org/articles/111371",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1040,8 +1045,8 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1092,11 +1097,6 @@
     {
      "title": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
      "link": "https://elifesciences.org/articles/108442",
-     "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-     "title": "Correction: Targeted degradation of aberrant tau in frontotemporal dementia patient-derived neuronal cell models",
-     "link": "https://elifesciences.org/articles/113533",
      "date": "2026-10-23T00:00:00+00:00"
     }
    ]
@@ -1249,11 +1249,16 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-11T07:15:50+00:00",
+   "latest": "2026-11-11T16:46:55+00:00",
    "status": 200,
    "items": [
     {
-     "title": "Qsiprep brain segmentation replication",
+     "title": "fMRI task-based GLM",
+     "link": "https://neurostars.org/t/fmri-task-based-glm/39106",
+     "date": "2026-11-11T16:46:55+00:00"
+    },
+    {
+     "title": "QSIPrep brain segmentation replication",
      "link": "https://neurostars.org/t/qsiprep-brain-segmentation-replication/39105",
      "date": "2026-11-11T07:15:50+00:00"
     },
@@ -1396,11 +1401,6 @@
      "title": "We\u2019re hiring a Data Manager and Data Concierge to help make cutting-edge cerebellar research data organized, accessible, and useful across the scientific community",
      "link": "https://neurostars.org/t/we-re-hiring-a-data-manager-and-data-concierge-to-help-make-cutting-edge-cerebellar-research-data-organized-accessible-and-useful-across-the-scientific-community/36476",
      "date": "2026-10-21T20:44:57+00:00"
-    },
-    {
-     "title": "QSIPrep \"AttributeError: Can only use .str accessor with string values!\"",
-     "link": "https://neurostars.org/t/qsiprep-attributeerror-can-only-use-str-accessor-with-string-values/36474",
-     "date": "2026-10-21T13:50:57+00:00"
     }
    ]
   },
@@ -2571,9 +2571,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-10T22:14:43+00:00",
+   "latest": "2026-11-11T14:05:35+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Listen to Bernie",
+     "link": "http://scripting.com/2026/11/11/140535.html?title=listenToBernie",
+     "date": "2026-11-11T14:05:35+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/10.html#a143303",
@@ -2768,11 +2773,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/01.html#a140722",
      "date": "2026-11-01T14:07:22+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/01.html#a210613",
-     "date": "2026-11-01T21:06:13+00:00"
     }
    ]
   },
