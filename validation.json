@@ -8,128 +8,108 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-10T00:00:00-05:00",
+   "latest": "2026-11-11T00:00:00-05:00",
    "status": 200,
    "items": [
     {
-     "title": "Specific, cumulative and reversible odour learning in a whole-brain connectome model of Drosophila",
-     "link": "https://arxiv.org/abs/2611.09930",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "A probabilistic model of visual segmentation explains early visual cortical dynamics",
+     "link": "https://arxiv.org/abs/2611.13316",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Pixels over Symbols: Sensory Realism Improves Behavioral Alignment in Models of Cognition",
-     "link": "https://arxiv.org/abs/2611.10565",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Human and Machine Annotations Predict Brain Responses to Naturalistic Movies Across Development",
+     "link": "https://arxiv.org/abs/2611.13637",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "NeuroHorizon: Long-Horizon Forecasting of Neural Population Activity with Hierarchical Memory",
-     "link": "https://arxiv.org/abs/2611.10617",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Similar visual tuning conceals different recovery dynamics in a model of macaque V1",
+     "link": "https://arxiv.org/abs/2611.13692",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "From MNH to the Friedman--Komogortsev Method---which changes improve eye-movement classification?",
-     "link": "https://arxiv.org/abs/2611.11519",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Neuromodulation Through Intrinsic Noise",
+     "link": "https://arxiv.org/abs/2611.13780",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Language processing in the autistic brain: A meta-analysis of neuroimaging studies across modalities and age",
-     "link": "https://arxiv.org/abs/2611.11927",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Optimization principles, revisited",
+     "link": "https://arxiv.org/abs/2611.14381",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks",
-     "link": "https://arxiv.org/abs/2611.12627",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Grey matter sublayer thickness estimation in themouse cerebellum",
+     "link": "https://arxiv.org/abs/1901.02499",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Qualiaphobic artificial neural networks (and why to build them)",
-     "link": "https://arxiv.org/abs/2611.12809",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Differential Diagnosis of Frontotemporal Dementia and Alzheimer's Disease using Generative Adversarial Network",
+     "link": "https://arxiv.org/abs/2109.05627",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks",
-     "link": "https://arxiv.org/abs/2611.09995",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Predicting Time-to-conversion for Dementia of Alzheimer's Type using Multi-modal Deep Survival Analysis",
+     "link": "https://arxiv.org/abs/2205.01188",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Perception, Not Reasoning, Limits Visual Theory of Mind",
-     "link": "https://arxiv.org/abs/2611.10694",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "IC-GNN: Modeling Individualized Brain Community Organization for Disease Prediction",
+     "link": "https://arxiv.org/abs/2611.13070",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Learning Actionable Information Landscapes for Multimodal Active Sensing in Hawkmoths",
-     "link": "https://arxiv.org/abs/2611.11011",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Orthographic depth at two scales, with English also matched for lexicon size",
+     "link": "https://arxiv.org/abs/2611.13400",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "MICE: Multi-animal Interaction Context Encoder - A Hierarchical Foundation Model for Mouse Behavior",
-     "link": "https://arxiv.org/abs/2611.11644",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States",
+     "link": "https://arxiv.org/abs/2611.13581",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "TrajLift: Lifting Memory Recall Trajectories with Latency-Modulated Heat Diffusion",
-     "link": "https://arxiv.org/abs/2611.12197",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing",
+     "link": "https://arxiv.org/abs/2611.13681",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "K-prop: Deep Online Learning by Backpropagating Temporal Kernels",
-     "link": "https://arxiv.org/abs/2611.12530",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
+     "link": "https://arxiv.org/abs/2611.14035",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Burstiness and interpersonal foraging between human infants and caregivers in the vocal domain",
-     "link": "https://arxiv.org/abs/2505.01545",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+     "link": "https://arxiv.org/abs/2611.14498",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Characterizing sleep stages through the complexity--weighted-entropy plane in human intracranial data and in a whole-brain model",
-     "link": "https://arxiv.org/abs/2511.09243",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+     "link": "https://arxiv.org/abs/2611.14508",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Scaling signatures of near-critical dynamics in large-scale human resting-state electrophysiology",
-     "link": "https://arxiv.org/abs/2602.17820",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction",
+     "link": "https://arxiv.org/abs/2602.04512",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "INTENSE: Information-theoretic discovery of behavioral selectivity of neurons in calcium imaging data",
-     "link": "https://arxiv.org/abs/2603.04622",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Towards full-stack functionalist theories of consciousness: Identifying the functional profile",
+     "link": "https://arxiv.org/abs/2609.33366",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "On Agentic Behavioral Modeling",
-     "link": "https://arxiv.org/abs/2604.27894",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics",
+     "link": "https://arxiv.org/abs/2603.06639",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Mechanistic bridges from receptors to whole-brain dynamics: promise and limits of master-equation mean-field models",
-     "link": "https://arxiv.org/abs/2608.00306",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Linear equivalence of nonlinear recurrent neural networks",
+     "link": "https://arxiv.org/abs/2604.23489",
+     "date": "2026-11-11T00:00:00-05:00"
     },
     {
-     "title": "Structure is in the zoom: probing neural symmetry through dimensionality scaling",
-     "link": "https://arxiv.org/abs/2611.08506",
-     "date": "2026-11-10T00:00:00-05:00"
-    },
-    {
-     "title": "Learning Reusable Behavioral Motifs for Continuous Animal Behavior Modeling",
-     "link": "https://arxiv.org/abs/2506.15190",
-     "date": "2026-11-10T00:00:00-05:00"
-    },
-    {
-     "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-     "link": "https://arxiv.org/abs/2603.28764",
-     "date": "2026-11-10T00:00:00-05:00"
-    },
-    {
-     "title": "Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks",
-     "link": "https://arxiv.org/abs/2609.04134",
-     "date": "2026-11-10T00:00:00-05:00"
-    },
-    {
-     "title": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
-     "link": "https://arxiv.org/abs/2611.06700",
-     "date": "2026-11-10T00:00:00-05:00"
+     "title": "Embodiment-aware control by inference over the operator: a simulation study",
+     "link": "https://arxiv.org/abs/2609.38437",
+     "date": "2026-11-11T00:00:00-05:00"
     }
    ]
   },

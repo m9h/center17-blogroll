@@ -9,7 +9,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
-| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) | 2026-11-10 | daily preprints |
+| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) | 2026-11-11 | daily preprints |
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-10 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
