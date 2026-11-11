@@ -600,9 +600,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-   "latest": "2026-11-07T00:00:00+00:00",
+   "latest": "2026-11-10T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Computational Modeling of Effort Allocation in First-Episode Psychosis and First-Episode Bipolar Disorder: Cognitive and Clinical Correlates",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00339-3/fulltext?rss=yes",
+     "date": "2026-11-10T00:00:00+00:00"
+    },
     {
      "title": "Examining the Relationship Between Regional Vulnerability and Psychotic-Like Experiences in Adolescents: The Potential Mediating Role of Cognition",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00338-1/fulltext?rss=yes",
@@ -797,11 +802,6 @@
      "title": "Atypical Development of Resting-State Periodic and Aperiodic Electroencephalography Activity in 22q11.2 Deletion Syndrome",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00216-8/fulltext?rss=yes",
      "date": "2026-07-28T00:00:00+00:00"
-    },
-    {
-     "title": "Reply to: Medication Direction Is Essential for Interpreting Cerebellar Volume Differences in ENIGMA-OCD",
-     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00212-0/fulltext?rss=yes",
-     "date": "2026-07-27T00:00:00+00:00"
     }
    ]
   },
@@ -813,9 +813,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-06T14:00:00+00:00",
+   "latest": "2026-11-10T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Beyond unseen entities: Auditable cold-start evaluation for drug interaction prediction",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014927",
+     "date": "2026-11-10T14:00:00+00:00"
+    },
+    {
+     "title": "Estimating rates of SARS-CoV-2 lineage spread using graph spectra from genetic sequence data",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014920",
+     "date": "2026-11-10T14:00:00+00:00"
+    },
     {
      "title": "Ten simple rules for a department chair",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
@@ -954,16 +964,6 @@
     {
      "title": "Individualised electrophysiological neural field models for the assessment of thalamocortical function in disorders of consciousness: A multicentre study",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014905",
-     "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "The evolutionary advantage of replacers in the Moran process",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014892",
-     "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-     "title": "Early vs late fusion of qMIDS with machine learning based classifiers for oral cancer diagnosis from gene expression data",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014888",
      "date": "2026-10-28T14:00:00+00:00"
     }
    ]
@@ -1778,9 +1778,9 @@
      "date": "2026-11-10T06:13:43+00:00"
     },
     {
-     "title": "dev_nightly_tests_rok8: update only the req files (#1492)",
+     "title": "dev_nightly_tests_rok8: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
-     "date": "2026-11-10T01:27:13+00:00"
+     "date": "2026-11-10T06:13:43+00:00"
     },
     {
      "title": "dev_nightly_tests_darwin_arm64: Update babyseg hashes in req files (#1493)",
@@ -1803,9 +1803,9 @@
      "date": "2026-11-10T06:13:43+00:00"
     },
     {
-     "title": "dev_nightly_build_rok8: update only the req files (#1492)",
+     "title": "dev_nightly_build_rok8: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-10T01:27:13+00:00"
+     "date": "2026-11-10T06:13:43+00:00"
     },
     {
      "title": "dev_nightly_build_darwin_arm64: Update babyseg hashes in req files (#1493)",
@@ -2591,9 +2591,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-10T16:30:12+00:00",
+   "latest": "2026-11-10T22:14:43+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/10.html#a143303",
+     "date": "2026-11-10T14:33:03+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/10.html#a163012",
@@ -2601,8 +2606,13 @@
     },
     {
      "title": "",
-     "link": "http://scripting.com/2026/11/10.html#a143303",
-     "date": "2026-11-10T14:33:03+00:00"
+     "link": "http://scripting.com/2026/11/10.html#a221128",
+     "date": "2026-11-10T22:11:28+00:00"
+    },
+    {
+     "title": "A parable from the West Wing",
+     "link": "http://scripting.com/2026/11/10/221443.html?title=aParableFromTheWestWing",
+     "date": "2026-11-10T22:14:43+00:00"
     },
     {
      "title": "",
