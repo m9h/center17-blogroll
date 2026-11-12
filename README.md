@@ -13,13 +13,13 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-12 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
-| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-12 |  |
+| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-05 |  |
 | [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-07 |  |
-| [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-11 |  |
+| [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-12 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-10 | Cognitive Neuroscience and Neuroimaging |
 | [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-11 |  |
-| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-11 |  |
+| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-12 |  |
 
 ## Neuroimaging
 
@@ -43,7 +43,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 |---|---|---|---|
 | [Brain Stimulation (journal)](https://rss.sciencedirect.com/publication/science/1935861X) | [www.brainstimjrnl.com](https://www.brainstimjrnl.com/) |  |  |
 | [Neuromodulation (INS journal)](https://rss.sciencedirect.com/publication/science/10947159) | [www.neuromodulationjournal.org](https://www.neuromodulationjournal.org/) |  |  |
-| [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-11 |  |
+| [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-12 |  |
 | [SimNIBS releases](https://github.com/simnibs/simnibs/releases.atom) | [simnibs.github.io/simnibs](https://simnibs.github.io/simnibs/) | 2026-03-03 |  |
 | [TI-Toolbox releases](https://github.com/idossha/TI-Toolbox/releases.atom) | [github.com/idossha/TI-Toolbox](https://github.com/idossha/TI-Toolbox) | 2026-11-03 | temporal interference |
 | [OpenBCI blog](https://openbci.com/community/feed/) | [openbci.com/community](https://openbci.com/community/) | 2026-10-23 |  |
@@ -55,7 +55,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [Center17](https://center17.org/rss/) | [center17.org](https://center17.org/) |  | this blog |
-| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-11 | RSS, OPML, textcasting |
+| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-12 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
 | [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-10 |  |
 | [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-10-22 |  |

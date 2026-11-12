@@ -20,9 +20,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-12T05:00:46+00:00",
+   "latest": "2026-11-12T16:02:22+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "New phase of BRAIN Initiative spawns basal ganglia \u2018parts list\u2019",
+     "link": "https://www.thetransmitter.org/basal-ganglia/new-phase-of-brain-initiative-spawns-basal-ganglia-parts-list/",
+     "date": "2026-11-12T16:02:22+00:00"
+    },
     {
      "title": "Machine-learning model spots autism-linked variants that scramble splicing",
      "link": "https://www.thetransmitter.org/spectrum/machine-learning-model-spots-autism-linked-variants-that-scramble-splicing/",
@@ -67,11 +72,6 @@
      "title": "Brain registers spatial location outside hippocampus",
      "link": "https://www.thetransmitter.org/systems-neuroscience/brain-registers-spatial-location-outside-hippocampus/",
      "date": "2026-11-05T05:00:26+00:00"
-    },
-    {
-     "title": "The three-banded panther worm is rewriting the story of brain evolution",
-     "link": "https://www.thetransmitter.org/neuros-ark/the-three-banded-panther-worm-is-rewriting-the-story-of-brain-evolution/",
-     "date": "2026-11-04T05:00:30+00:00"
     }
    ]
   },
@@ -107,14 +107,9 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
-   "latest": "2026-11-12T00:00:00+00:00",
+   "latest": "2026-11-05T00:00:00+00:00",
    "status": 200,
    "items": [
-    {
-     "title": "A decision-making framework for neuromodulation modalities in psychiatric disorders",
-     "link": "https://www.nature.com/articles/s44220-026-00758-7",
-     "date": "2026-11-12T00:00:00+00:00"
-    },
     {
      "title": "Distributed EEG phase-resetting dynamics predict depressive symptom severity in untreated adults",
      "link": "https://www.nature.com/articles/s44220-026-00757-8",
@@ -149,6 +144,11 @@
      "title": "Psychological risk, protection and support in the context of dementia",
      "link": "https://www.nature.com/articles/s44220-026-00748-9",
      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "title": "Maternal mental health remains a missing priority",
+     "link": "https://www.nature.com/articles/s44220-026-00752-z",
+     "date": "2026-10-22T00:00:00+00:00"
     }
    ]
   },
@@ -213,9 +213,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-11T00:00:00+00:00",
+   "latest": "2026-11-12T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses",
+     "link": "https://www.nature.com/articles/s41380-026-03943-3",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
     {
      "title": "Non-overlapping rather than \u201copposing\u201d effects of microglial and macrophagic C3ar1 signaling",
      "link": "https://www.nature.com/articles/s41380-026-03961-1",
@@ -250,11 +255,6 @@
      "title": "Serum selenium, iron and rubidium are altered in treatment-resistant schizophrenia",
      "link": "https://www.nature.com/articles/s41380-026-03855-2",
      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-     "title": "Longitudinal prediction of adolescent depression from environmental and polygenic risk scores",
-     "link": "https://www.nature.com/articles/s41380-026-03934-4",
-     "date": "2026-11-01T00:00:00+00:00"
     }
    ]
   },
@@ -465,7 +465,7 @@
      "date": "2026-09-15T00:00:00+00:00"
     },
     {
-     "title": "Comparisons of the structure and function of higher cortical circuits in marmosets and macaques: Models for mental health disorders",
+     "title": "Comparisons of the Structure and Function of Higher Cortical Circuits in Marmosets and Macaques: Models for Mental Health Disorders",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01515-5/fulltext?rss=yes",
      "date": "2026-09-09T00:00:00+00:00"
     }
@@ -855,9 +855,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-11T00:00:00+00:00",
+   "latest": "2026-11-12T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
+     "link": "https://elifesciences.org/articles/108988",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
+     "link": "https://elifesciences.org/articles/110559",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
     {
      "title": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval",
      "link": "https://elifesciences.org/articles/108972",
@@ -874,18 +884,8 @@
      "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
-     "link": "https://elifesciences.org/articles/107651",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
      "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
      "link": "https://elifesciences.org/articles/109742",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "The resource elasticity of control",
-     "link": "https://elifesciences.org/articles/105507",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -894,13 +894,23 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
-     "link": "https://elifesciences.org/articles/112088",
-     "date": "2026-11-05T00:00:00+00:00"
+     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
+     "link": "https://elifesciences.org/articles/107651",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "The resource elasticity of control",
+     "link": "https://elifesciences.org/articles/105507",
+     "date": "2026-11-06T00:00:00+00:00"
     },
     {
      "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
      "link": "https://elifesciences.org/articles/111256",
+     "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -924,18 +934,8 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-     "link": "https://elifesciences.org/articles/102095",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-     "link": "https://elifesciences.org/articles/111371",
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -944,18 +944,28 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
+     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+     "link": "https://elifesciences.org/articles/102095",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
-     "link": "https://elifesciences.org/articles/112062",
-     "date": "2026-10-29T00:00:00+00:00"
+     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+     "link": "https://elifesciences.org/articles/111371",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
+     "date": "2026-10-30T00:00:00+00:00"
     },
     {
      "title": "Revealing the benefit of eye motion for acuity under emulated cone loss",
      "link": "https://elifesciences.org/articles/111289",
+     "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+     "title": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
+     "link": "https://elifesciences.org/articles/112062",
      "date": "2026-10-29T00:00:00+00:00"
     },
     {
@@ -979,24 +989,14 @@
      "date": "2026-10-26T00:00:00+00:00"
     },
     {
-     "title": "Open source laser-scanning photostimulation for neuroscience with Zapit",
-     "link": "https://elifesciences.org/articles/111872",
-     "date": "2026-10-26T00:00:00+00:00"
-    },
-    {
      "title": "The transcription factor BCL11A restores differentiation potential to aged oligodendrocyte progenitor cells",
      "link": "https://elifesciences.org/articles/110038",
      "date": "2026-10-26T00:00:00+00:00"
     },
     {
-     "title": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
-     "link": "https://elifesciences.org/articles/111490",
-     "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-     "title": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
-     "link": "https://elifesciences.org/articles/108442",
-     "date": "2026-10-23T00:00:00+00:00"
+     "title": "Open source laser-scanning photostimulation for neuroscience with Zapit",
+     "link": "https://elifesciences.org/articles/111872",
+     "date": "2026-10-26T00:00:00+00:00"
     }
    ]
   }
@@ -1928,9 +1928,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-11T00:00:00+00:00",
+   "latest": "2026-11-12T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97c",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
     {
      "title": "Influence of out-of-plane electric fields in an ex vivo model of transcranial electrical stimulation",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb04a",
@@ -1974,11 +1979,6 @@
     {
      "title": "Transformer networks are robust learners of source localization for EEG measurements",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82c",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "REFS: robust EEG feature selection with incomplete labels for multi-dimensional emotion recognition",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97e",
      "date": "2026-11-06T00:00:00+00:00"
     }
    ]
@@ -2470,9 +2470,29 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-11T18:55:07+00:00",
+   "latest": "2026-11-12T15:38:48+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/12.html#a151841",
+     "date": "2026-11-12T15:18:41+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/12.html#a153848",
+     "date": "2026-11-12T15:38:48+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/12.html#a145117",
+     "date": "2026-11-12T14:51:17+00:00"
+    },
+    {
+     "title": "What to do with billions of dollars?",
+     "link": "http://scripting.com/2026/11/12/144522.html?title=whatToDoWithBillionsOfDollars",
+     "date": "2026-11-12T14:45:22+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/11.html#a185507",
@@ -2652,26 +2672,6 @@
      "title": "Frontier's debugger is back",
      "link": "http://scripting.com/2026/11/03/172109.html?title=frontiersDebuggerIsBack",
      "date": "2026-11-03T17:21:09+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/02.html#a163902",
-     "date": "2026-11-02T16:39:02+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/02.html#a193741",
-     "date": "2026-11-02T19:37:41+00:00"
-    },
-    {
-     "title": "What's on my plate",
-     "link": "http://scripting.com/2026/11/02/142343.html?title=whatsOnMyPlate",
-     "date": "2026-11-02T14:23:43+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/01.html#a132405",
-     "date": "2026-11-01T13:24:05+00:00"
     }
    ]
   },
