@@ -121,9 +121,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-10T05:00:27+00:00",
+   "latest": "2026-11-11T18:44:10+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Future of AI brain models sparks debate",
+     "link": "https://www.thetransmitter.org/systems-neuroscience/future-of-ai-brain-models-sparks-debate/",
+     "date": "2026-11-11T18:44:10+00:00"
+    },
     {
      "title": "Language development during the first 1,000 days; and more",
      "link": "https://www.thetransmitter.org/spectrum/language-development-during-the-first-1000-days-and-more/",
@@ -168,11 +173,6 @@
      "title": "Does cognition happen in brain areas or between them?",
      "link": "https://www.thetransmitter.org/brain-inspired/does-cognition-happen-in-brain-areas-or-between-them/",
      "date": "2026-11-04T05:00:13+00:00"
-    },
-    {
-     "title": "\u2018Brain Flows: How Network Dynamics Compose the Human Mind,\u2019 an excerpt",
-     "link": "https://www.thetransmitter.org/cognitive-neuroscience/brain-flows-how-network-dynamics-compose-the-human-mind-an-excerpt/",
-     "date": "2026-11-03T05:00:54+00:00"
     }
    ]
   },
@@ -793,9 +793,39 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-10T14:00:00+00:00",
+   "latest": "2026-11-11T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Pepti-DrugPhAI: Multimodal AI-evaluator for functional pharmacokinetics and toxicity of peptides",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014956",
+     "date": "2026-11-11T14:00:00+00:00"
+    },
+    {
+     "title": "Sphinx: An R package for adaptive spatial neighborhood modeling and functional analysis in spatial omics",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014954",
+     "date": "2026-11-11T14:00:00+00:00"
+    },
+    {
+     "title": "Burst-to-burst information resetting in sequential rhythmic neural activity",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014953",
+     "date": "2026-11-11T14:00:00+00:00"
+    },
+    {
+     "title": "An antigen-specific protein language model guides CDR optimization for antibody design",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014924",
+     "date": "2026-11-11T14:00:00+00:00"
+    },
+    {
+     "title": "PhysInfer: A physics-constrained neural network for adaptive inference of transcriptional bursting from single-cell RNA-seq",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014904",
+     "date": "2026-11-11T14:00:00+00:00"
+    },
+    {
+     "title": "FDTest: Fluctuation-dissipation theorem as a test for memory effects in brain dynamics",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014883",
+     "date": "2026-11-11T14:00:00+00:00"
+    },
     {
      "title": "Beyond unseen entities: Auditable cold-start evaluation for drug interaction prediction",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014927",
@@ -915,36 +945,6 @@
      "title": "Ten simple rules for teaching practical AI to health data teams",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014915",
      "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014906",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Degeneracy in neuronal bifurcation landscapes: Equivalent bifurcation sequences across distinct parameter sets",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014893",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Taxonova: Deep learning enables fast and confidence-aware microbiome species-level amplicon classification",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014912",
-     "date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-     "title": "From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898",
-     "date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-     "title": "Cd47 deficiency in mouse brain under excitotoxic stress",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014897",
-     "date": "2026-10-29T14:00:00+00:00"
-    },
-    {
-     "title": "Individualised electrophysiological neural field models for the assessment of thalamocortical function in disorders of consciousness: A multicentre study",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014905",
-     "date": "2026-10-28T14:00:00+00:00"
     }
    ]
   },
@@ -2571,9 +2571,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-11T14:05:35+00:00",
+   "latest": "2026-11-11T18:55:07+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/11.html#a185507",
+     "date": "2026-11-11T18:55:07+00:00"
+    },
     {
      "title": "Listen to Bernie",
      "link": "http://scripting.com/2026/11/11/140535.html?title=listenToBernie",
@@ -2768,11 +2773,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/01.html#a132405",
      "date": "2026-11-01T13:24:05+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/01.html#a140722",
-     "date": "2026-11-01T14:07:22+00:00"
     }
    ]
   },
