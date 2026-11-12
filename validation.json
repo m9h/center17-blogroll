@@ -8,110 +8,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-11T00:00:00-05:00",
+   "latest": null,
    "status": 200,
-   "items": [
-    {
-     "title": "A probabilistic model of visual segmentation explains early visual cortical dynamics",
-     "link": "https://arxiv.org/abs/2611.13316",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Human and Machine Annotations Predict Brain Responses to Naturalistic Movies Across Development",
-     "link": "https://arxiv.org/abs/2611.13637",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Similar visual tuning conceals different recovery dynamics in a model of macaque V1",
-     "link": "https://arxiv.org/abs/2611.13692",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Neuromodulation Through Intrinsic Noise",
-     "link": "https://arxiv.org/abs/2611.13780",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Optimization principles, revisited",
-     "link": "https://arxiv.org/abs/2611.14381",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Grey matter sublayer thickness estimation in themouse cerebellum",
-     "link": "https://arxiv.org/abs/1901.02499",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Differential Diagnosis of Frontotemporal Dementia and Alzheimer's Disease using Generative Adversarial Network",
-     "link": "https://arxiv.org/abs/2109.05627",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Predicting Time-to-conversion for Dementia of Alzheimer's Type using Multi-modal Deep Survival Analysis",
-     "link": "https://arxiv.org/abs/2205.01188",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "IC-GNN: Modeling Individualized Brain Community Organization for Disease Prediction",
-     "link": "https://arxiv.org/abs/2611.13070",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Orthographic depth at two scales, with English also matched for lexicon size",
-     "link": "https://arxiv.org/abs/2611.13400",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States",
-     "link": "https://arxiv.org/abs/2611.13581",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing",
-     "link": "https://arxiv.org/abs/2611.13681",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
-     "link": "https://arxiv.org/abs/2611.14035",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
-     "link": "https://arxiv.org/abs/2611.14498",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
-     "link": "https://arxiv.org/abs/2611.14508",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction",
-     "link": "https://arxiv.org/abs/2602.04512",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Towards full-stack functionalist theories of consciousness: Identifying the functional profile",
-     "link": "https://arxiv.org/abs/2609.33366",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics",
-     "link": "https://arxiv.org/abs/2603.06639",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Linear equivalence of nonlinear recurrent neural networks",
-     "link": "https://arxiv.org/abs/2604.23489",
-     "date": "2026-11-11T00:00:00-05:00"
-    },
-    {
-     "title": "Embodiment-aware control by inference over the operator: a simulation study",
-     "link": "https://arxiv.org/abs/2609.38437",
-     "date": "2026-11-11T00:00:00-05:00"
-    }
-   ]
+   "items": []
   },
   {
    "title": "The Transmitter",
@@ -121,9 +20,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-11T18:44:10+00:00",
+   "latest": "2026-11-12T05:00:46+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Machine-learning model spots autism-linked variants that scramble splicing",
+     "link": "https://www.thetransmitter.org/spectrum/machine-learning-model-spots-autism-linked-variants-that-scramble-splicing/",
+     "date": "2026-11-12T05:00:46+00:00"
+    },
     {
      "title": "Future of AI brain models sparks debate",
      "link": "https://www.thetransmitter.org/systems-neuroscience/future-of-ai-brain-models-sparks-debate/",
@@ -168,11 +72,6 @@
      "title": "The three-banded panther worm is rewriting the story of brain evolution",
      "link": "https://www.thetransmitter.org/neuros-ark/the-three-banded-panther-worm-is-rewriting-the-story-of-brain-evolution/",
      "date": "2026-11-04T05:00:30+00:00"
-    },
-    {
-     "title": "Does cognition happen in brain areas or between them?",
-     "link": "https://www.thetransmitter.org/brain-inspired/does-cognition-happen-in-brain-areas-or-between-them/",
-     "date": "2026-11-04T05:00:13+00:00"
     }
    ]
   },
@@ -1739,9 +1638,14 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-10T06:13:43+00:00",
+   "latest": "2026-11-12T01:23:04+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "a8.3.0",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/a8.3.0",
+     "date": "2026-11-12T01:23:04+00:00"
+    },
     {
      "title": "dev_nightly_tests_ub24: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
@@ -1785,11 +1689,6 @@
     {
      "title": "dev_nightly_build_rok8: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-10T06:13:43+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_arm64: Update babyseg hashes in req files (#1493)",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
      "date": "2026-11-10T06:13:43+00:00"
     }
    ]
