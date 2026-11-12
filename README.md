@@ -13,7 +13,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-12 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
-| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-05 |  |
+| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-12 |  |
 | [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-07 |  |
 | [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-11 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
