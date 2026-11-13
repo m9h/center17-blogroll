@@ -324,9 +324,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-12T00:00:00+00:00",
+   "latest": "2026-11-13T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder",
+     "link": "https://www.nature.com/articles/s41380-026-03938-0",
+     "date": "2026-11-13T00:00:00+00:00"
+    },
     {
      "title": "Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses",
      "link": "https://www.nature.com/articles/s41380-026-03943-3",
@@ -360,11 +365,6 @@
     {
      "title": "Dynamic epigenetic changes during antidepressant pharmacotherapy in major depressive disorder",
      "link": "https://www.nature.com/articles/s41380-026-03945-1",
-     "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-     "title": "Serum selenium, iron and rubidium are altered in treatment-resistant schizophrenia",
-     "link": "https://www.nature.com/articles/s41380-026-03855-2",
      "date": "2026-11-02T00:00:00+00:00"
     }
    ]
@@ -2581,9 +2581,39 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-12T15:38:48+00:00",
+   "latest": "2026-11-13T18:25:51+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/13.html#a182551",
+     "date": "2026-11-13T18:25:51+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/13.html#a170644",
+     "date": "2026-11-13T17:06:44+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/13.html#a182112",
+     "date": "2026-11-13T18:21:12+00:00"
+    },
+    {
+     "title": "A Substack experiment",
+     "link": "http://scripting.com/2026/11/13/154754.html?title=aSubstackExperiment",
+     "date": "2026-11-13T15:47:54+00:00"
+    },
+    {
+     "title": "Buttigieg for Speaker",
+     "link": "http://scripting.com/2026/11/13/151519.html?title=buttigiegForSpeaker",
+     "date": "2026-11-13T15:15:19+00:00"
+    },
+    {
+     "title": "Testing BonBon feature",
+     "link": "http://scripting.com/2026/11/13/171434.html?title=testingBonbonFeature",
+     "date": "2026-11-13T17:14:34+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/12.html#a151841",
@@ -2753,36 +2783,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/05.html#a215845",
      "date": "2026-11-05T21:58:45+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/05.html#a141815",
-     "date": "2026-11-05T14:18:15+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/05.html#a155711",
-     "date": "2026-11-05T15:57:11+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/05.html#a142927",
-     "date": "2026-11-05T14:29:27+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/04.html#a162135",
-     "date": "2026-11-04T16:21:35+00:00"
-    },
-    {
-     "title": "It's time for citizens to really unite",
-     "link": "http://scripting.com/2026/11/04/154537.html?title=itsTimeForCitizensToReallyUnite",
-     "date": "2026-11-04T15:45:37+00:00"
-    },
-    {
-     "title": "Frontier's debugger is back",
-     "link": "http://scripting.com/2026/11/03/172109.html?title=frontiersDebuggerIsBack",
-     "date": "2026-11-03T17:21:09+00:00"
     }
    ]
   },
