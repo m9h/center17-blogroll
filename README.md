@@ -10,11 +10,11 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) |  | daily preprints |
-| [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-12 | Simons Foundation neuroscience news |
+| [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-13 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
 | [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-12 |  |
-| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-12 |  |
+| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-07 |  |
 | [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-12 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-10 | Cognitive Neuroscience and Neuroimaging |
@@ -43,7 +43,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 |---|---|---|---|
 | [Brain Stimulation (journal)](https://rss.sciencedirect.com/publication/science/1935861X) | [www.brainstimjrnl.com](https://www.brainstimjrnl.com/) |  |  |
 | [Neuromodulation (INS journal)](https://rss.sciencedirect.com/publication/science/10947159) | [www.neuromodulationjournal.org](https://www.neuromodulationjournal.org/) |  |  |
-| [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-12 |  |
+| [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-13 |  |
 | [SimNIBS releases](https://github.com/simnibs/simnibs/releases.atom) | [simnibs.github.io/simnibs](https://simnibs.github.io/simnibs/) | 2026-03-03 |  |
 | [TI-Toolbox releases](https://github.com/idossha/TI-Toolbox/releases.atom) | [github.com/idossha/TI-Toolbox](https://github.com/idossha/TI-Toolbox) | 2026-11-03 | temporal interference |
 | [OpenBCI blog](https://openbci.com/community/feed/) | [openbci.com/community](https://openbci.com/community/) | 2026-10-23 |  |
