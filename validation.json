@@ -107,9 +107,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
-   "latest": "2026-11-05T00:00:00+00:00",
+   "latest": "2026-11-12T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A decision-making framework for neuromodulation modalities in psychiatric disorders",
+     "link": "https://www.nature.com/articles/s44220-026-00758-7",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
     {
      "title": "Distributed EEG phase-resetting dynamics predict depressive symptom severity in untreated adults",
      "link": "https://www.nature.com/articles/s44220-026-00757-8",
@@ -144,11 +149,6 @@
      "title": "Psychological risk, protection and support in the context of dementia",
      "link": "https://www.nature.com/articles/s44220-026-00748-9",
      "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-     "title": "Maternal mental health remains a missing priority",
-     "link": "https://www.nature.com/articles/s44220-026-00752-z",
-     "date": "2026-10-22T00:00:00+00:00"
     }
    ]
   },
@@ -160,9 +160,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-07T00:00:00+00:00",
+   "latest": "2026-11-12T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Emerging roles of the <i>DLK1-DIO3</i> imprinted domain in neurodevelopment and complex neurological and psychiatric disorders",
+     "link": "https://www.nature.com/articles/s41398-026-04527-z",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
     {
      "title": "Cellular senescence changes and their association with brain structure in schizophrenia and major depressive disorder",
      "link": "https://www.nature.com/articles/s41398-026-04538-w",
@@ -196,11 +201,6 @@
     {
      "title": "Treating diagnostic frameworks as information systems: normative implications and opportunities",
      "link": "https://www.nature.com/articles/s41398-026-04369-9",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "A precision health approach to medication management in neurodevelopmental conditions: a model development and validation study using four international cohorts",
-     "link": "https://www.nature.com/articles/s41398-026-04541-1",
      "date": "2026-11-04T00:00:00+00:00"
     }
    ]
@@ -692,9 +692,14 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-11T14:00:00+00:00",
+   "latest": "2026-11-12T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Decomposition of the <i>S. aureus</i> pangenome reveals evolving genetic repertoire associated with adaptation and virulence",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014910",
+     "date": "2026-11-12T14:00:00+00:00"
+    },
     {
      "title": "Pepti-DrugPhAI: Multimodal AI-evaluator for functional pharmacokinetics and toxicity of peptides",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014956",
@@ -839,11 +844,6 @@
      "title": "Coupled beta and high-frequency oscillations emerge from synchronized bursting in a minimal model of the parkinsonian subthalamic nucleus",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014921",
      "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for teaching practical AI to health data teams",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014915",
-     "date": "2026-10-30T14:00:00+00:00"
     }
    ]
   },
@@ -884,18 +884,8 @@
      "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/109742",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
      "title": "Expectation-driven gain modulation of preparatory spatial attention",
      "link": "https://elifesciences.org/articles/110315",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
-     "link": "https://elifesciences.org/articles/107651",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -904,18 +894,28 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
+     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
+     "link": "https://elifesciences.org/articles/107651",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/109742",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
      "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
      "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
-     "link": "https://elifesciences.org/articles/112088",
+     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/108055",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/108055",
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -934,16 +934,6 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-     "link": "https://elifesciences.org/articles/108212",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Fitness level, but not sex, affects exercise-induced pain modulation",
-     "link": "https://elifesciences.org/articles/109061",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
      "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
      "link": "https://elifesciences.org/articles/102095",
      "date": "2026-10-30T00:00:00+00:00"
@@ -951,6 +941,16 @@
     {
      "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
      "link": "https://elifesciences.org/articles/111371",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+     "link": "https://elifesciences.org/articles/108212",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Fitness level, but not sex, affects exercise-induced pain modulation",
+     "link": "https://elifesciences.org/articles/109061",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -989,13 +989,13 @@
      "date": "2026-10-26T00:00:00+00:00"
     },
     {
-     "title": "The transcription factor BCL11A restores differentiation potential to aged oligodendrocyte progenitor cells",
-     "link": "https://elifesciences.org/articles/110038",
+     "title": "Open source laser-scanning photostimulation for neuroscience with Zapit",
+     "link": "https://elifesciences.org/articles/111872",
      "date": "2026-10-26T00:00:00+00:00"
     },
     {
-     "title": "Open source laser-scanning photostimulation for neuroscience with Zapit",
-     "link": "https://elifesciences.org/articles/111872",
+     "title": "The transcription factor BCL11A restores differentiation potential to aged oligodendrocyte progenitor cells",
+     "link": "https://elifesciences.org/articles/110038",
      "date": "2026-10-26T00:00:00+00:00"
     }
    ]
@@ -1148,9 +1148,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-11T16:46:55+00:00",
+   "latest": "2026-11-12T20:39:17+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Getting familiar with incf for gsoc 2027 - need guidance",
+     "link": "https://neurostars.org/t/getting-familiar-with-incf-for-gsoc-2027-need-guidance/39107",
+     "date": "2026-11-12T20:39:17+00:00"
+    },
     {
      "title": "fMRI task-based GLM",
      "link": "https://neurostars.org/t/fmri-task-based-glm/39106",
@@ -1295,11 +1300,6 @@
      "title": "Openneuro upload failure",
      "link": "https://neurostars.org/t/openneuro-upload-failure/36479",
      "date": "2026-10-22T13:24:38+00:00"
-    },
-    {
-     "title": "We\u2019re hiring a Data Manager and Data Concierge to help make cutting-edge cerebellar research data organized, accessible, and useful across the scientific community",
-     "link": "https://neurostars.org/t/we-re-hiring-a-data-manager-and-data-concierge-to-help-make-cutting-edge-cerebellar-research-data-organized-accessible-and-useful-across-the-scientific-community/36476",
-     "date": "2026-10-21T20:44:57+00:00"
     }
    ]
   },
@@ -1642,6 +1642,16 @@
    "status": 200,
    "items": [
     {
+     "title": "dev_nightly_tests_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "date": "2026-11-12T08:08:56+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
+     "date": "2026-11-12T08:08:56+00:00"
+    },
+    {
      "title": "a8.3.0",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/a8.3.0",
      "date": "2026-11-12T08:08:56+00:00"
@@ -1654,11 +1664,6 @@
     {
      "title": "dev_nightly_tests_ub22: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub22",
-     "date": "2026-11-10T06:13:43+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok9: Update babyseg hashes in req files (#1493)",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
      "date": "2026-11-10T06:13:43+00:00"
     },
     {
@@ -1679,11 +1684,6 @@
     {
      "title": "dev_nightly_build_ub22: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-10T06:13:43+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok9: Update babyseg hashes in req files (#1493)",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-10T06:13:43+00:00"
     },
     {
