@@ -381,6 +381,16 @@
    "status": 200,
    "items": [
     {
+     "title": "Personalized Functional Network Mapping Across the Lifespan",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01685-9/fulltext?rss=yes",
+     "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+     "title": "Greater Translocator Protein Distribution Volume in Neurocircuitry of Anorexia Nervosa",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01680-X/fulltext?rss=yes",
+     "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
      "title": "The Use of Large Language Models in Literature Reviews of Biological Psychiatry Research: Promises and Pitfalls",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01664-1/fulltext?rss=yes",
      "date": "2026-11-09T00:00:00+00:00"
@@ -569,16 +579,6 @@
      "title": "A Cell Type\u2013Specific Switch in GluN2D NMDA Receptors Drives Cortical Circuit Hyperexcitability and Sensory-Driven Cortical Synchronization Deficits in a Fragile X Syndrome Model",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01541-6/fulltext?rss=yes",
      "date": "2026-09-21T00:00:00+00:00"
-    },
-    {
-     "title": "Leveraging Scalable Non-Mammalian Systems for Large-Scale Studies of Autism Risk Gene Function",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01521-0/fulltext?rss=yes",
-     "date": "2026-09-15T00:00:00+00:00"
-    },
-    {
-     "title": "Comparisons of the Structure and Function of Higher Cortical Circuits in Marmosets and Macaques: Models for Mental Health Disorders",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01515-5/fulltext?rss=yes",
-     "date": "2026-09-09T00:00:00+00:00"
     }
    ]
   },
@@ -689,7 +689,7 @@
      "date": "2026-09-22T00:00:00+00:00"
     },
     {
-     "title": "Shared functional abnormalities within somatosensory cortex in obsessive-compulsive disorder and anxiety disorders: A comparative meta-analysis",
+     "title": "Shared Functional Abnormalities Within Somatosensory Cortex in Obsessive-Compulsive Disorder and Anxiety Disorders: A Comparative Meta-Analysis",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00260-0/fulltext?rss=yes",
      "date": "2026-09-14T00:00:00+00:00"
     },
@@ -803,9 +803,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-12T14:00:00+00:00",
+   "latest": "2026-11-13T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Entangled stoichiometric objectives shape microbial catabolism",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014942",
+     "date": "2026-11-13T14:00:00+00:00"
+    },
+    {
+     "title": "Handshake: Partner-specific protein-protein binding site prediction at scale using ProstT5 and cross-chain attention",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014899",
+     "date": "2026-11-13T14:00:00+00:00"
+    },
     {
      "title": "Decomposition of the <i>S. aureus</i> pangenome reveals evolving genetic repertoire associated with adaptation and virulence",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014910",
@@ -945,16 +955,6 @@
      "title": "Traction force microscopy using temporal information",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014855",
      "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "ATP-independent entropy-driven dsRNA unwinding by DDX3X revealed by coarse-grained simulations and deep learning",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014928",
-     "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-     "title": "Coupled beta and high-frequency oscillations emerge from synchronized bursting in a minimal model of the parkinsonian subthalamic nucleus",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014921",
-     "date": "2026-10-30T14:00:00+00:00"
     }
    ]
   },
@@ -1259,9 +1259,24 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-13T10:19:19+00:00",
+   "latest": "2026-11-13T20:19:01+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Mean-centering a continuous predictor in a second-level SPM12 multiple regression model with two groups: within-group or grand-mean centering?",
+     "link": "https://neurostars.org/t/mean-centering-a-continuous-predictor-in-a-second-level-spm12-multiple-regression-model-with-two-groups-within-group-or-grand-mean-centering/39111",
+     "date": "2026-11-13T20:19:01+00:00"
+    },
+    {
+     "title": "Testing out new QSIPrep version",
+     "link": "https://neurostars.org/t/testing-out-new-qsiprep-version/39110",
+     "date": "2026-11-13T19:49:53+00:00"
+    },
+    {
+     "title": "Testing new qsiprep version",
+     "link": "https://neurostars.org/t/testing-new-qsiprep-version/39109",
+     "date": "2026-11-13T19:37:55+00:00"
+    },
     {
      "title": "Qsiprep fails on a few HCP-D subjects",
      "link": "https://neurostars.org/t/qsiprep-fails-on-a-few-hcp-d-subjects/39108",
@@ -1396,21 +1411,6 @@
      "title": "Registration and protocol-mask alignment problems with FSL XTRACT",
      "link": "https://neurostars.org/t/registration-and-protocol-mask-alignment-problems-with-fsl-xtract/36491",
      "date": "2026-10-26T20:44:19+00:00"
-    },
-    {
-     "title": "How can I obtain C-PAC benchmark reference outputs for v1.7.2 and v1.8.7?",
-     "link": "https://neurostars.org/t/how-can-i-obtain-c-pac-benchmark-reference-outputs-for-v1-7-2-and-v1-8-7/36483",
-     "date": "2026-10-24T01:23:07+00:00"
-    },
-    {
-     "title": "HBN RBC Datalad instance too large to clone on HPC with inode limits",
-     "link": "https://neurostars.org/t/hbn-rbc-datalad-instance-too-large-to-clone-on-hpc-with-inode-limits/36482",
-     "date": "2026-10-23T22:09:05+00:00"
-    },
-    {
-     "title": "Questions about HBN functional QC data and McElroy item harmonization in RBC",
-     "link": "https://neurostars.org/t/questions-about-hbn-functional-qc-data-and-mcelroy-item-harmonization-in-rbc/36480",
-     "date": "2026-10-23T12:37:57+00:00"
     }
    ]
   },
@@ -1749,7 +1749,7 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-12T08:08:56+00:00",
+   "latest": "2026-11-12T22:36:42+00:00",
    "status": 200,
    "items": [
     {
@@ -1758,9 +1758,19 @@
      "date": "2026-11-12T08:08:56+00:00"
     },
     {
+     "title": "dev_nightly_tests_rok8: Update requirements-build.ubuntu24_arm64-py39.txt",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-12T22:36:42+00:00"
+    },
+    {
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-12T08:08:56+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8: Update requirements-build.ubuntu24_arm64-py39.txt",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-12T22:36:42+00:00"
     },
     {
      "title": "a8.3.0",
@@ -1778,11 +1788,6 @@
      "date": "2026-11-10T06:13:43+00:00"
     },
     {
-     "title": "dev_nightly_tests_rok8: Update babyseg hashes in req files (#1493)",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
-     "date": "2026-11-10T06:13:43+00:00"
-    },
-    {
      "title": "dev_nightly_tests_darwin_arm64: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
      "date": "2026-11-10T06:13:43+00:00"
@@ -1795,11 +1800,6 @@
     {
      "title": "dev_nightly_build_ub22: Update babyseg hashes in req files (#1493)",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-10T06:13:43+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8: Update babyseg hashes in req files (#1493)",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
      "date": "2026-11-10T06:13:43+00:00"
     }
    ]
@@ -2581,9 +2581,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-13T18:25:51+00:00",
+   "latest": "2026-11-13T21:47:48+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/13.html#a214748",
+     "date": "2026-11-13T21:47:48+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/13.html#a214654",
+     "date": "2026-11-13T21:46:54+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/13.html#a182551",
@@ -2773,16 +2783,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/06.html#a153302",
      "date": "2026-11-06T15:33:02+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/06.html#a150533",
-     "date": "2026-11-06T15:05:33+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/05.html#a215845",
-     "date": "2026-11-05T21:58:45+00:00"
     }
    ]
   },
