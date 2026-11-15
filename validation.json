@@ -1162,11 +1162,6 @@
      "date": "2026-11-13T19:49:53+00:00"
     },
     {
-     "title": "Testing new qsiprep version",
-     "link": "https://neurostars.org/t/testing-new-qsiprep-version/39109",
-     "date": "2026-11-13T19:37:55+00:00"
-    },
-    {
      "title": "Qsiprep fails on a few HCP-D subjects",
      "link": "https://neurostars.org/t/qsiprep-fails-on-a-few-hcp-d-subjects/39108",
      "date": "2026-11-13T10:19:19+00:00"
@@ -1300,6 +1295,11 @@
      "title": "Registration and protocol-mask alignment problems with FSL XTRACT",
      "link": "https://neurostars.org/t/registration-and-protocol-mask-alignment-problems-with-fsl-xtract/36491",
      "date": "2026-10-26T20:44:19+00:00"
+    },
+    {
+     "title": "How can I obtain C-PAC benchmark reference outputs for v1.7.2 and v1.8.7?",
+     "link": "https://neurostars.org/t/how-can-i-obtain-c-pac-benchmark-reference-outputs-for-v1-7-2-and-v1-8-7/36483",
+     "date": "2026-10-24T01:23:07+00:00"
     }
    ]
   },
@@ -2470,7 +2470,7 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-14T17:31:45+00:00",
+   "latest": "2026-11-14T18:55:40+00:00",
    "status": 200,
    "items": [
     {
@@ -2482,6 +2482,11 @@
      "title": "",
      "link": "http://scripting.com/2026/11/14.html#a172805",
      "date": "2026-11-14T17:28:05+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/14.html#a185540",
+     "date": "2026-11-14T18:55:40+00:00"
     },
     {
      "title": "",
@@ -2667,11 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/06.html#a143145",
      "date": "2026-11-06T14:31:45+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/06.html#a143931",
-     "date": "2026-11-06T14:39:31+00:00"
     }
    ]
   },
