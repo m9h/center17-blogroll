@@ -2114,8 +2114,213 @@
    "feed": "https://openbci.com/community/feed/",
    "site": "https://openbci.com/community/",
    "note": "",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "OpenBCI Community",
+   "latest": "2026-10-23T16:33:39+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "MEDITACS: Exploring Loving-Kindness and Compassion Meditation with EEG and tACS",
+     "link": "https://openbci.com/community/meditacs-exploring-loving-kindness-and-compassion-meditation-with-eeg-and-tacs/",
+     "date": "2026-10-23T16:33:39+00:00"
+    },
+    {
+     "title": "Building a Real-Time EEG Reading Support System for Students with Dyslexia",
+     "link": "https://openbci.com/community/building-a-real-time-eeg-reading-support-system-for-students-with-dyslexia/",
+     "date": "2026-04-27T20:45:03+00:00"
+    },
+    {
+     "title": "EEG Controlled Robotic Arm in Real-time",
+     "link": "https://openbci.com/community/eeg-controlled-robotic-arm-in-real-time/",
+     "date": "2026-04-16T18:35:08+00:00"
+    },
+    {
+     "title": "Controlling an Exoskeleton Arm in Two Directions (Focus state control)",
+     "link": "https://openbci.com/community/controlling-an-exoskeleton-arm-in-two-directions-focus-state-control/",
+     "date": "2026-03-30T20:29:30+00:00"
+    },
+    {
+     "title": "Experiments in Motor Imagery",
+     "link": "https://openbci.com/community/experiments-in-motor-imagery/",
+     "date": "2026-01-07T19:41:30+00:00"
+    },
+    {
+     "title": "Maximizing Post-Stroke Motor Recovery with Co-Adaptive Neurofeedback",
+     "link": "https://openbci.com/community/maximizing-post-stroke-motor-recovery-with-co-adaptive-neurofeedback/",
+     "date": "2025-10-22T17:49:06+00:00"
+    },
+    {
+     "title": "OpenBCI and Pupil Labs Announce Launch of\u00a0 Untethered, All-in-One Brain, Body, and Eye Tracking Headset",
+     "link": "https://openbci.com/community/openbci-and-pupil-labs-partnership-galea-neon/",
+     "date": "2025-10-01T09:24:00+00:00"
+    },
+    {
+     "title": "ACAT Tool Kit & OpenBCI EEG Gel Cap",
+     "link": "https://openbci.com/community/acat-tool-kit-openbci-eeg-gel-cap/",
+     "date": "2025-08-12T19:42:42+00:00"
+    },
+    {
+     "title": "Open-BCI Discovery Program: Epilepsy-Helmet",
+     "link": "https://openbci.com/community/open-bci-discovery-program-epilepsy-helmet/",
+     "date": "2025-07-29T18:10:03+00:00"
+    },
+    {
+     "title": "Robotic Future",
+     "link": "https://openbci.com/community/robotic-future/",
+     "date": "2025-07-23T15:43:01+00:00"
+    },
+    {
+     "title": "Predictive Processing in Bilingual Brains: Understanding Language with EEG",
+     "link": "https://openbci.com/community/predictive-processing-in-bilingual-brains-understanding-language-with-eeg/",
+     "date": "2025-07-16T17:28:49+00:00"
+    },
+    {
+     "title": "Using EEG to Optimize Study Methods",
+     "link": "https://openbci.com/community/using-eeg-to-optimize-study-methods/",
+     "date": "2025-07-11T18:57:00+00:00"
+    },
+    {
+     "title": "Animal Research Using OpenBCI",
+     "link": "https://openbci.com/community/animal-research-using-openbci/",
+     "date": "2025-07-09T16:39:51+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: From Thought to Movement \u2013 A Brain Physiological Interface",
+     "link": "https://openbci.com/community/openbci-discovery-program-from-thought-to-movement-a-brain-physiological-interface/",
+     "date": "2025-05-28T20:46:29+00:00"
+    },
+    {
+     "title": "Brain-Power Drive with Proactive Healthcare for Mobility Aids (Update)",
+     "link": "https://openbci.com/community/brain-power-drive-with-proactive-healthcare-for-mobility-aids-update/",
+     "date": "2025-05-07T21:38:40+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Neurofeedback in Optimising Focus (NOVA)",
+     "link": "https://openbci.com/community/openbci-discovery-program-neurofeedback-in-optimising-focus-nova/",
+     "date": "2025-04-15T20:18:13+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: SYNAPTICON",
+     "link": "https://openbci.com/community/openbci-discovery-program-synapticon/",
+     "date": "2025-04-10T17:58:39+00:00"
+    },
+    {
+     "title": "Detecting Color-Blindness using Brain Signals",
+     "link": "https://openbci.com/community/detecting-color-blindness-using-brain-signals/",
+     "date": "2025-04-07T13:28:30+00:00"
+    },
+    {
+     "title": "Machine Yearning",
+     "link": "https://openbci.com/community/machine-yearning/",
+     "date": "2025-04-07T13:26:56+00:00"
+    },
+    {
+     "title": "OpenBCI @ MIT Reality Hack 2025",
+     "link": "https://openbci.com/community/openbci-mit-reality-hack-2025/",
+     "date": "2025-02-03T16:47:43+00:00"
+    },
+    {
+     "title": "From Mind to Music, Medical Head-Wearable for Music Therapy and Neuro-Rehabilitation",
+     "link": "https://openbci.com/community/from-mind-to-music-medical-head-wearable-for-music-therapy-and-neuro-rehabilitation/",
+     "date": "2025-01-21T22:01:29+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: EEG/EMG Wheelchair",
+     "link": "https://openbci.com/community/openbci-discovery-program-eeg-emg-wheelchair/",
+     "date": "2025-01-16T20:56:23+00:00"
+    },
+    {
+     "title": "BCI Game for CYBATHLON Challenges 2024",
+     "link": "https://openbci.com/community/bci-game-for-cybathlon-challenges-2024/",
+     "date": "2025-01-09T17:11:26+00:00"
+    },
+    {
+     "title": "OpenBCI Program: BCI Controlled Exoskeleton",
+     "link": "https://openbci.com/community/openbci-program-bci-controlled-exoskeleton/",
+     "date": "2024-11-06T19:09:34+00:00"
+    },
+    {
+     "title": "Mind-Controlled Game \u2013 OpenBCI + cVEP + Unity",
+     "link": "https://openbci.com/community/mind-controlled-game-openbci-mindaffectbci-unity/",
+     "date": "2024-10-23T19:47:15+00:00"
+    },
+    {
+     "title": "Mind-Controlled Robot \u2013 OpenBCI + cVEP + Maqueen V2",
+     "link": "https://openbci.com/community/mind-controlled-robot-openbci-mindaffectbci-maqueen-v2/",
+     "date": "2024-08-23T18:59:49+00:00"
+    },
+    {
+     "title": "Brain-Power Drive with Proactive Healthcare for Mobility Aids",
+     "link": "https://openbci.com/community/brain-power-drive-with-proactive-healthcare-for-mobility-aids/",
+     "date": "2024-07-22T16:27:10+00:00"
+    },
+    {
+     "title": "Yasmeen Hmaidan Joins the OpenBCI Team!",
+     "link": "https://openbci.com/community/yasmeen-hmaidan-joins-the-openbci-team/",
+     "date": "2024-06-05T20:39:38+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Exploring AI-Assisted Neurofeedback in the Treatment of Cluster Headache",
+     "link": "https://openbci.com/community/openbci-discovery-program-exploring-ai-assisted-neurofeedback-in-the-treatment-of-cluster-headache/",
+     "date": "2024-04-15T17:36:54+00:00"
+    },
+    {
+     "title": "S.A.P.I.E.N.S. \u2013 Sensor Aided Prosthesis Integrating Electrophysiology Neural Systems",
+     "link": "https://openbci.com/community/s-a-p-i-e-n-s-sensor-aided-prosthesis-integrating-electrophysiology-neural-systems/",
+     "date": "2024-04-08T17:44:17+00:00"
+    },
+    {
+     "title": "Ranya Belmaachi Joining the OpenBCI Team!",
+     "link": "https://openbci.com/community/ranya-belmaachi-joining-the-openbci-team/",
+     "date": "2024-03-22T21:43:09+00:00"
+    },
+    {
+     "title": "Communicating Through Brain Waves: Enhancing Communication for Non-Verbal Individuals",
+     "link": "https://openbci.com/community/communicating-through-brain-waves-enhancing-communication-for-non-verbal-individuals/",
+     "date": "2024-03-19T15:50:06+00:00"
+    },
+    {
+     "title": "Free Resources \u2013 EEG and Physiological Datasets, and more",
+     "link": "https://openbci.com/community/free-resources-eeg-and-physiological-datasets-and-more/",
+     "date": "2024-02-17T19:53:19+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: NeuroSpectrum: A Brainwave-Powered Vision Enhancement Device",
+     "link": "https://openbci.com/community/openbci-discovery-program-neurospectrum-a-brainwave-powered-vision-enhancement-device/",
+     "date": "2024-01-22T18:38:12+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Zeroeth BCI",
+     "link": "https://openbci.com/community/openbci-discovery-program-zeroeth-bci/",
+     "date": "2024-01-02T15:51:19+00:00"
+    },
+    {
+     "title": "NEW Product Alert \u2013 OpenBCI x cEEGrid Bundle",
+     "link": "https://openbci.com/community/new-product-alert-openbci-x-ceegrid-bundle/",
+     "date": "2023-12-21T18:21:17+00:00"
+    },
+    {
+     "title": "OpenBCI in BIOADAPTED",
+     "link": "https://openbci.com/community/openbci-in-bioadapted/",
+     "date": "2023-12-20T16:32:03+00:00"
+    },
+    {
+     "title": "OPENBCI Discovery Program : MUSE",
+     "link": "https://openbci.com/community/openbci-discovery-program-muse/",
+     "date": "2023-12-14T20:38:09+00:00"
+    },
+    {
+     "title": "OpenBCI Galea Beta Reveal @ Slush 2023",
+     "link": "https://openbci.com/community/openbci-galea-beta-reveal-slush-2023/",
+     "date": "2023-12-02T18:27:44+00:00"
+    },
+    {
+     "title": "OpenBCI unveils vision for wearable, neuro-powered personal computer at Slush 2023",
+     "link": "https://openbci.com/community/openbci-unveils-vision-for-wearable-neuro-powered-personal-computer-at-slush-2023/",
+     "date": "2023-12-01T14:50:00+00:00"
+    }
+   ]
   },
   {
    "title": "NeuroTechX (Medium)",
@@ -2265,9 +2470,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-14T18:55:40+00:00",
+   "latest": "2026-11-15T14:36:49+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/15.html#a143649",
+     "date": "2026-11-15T14:36:49+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/14.html#a172519",
@@ -2462,11 +2672,6 @@
      "title": "Flushing is a cultural center!??",
      "link": "http://scripting.com/2026/11/07/181537.html?title=flushingIsACulturalCenter",
      "date": "2026-11-07T18:15:37+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/06.html#a143145",
-     "date": "2026-11-06T14:31:45+00:00"
     }
    ]
   },
