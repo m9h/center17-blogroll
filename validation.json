@@ -2470,9 +2470,24 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-15T14:36:49+00:00",
+   "latest": "2026-11-15T23:24:02+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/15.html#a223644",
+     "date": "2026-11-15T22:36:44+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/15.html#a232402",
+     "date": "2026-11-15T23:24:02+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/15.html#a223846",
+     "date": "2026-11-15T22:38:46+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/15.html#a143649",
@@ -2657,21 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/07.html#a173030",
      "date": "2026-11-07T17:30:30+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/07.html#a155034",
-     "date": "2026-11-07T15:50:34+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/07.html#a172254",
-     "date": "2026-11-07T17:22:54+00:00"
-    },
-    {
-     "title": "Flushing is a cultural center!??",
-     "link": "http://scripting.com/2026/11/07/181537.html?title=flushingIsACulturalCenter",
-     "date": "2026-11-07T18:15:37+00:00"
     }
    ]
   },
