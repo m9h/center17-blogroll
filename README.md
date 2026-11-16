@@ -3,18 +3,18 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-16: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-16: 37 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
-| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) |  | daily preprints |
-| [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-13 | Simons Foundation neuroscience news |
+| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) | 2026-11-16 | daily preprints |
+| [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-16 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
 | [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-12 |  |
-| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-13 |  |
+| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-16 |  |
 | [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-13 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-10 | Cognitive Neuroscience and Neuroimaging |
@@ -46,9 +46,14 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-13 |  |
 | [SimNIBS releases](https://github.com/simnibs/simnibs/releases.atom) | [simnibs.github.io/simnibs](https://simnibs.github.io/simnibs/) | 2026-03-03 |  |
 | [TI-Toolbox releases](https://github.com/idossha/TI-Toolbox/releases.atom) | [github.com/idossha/TI-Toolbox](https://github.com/idossha/TI-Toolbox) | 2026-11-03 | temporal interference |
-| [OpenBCI blog](https://openbci.com/community/feed/) | [openbci.com/community](https://openbci.com/community/) | 2026-10-23 |  |
 | [NeuroTechX (Medium)](https://medium.com/feed/neurotechx) | [neurotechx.com](https://neurotechx.com/) | 2026-11-09 |  |
 | [IEEE Brain](https://brain.ieee.org/feed/) | [brain.ieee.org](https://brain.ieee.org/) | 2026-09-23 |  |
+
+<details><summary>Not currently reachable (kept in feeds.py, excluded from the OPML)</summary>
+
+- OpenBCI blog: `HTTPError: HTTP Error 415: Unsupported Media Type`
+
+</details>
 
 ## Open web and tools
 
