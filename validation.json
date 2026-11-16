@@ -250,6 +250,11 @@
    "status": 200,
    "items": [
     {
+     "title": "Large-Scale mapping of psychotropic weight effects: LLM-Based event detection across 222,545 deduplicated real-world patient narratives",
+     "link": "https://www.nature.com/articles/s41398-026-04551-z",
+     "date": "2026-11-16T00:00:00+00:00"
+    },
+    {
      "title": "Worldwide use of long-acting injectable antipsychotics in schizophrenia: a systematic review and meta-analysis",
      "link": "https://www.nature.com/articles/s41398-026-04571-9",
      "date": "2026-11-16T00:00:00+00:00"
@@ -282,11 +287,6 @@
     {
      "title": "Impaired outcome-based decision-making in human cocaine addiction",
      "link": "https://www.nature.com/articles/s41398-026-04547-9",
-     "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-     "title": "Control of whole-body glucose metabolism by central lactate in the presence of antipsychotics",
-     "link": "https://www.nature.com/articles/s41398-026-04537-x",
      "date": "2026-11-05T00:00:00+00:00"
     }
    ]
@@ -2556,9 +2556,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-15T23:24:02+00:00",
+   "latest": "2026-11-16T16:00:45+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "My big turn in Claude-land",
+     "link": "http://scripting.com/2026/11/16/160045.html?title=myBigTurnInClaudeland",
+     "date": "2026-11-16T16:00:45+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/15.html#a223644",
@@ -2753,11 +2758,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/07.html#a183637",
      "date": "2026-11-07T18:36:37+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/07.html#a173030",
-     "date": "2026-11-07T17:30:30+00:00"
     }
    ]
   },
