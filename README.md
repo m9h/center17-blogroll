@@ -9,7 +9,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
-| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) |  | daily preprints |
+| [arXiv q-bio.NC (Neurons and Cognition)](https://rss.arxiv.org/rss/q-bio.NC) | [arxiv.org/list/q-bio.NC/recent](https://arxiv.org/list/q-bio.NC/recent) | 2026-11-17 | daily preprints |
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-17 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
@@ -19,7 +19,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-16 | Cognitive Neuroscience and Neuroimaging |
 | [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-16 |  |
-| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-12 |  |
+| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-17 |  |
 
 ## Neuroimaging
 
