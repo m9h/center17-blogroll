@@ -8,95 +8,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-16T00:00:00-05:00",
+   "latest": null,
    "status": 200,
-   "items": [
-    {
-     "title": "Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology",
-     "link": "https://arxiv.org/abs/2611.17434",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Mean-field theory of neural networks: from spikes to firing rates",
-     "link": "https://arxiv.org/abs/2611.17512",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe Illusion",
-     "link": "https://arxiv.org/abs/2611.17741",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Striatal Optogenetic Modulation Shifts Seizure Onset Timing: A Survival-Analysis Reanalysis with Effect Sizes, Permutation Validation, and Sensitivity Analysis",
-     "link": "https://arxiv.org/abs/2611.17795",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model",
-     "link": "https://arxiv.org/abs/2611.18105",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
-     "link": "https://arxiv.org/abs/2611.18561",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-     "link": "https://arxiv.org/abs/2611.17532",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Neural Simulation-Based Inference for Computational Cognitive Models: A Tutorial",
-     "link": "https://arxiv.org/abs/2611.17608",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Future of Brain Health: From Developmental Insights to Clinical Translation",
-     "link": "https://arxiv.org/abs/2509.21332",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "A Minimal Quantitative Model of Perceptual Suppression and Breakthrough in Visual Rivalry",
-     "link": "https://arxiv.org/abs/2510.17154",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "A Variational Latent Equilibrium for Learning in Neuronal Circuits",
-     "link": "https://arxiv.org/abs/2603.09600",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "High-Fidelity 3D Simulator for Synthetic fNIRS Data Generation",
-     "link": "https://arxiv.org/abs/2605.30552",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision",
-     "link": "https://arxiv.org/abs/2604.21909",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Local Spike Timing Enables Gradient-based Learning in Neural Microcircuits",
-     "link": "https://arxiv.org/abs/2609.08070",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Lightweight Semantic EEG Foundation Model for Frozen Cross-Disorder Transfer",
-     "link": "https://arxiv.org/abs/2610.05503",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "Similar Predictive Fit but Different Latent Dynamics: Characterizing Learned Dynamical Structure in Personalized Models of Brain Disorders",
-     "link": "https://arxiv.org/abs/2610.10850",
-     "date": "2026-11-16T00:00:00-05:00"
-    },
-    {
-     "title": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
-     "link": "https://arxiv.org/abs/2611.06700",
-     "date": "2026-11-16T00:00:00-05:00"
-    }
-   ]
+   "items": []
   },
   {
    "title": "The Transmitter",
@@ -106,9 +20,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-16T05:10:13+00:00",
+   "latest": "2026-11-17T05:00:46+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Scaling up n-of-1 trials; and more",
+     "link": "https://www.thetransmitter.org/spectrum/scaling-up-n-of-1-trials-and-more/",
+     "date": "2026-11-17T05:00:46+00:00"
+    },
+    {
+     "title": "This paper changed my life: The salience network makes its mark",
+     "link": "https://www.thetransmitter.org/this-paper-changed-my-life/this-paper-changed-my-life-the-salience-network-makes-its-mark/",
+     "date": "2026-11-17T05:00:31+00:00"
+    },
     {
      "title": "How does the developing brain make so many different types of neurons?",
      "link": "https://www.thetransmitter.org/qa/how-does-the-developing-brain-make-so-many-different-types-of-neurons/",
@@ -148,16 +72,6 @@
      "title": "Amid funding uncertainty, graduate neuroscience programs in the U.S. adapt",
      "link": "https://www.thetransmitter.org/special-report-graduate-education-in-flux/amid-funding-uncertainty-graduate-neuroscience-programs-in-the-u-s-adapt/",
      "date": "2026-11-09T05:00:40+00:00"
-    },
-    {
-     "title": "The changing nature of the neuroscience Ph.D.",
-     "link": "https://www.thetransmitter.org/special-report-graduate-education-in-flux/the-changing-nature-of-the-neuroscience-ph-d/",
-     "date": "2026-11-09T05:00:37+00:00"
-    },
-    {
-     "title": "Rethinking neuroscience graduate education in the age of AI",
-     "link": "https://www.thetransmitter.org/special-report-graduate-education-in-flux/rethinking-neuroscience-graduate-education-in-the-age-of-ai/",
-     "date": "2026-11-09T05:00:31+00:00"
     }
    ]
   },
@@ -1234,9 +1148,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-13T20:19:01+00:00",
+   "latest": "2026-11-17T03:55:48+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "How to Handle Multiple Resting-state Runs with XCP-D Derivatives",
+     "link": "https://neurostars.org/t/how-to-handle-multiple-resting-state-runs-with-xcp-d-derivatives/39114",
+     "date": "2026-11-17T03:55:48+00:00"
+    },
     {
      "title": "Mean-centering a continuous predictor in a second-level SPM12 multiple regression model with two groups: within-group or grand-mean centering?",
      "link": "https://neurostars.org/t/mean-centering-a-continuous-predictor-in-a-second-level-spm12-multiple-regression-model-with-two-groups-within-group-or-grand-mean-centering/39111",
@@ -1381,11 +1300,6 @@
      "title": "Registration and protocol-mask alignment problems with FSL XTRACT",
      "link": "https://neurostars.org/t/registration-and-protocol-mask-alignment-problems-with-fsl-xtract/36491",
      "date": "2026-10-26T20:44:19+00:00"
-    },
-    {
-     "title": "How can I obtain C-PAC benchmark reference outputs for v1.7.2 and v1.8.7?",
-     "link": "https://neurostars.org/t/how-can-i-obtain-c-pac-benchmark-reference-outputs-for-v1-7-2-and-v1-8-7/36483",
-     "date": "2026-10-24T01:23:07+00:00"
     }
    ]
   },
@@ -2014,9 +1928,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-16T00:00:00+00:00",
+   "latest": "2026-11-17T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Coverage collapse and deceptive calibration in EEG fatigue monitoring: a cross-dataset audit under within-session and cross-subject shift",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe6a",
+     "date": "2026-11-17T00:00:00+00:00"
+    },
     {
      "title": "Decoding attempted handwritten characters based on temporal endovascular neural features",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82b",
@@ -2060,11 +1979,6 @@
     {
      "title": "Golgi: an open-source graphical platform for image-to-recruitment modeling of peripheral nerve stimulation",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeba17",
-     "date": "2026-11-10T00:00:00+00:00"
-    },
-    {
-     "title": "Closed-loop neuroprosthetic control through spared neural activity enables proportional foot movements after spinal cord injury",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebb64",
      "date": "2026-11-10T00:00:00+00:00"
     }
    ]
