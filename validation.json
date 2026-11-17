@@ -255,6 +255,11 @@
      "date": "2026-11-16T00:00:00+00:00"
     },
     {
+     "title": "The Living Lab at Home as an innovative platform for equitable and accessible study of families across a diverse developmental spectrum",
+     "link": "https://www.nature.com/articles/s41398-026-04410-x",
+     "date": "2026-11-16T00:00:00+00:00"
+    },
+    {
      "title": "Worldwide use of long-acting injectable antipsychotics in schizophrenia: a systematic review and meta-analysis",
      "link": "https://www.nature.com/articles/s41398-026-04571-9",
      "date": "2026-11-16T00:00:00+00:00"
@@ -283,11 +288,6 @@
      "title": "Effects of chronic oxytocin administration on white matter microstructure in autistic adults: a pilot pharmaco-neuroimaging DTI study",
      "link": "https://www.nature.com/articles/s41398-026-04542-0",
      "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "Impaired outcome-based decision-making in human cocaine addiction",
-     "link": "https://www.nature.com/articles/s41398-026-04547-9",
-     "date": "2026-11-05T00:00:00+00:00"
     }
    ]
   },
@@ -565,9 +565,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-   "latest": "2026-11-10T00:00:00+00:00",
+   "latest": "2026-11-16T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Signatures of Performance Monitoring in Obsessive-Compulsive Disorder and At-risk Groups: Midfrontal Theta Predicts Divergent Behavioral Adaptation",
+     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00341-1/fulltext?rss=yes",
+     "date": "2026-11-16T00:00:00+00:00"
+    },
     {
      "title": "Computational Modeling of Effort Allocation in First-Episode Psychosis and First-Episode Bipolar Disorder: Cognitive and Clinical Correlates",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00339-3/fulltext?rss=yes",
@@ -762,11 +767,6 @@
      "title": "Multivariate Brain Representations of the Traumatic Memory in Posttraumatic Stress Disorder: Changes Across Exposure Sessions and Impact of Dopaminergic Manipulation",
      "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00217-X/fulltext?rss=yes",
      "date": "2026-07-28T00:00:00+00:00"
-    },
-    {
-     "title": "Atypical Development of Resting-State Periodic and Aperiodic Electroencephalography Activity in 22q11.2 Deletion Syndrome",
-     "link": "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(26)00216-8/fulltext?rss=yes",
-     "date": "2026-07-28T00:00:00+00:00"
     }
    ]
   },
@@ -778,9 +778,34 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-13T14:00:00+00:00",
+   "latest": "2026-11-16T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Neuronal XOR computation requires temporally activated synaptic information",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014971",
+     "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+     "title": "Epidemic control under incomplete observations through mechanistic state reconstruction and multi-agent learning",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014955",
+     "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+     "title": "A flexible agent-based modelling framework of multi-serotype pneumococcal carriage to evaluate vaccine strategies in large populations",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014946",
+     "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+     "title": "Robust parametric estimation of avian cranial morphology",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014941",
+     "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+     "title": "Ten simple rules for creating and maintaining FAIR competency frameworks",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014922",
+     "date": "2026-11-16T14:00:00+00:00"
+    },
     {
      "title": "Entangled stoichiometric objectives shape microbial catabolism",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014942",
@@ -887,7 +912,7 @@
      "date": "2026-11-05T14:00:00+00:00"
     },
     {
-     "title": "Shapley fields reveal mosaic chemotopic organization in the mouse Olfactory bulb across diverse chemical feature sets",
+     "title": "Shapley fields reveal mosaic chemotopic organization in the mouse olfactory bulb across diverse chemical feature sets",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014917",
      "date": "2026-11-04T14:00:00+00:00"
     },
@@ -905,31 +930,6 @@
      "title": "The influence of ensemble size and composition on the performance of combined real-time COVID-19 forecasts",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014908",
      "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-     "title": "Global sensitivity analysis for stochastic models of infectious diseases: Re-emergence of yellow fever virus in the Americas as a case study",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013952",
-     "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-     "title": "SpatioCAD: Context-aware graph diffusion model for pinpointing spatially variable genes in heterogeneous tissues",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014923",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "The promiscuity and degeneracy of ten unique RNA base-pairing rules can determine the success of adaptive RNA evolution",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014914",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "Direction-selective retinal ganglion cells encode motion direction uniformly, despite having discretely distributed cardinal preferences",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014872",
-     "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-     "title": "Traction force microscopy using temporal information",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014855",
-     "date": "2026-11-02T14:00:00+00:00"
     }
    ]
   },
@@ -2556,9 +2556,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-16T16:00:45+00:00",
+   "latest": "2026-11-16T21:09:11+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/16.html#a210911",
+     "date": "2026-11-16T21:09:11+00:00"
+    },
     {
      "title": "My big turn in Claude-land",
      "link": "http://scripting.com/2026/11/16/160045.html?title=myBigTurnInClaudeland",
@@ -2753,11 +2758,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/07.html#a154042",
      "date": "2026-11-07T15:40:42+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/07.html#a183637",
-     "date": "2026-11-07T18:36:37+00:00"
     }
    ]
   },
