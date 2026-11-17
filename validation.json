@@ -236,9 +236,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-16T00:00:00+00:00",
+   "latest": "2026-11-17T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Hypothalamic paraventricular nucleus: A central hub for pain-emotion comorbidity",
+     "link": "https://www.nature.com/articles/s41398-026-04550-0",
+     "date": "2026-11-17T00:00:00+00:00"
+    },
     {
      "title": "Large-Scale mapping of psychotropic weight effects: LLM-Based event detection across 222,545 deduplicated real-world patient narratives",
      "link": "https://www.nature.com/articles/s41398-026-04551-z",
@@ -273,11 +278,6 @@
      "title": "Reduced attenuation of neural activation during fear extinction learning in patients with anxiety disorders: a delayed fear extinction fMRI study",
      "link": "https://www.nature.com/articles/s41398-026-04430-7",
      "date": "2026-11-07T00:00:00+00:00"
-    },
-    {
-     "title": "Effects of chronic oxytocin administration on white matter microstructure in autistic adults: a pilot pharmaco-neuroimaging DTI study",
-     "link": "https://www.nature.com/articles/s41398-026-04542-0",
-     "date": "2026-11-06T00:00:00+00:00"
     }
    ]
   },
@@ -935,13 +935,18 @@
    "status": 200,
    "items": [
     {
-     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
-     "link": "https://elifesciences.org/articles/110625",
+     "title": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
+     "link": "https://elifesciences.org/articles/112181",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
      "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
      "link": "https://elifesciences.org/articles/111297",
+     "date": "2026-11-17T00:00:00+00:00"
+    },
+    {
+     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
+     "link": "https://elifesciences.org/articles/110625",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
@@ -970,16 +975,6 @@
      "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/109742",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "The resource elasticity of control",
-     "link": "https://elifesciences.org/articles/105507",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
      "title": "Expectation-driven gain modulation of preparatory spatial attention",
      "link": "https://elifesciences.org/articles/110315",
      "date": "2026-11-06T00:00:00+00:00"
@@ -990,13 +985,18 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
-     "link": "https://elifesciences.org/articles/111256",
-     "date": "2026-11-05T00:00:00+00:00"
+     "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/109742",
+     "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/108055",
+     "title": "The resource elasticity of control",
+     "link": "https://elifesciences.org/articles/105507",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
+     "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1005,13 +1005,18 @@
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "A validated antibody toolbox for ALS research",
-     "link": "https://elifesciences.org/articles/111349",
-     "date": "2026-11-03T00:00:00+00:00"
+     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
+     "link": "https://elifesciences.org/articles/108055",
+     "date": "2026-11-05T00:00:00+00:00"
     },
     {
      "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
      "link": "https://elifesciences.org/articles/108089",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "A validated antibody toolbox for ALS research",
+     "link": "https://elifesciences.org/articles/111349",
      "date": "2026-11-03T00:00:00+00:00"
     },
     {
@@ -1020,13 +1025,8 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-     "link": "https://elifesciences.org/articles/102095",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-     "link": "https://elifesciences.org/articles/111371",
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1040,8 +1040,13 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
+     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+     "link": "https://elifesciences.org/articles/102095",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+     "link": "https://elifesciences.org/articles/111371",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1068,11 +1073,6 @@
      "title": "<i>foxQ2</i> marks fast-acting interneurons including dopaminergic neurons of <i>mushroom bodies</i> and <i>central complex</i> in the beetle <i>Tribolium castaneum</i>",
      "link": "https://elifesciences.org/articles/111703",
      "date": "2026-10-27T00:00:00+00:00"
-    },
-    {
-     "title": "Heterogeneous responses to embryonic critical period perturbations within the <i>Drosophila</i> larval locomotor circuit",
-     "link": "https://elifesciences.org/articles/108656",
-     "date": "2026-10-26T00:00:00+00:00"
     }
    ]
   }
@@ -2546,9 +2546,29 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-16T21:09:11+00:00",
+   "latest": "2026-11-17T16:14:11+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/17.html#a161411",
+     "date": "2026-11-17T16:14:11+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/17.html#a132014",
+     "date": "2026-11-17T13:20:14+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/17.html#a133915",
+     "date": "2026-11-17T13:39:15+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/17.html#a134520",
+     "date": "2026-11-17T13:45:20+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/16.html#a210911",
@@ -2728,26 +2748,6 @@
      "title": "Dems: the campaign never ends",
      "link": "http://scripting.com/2026/11/09/142759.html?title=demsTheCampaignNeverEnds",
      "date": "2026-11-09T14:27:59+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/08.html#a165547",
-     "date": "2026-11-08T16:55:47+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/08.html#a191134",
-     "date": "2026-11-08T19:11:34+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/07.html#a153140",
-     "date": "2026-11-07T15:31:40+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/07.html#a154042",
-     "date": "2026-11-07T15:40:42+00:00"
     }
    ]
   },
@@ -2972,9 +2972,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Changelog",
-   "latest": "2026-11-10T15:48:43+00:00",
+   "latest": "2026-11-17T16:25:02+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Shipping addresses",
+     "link": "https://ghost.org/changelog/shipping-addresses/",
+     "date": "2026-11-17T16:25:02+00:00"
+    },
     {
      "title": "Custom fields",
      "link": "https://ghost.org/changelog/custom-fields/",
@@ -3044,11 +3049,6 @@
      "title": "Comment threads, votes and pins",
      "link": "https://ghost.org/changelog/comment-threads-votes-and-pins/",
      "date": "2026-05-27T18:45:11+00:00"
-    },
-    {
-     "title": "Gift subscriptions",
-     "link": "https://ghost.org/changelog/gift-subscriptions/",
-     "date": "2026-05-21T13:15:44+00:00"
     }
    ]
   },
