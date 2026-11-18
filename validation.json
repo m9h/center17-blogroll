@@ -346,6 +346,11 @@
    "status": 200,
    "items": [
     {
+     "title": "Mapping the shared genetic architecture between anorexia nervosa and metabolomic biomarkers",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01689-6/fulltext?rss=yes",
+     "date": "2026-11-17T00:00:00+00:00"
+    },
+    {
      "title": "Working memory capacity moderates stress-related drinking in alcohol use disorder: An intensive one-year ecological assessment study",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01687-2/fulltext?rss=yes",
      "date": "2026-11-17T00:00:00+00:00"
@@ -538,11 +543,6 @@
     {
      "title": "Sex-Specific Role of Systemic Inflammation in Moderating the Association Between Choroid Plexus Volume and Depressive Severity: Findings From the sBEAD Cohort",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01544-1/fulltext?rss=yes",
-     "date": "2026-09-23T00:00:00+00:00"
-    },
-    {
-     "title": "The Physiology of Mental Representations: From Single Neurons to Circuits",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01543-X/fulltext?rss=yes",
      "date": "2026-09-23T00:00:00+00:00"
     }
    ]
@@ -768,9 +768,44 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-16T14:00:00+00:00",
+   "latest": "2026-11-17T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "TopoPPI: A geometry-aware platform for visualization and low-distortion mapping of protein-protein interaction interfaces",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014963",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
+    {
+     "title": "GapCNV: A comprehensive framework for CNV detection in low-input DNA sequencing data",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014959",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
+    {
+     "title": "Hierarchical data-driven dynamical surrogate models of social decision-making",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014940",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
+    {
+     "title": "A beam\u2013membrane biomechanical vocal fold model incorporating posturing and glottal conformation",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014936",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
+    {
+     "title": "Exploring the potential of bile fluid dynamics analysis to inform clinical strategies for choledochal cysts: Experimental and numerical studies",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014926",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
+    {
+     "title": "Ontology pre-training improves machine learning-based predictions for metabolites",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014925",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
+    {
+     "title": "Exploring the mechanism of oxfendazole in inhibiting osteosarcoma-induced osteolysis based on single-cell RNA seqsuencing",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014828",
+     "date": "2026-11-17T14:00:00+00:00"
+    },
     {
      "title": "Neuronal XOR computation requires temporally activated synaptic information",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014971",
@@ -885,41 +920,6 @@
      "title": "A computational framework to model cartilage degeneration induced by mechanoinflammation and cytokine-driven inflammation in post-traumatic osteoarthritis",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014935",
      "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for a successful global health roundtable",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014916",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Membrane tension and cell\u2013nucleus mechanical coupling regulate confined cell migration",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014909",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Social manipulations trigger shifts in group-level dominance patterns",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014875",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "Shapley fields reveal mosaic chemotopic organization in the mouse olfactory bulb across diverse chemical feature sets",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014917",
-     "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-     "title": "Bayesian efficient coding",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014894",
-     "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-     "title": "Folding without glutamine: Proteome-scale removal of a canonical amino acid",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014931",
-     "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-     "title": "The influence of ensemble size and composition on the performance of combined real-time COVID-19 forecasts",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014908",
-     "date": "2026-11-03T14:00:00+00:00"
     }
    ]
   },
@@ -940,23 +940,23 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
-     "link": "https://elifesciences.org/articles/111297",
-     "date": "2026-11-17T00:00:00+00:00"
-    },
-    {
      "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
      "link": "https://elifesciences.org/articles/110625",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
-     "link": "https://elifesciences.org/articles/110559",
-     "date": "2026-11-12T00:00:00+00:00"
+     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
+     "link": "https://elifesciences.org/articles/111297",
+     "date": "2026-11-17T00:00:00+00:00"
     },
     {
      "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
      "link": "https://elifesciences.org/articles/108988",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
+     "link": "https://elifesciences.org/articles/110559",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
@@ -975,16 +975,6 @@
      "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "Expectation-driven gain modulation of preparatory spatial attention",
-     "link": "https://elifesciences.org/articles/110315",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
-     "link": "https://elifesciences.org/articles/107651",
-     "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
      "title": "Simple methods to acutely measure multiple timing metrics among the sexual repertoire of male <i>Drosophila</i>",
      "link": "https://elifesciences.org/articles/109742",
      "date": "2026-11-06T00:00:00+00:00"
@@ -995,13 +985,18 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
-     "link": "https://elifesciences.org/articles/111256",
-     "date": "2026-11-05T00:00:00+00:00"
+     "title": "Expectation-driven gain modulation of preparatory spatial attention",
+     "link": "https://elifesciences.org/articles/110315",
+     "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
-     "link": "https://elifesciences.org/articles/112088",
+     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
+     "link": "https://elifesciences.org/articles/107651",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+     "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
+     "link": "https://elifesciences.org/articles/111256",
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1010,13 +1005,18 @@
      "date": "2026-11-05T00:00:00+00:00"
     },
     {
-     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
-     "link": "https://elifesciences.org/articles/108089",
-     "date": "2026-11-03T00:00:00+00:00"
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
+     "date": "2026-11-05T00:00:00+00:00"
     },
     {
      "title": "A validated antibody toolbox for ALS research",
      "link": "https://elifesciences.org/articles/111349",
+     "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
+     "link": "https://elifesciences.org/articles/108089",
      "date": "2026-11-03T00:00:00+00:00"
     },
     {
@@ -1025,8 +1025,13 @@
      "date": "2026-11-02T00:00:00+00:00"
     },
     {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
+     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+     "link": "https://elifesciences.org/articles/102095",
+     "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+     "link": "https://elifesciences.org/articles/111371",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -1040,13 +1045,8 @@
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
-     "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-     "link": "https://elifesciences.org/articles/102095",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-     "link": "https://elifesciences.org/articles/111371",
+     "title": "Compensation of hyperexcitability with simulation-based inference",
+     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     },
     {
@@ -2546,9 +2546,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-17T16:14:11+00:00",
+   "latest": "2026-11-17T19:56:53+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/17.html#a195653",
+     "date": "2026-11-17T19:56:53+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/17.html#a161411",
@@ -2743,11 +2748,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/09.html#a141627",
      "date": "2026-11-09T14:16:27+00:00"
-    },
-    {
-     "title": "Dems: the campaign never ends",
-     "link": "http://scripting.com/2026/11/09/142759.html?title=demsTheCampaignNeverEnds",
-     "date": "2026-11-09T14:27:59+00:00"
     }
    ]
   },
