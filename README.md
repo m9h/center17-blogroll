@@ -3,7 +3,7 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-18: 37 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-18: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
@@ -19,7 +19,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-16 | Cognitive Neuroscience and Neuroimaging |
 | [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-17 |  |
-| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-17 |  |
+| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-18 |  |
 
 ## Neuroimaging
 
@@ -46,14 +46,9 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-18 |  |
 | [SimNIBS releases](https://github.com/simnibs/simnibs/releases.atom) | [simnibs.github.io/simnibs](https://simnibs.github.io/simnibs/) | 2026-03-03 |  |
 | [TI-Toolbox releases](https://github.com/idossha/TI-Toolbox/releases.atom) | [github.com/idossha/TI-Toolbox](https://github.com/idossha/TI-Toolbox) | 2026-11-03 | temporal interference |
+| [OpenBCI blog](https://openbci.com/community/feed/) | [openbci.com/community](https://openbci.com/community/) | 2026-10-23 |  |
 | [NeuroTechX (Medium)](https://medium.com/feed/neurotechx) | [neurotechx.com](https://neurotechx.com/) | 2026-11-09 |  |
 | [IEEE Brain](https://brain.ieee.org/feed/) | [brain.ieee.org](https://brain.ieee.org/) | 2026-09-23 |  |
-
-<details><summary>Not currently reachable (kept in feeds.py, excluded from the OPML)</summary>
-
-- OpenBCI blog: `HTTPError: HTTP Error 415: Unsupported Media Type`
-
-</details>
 
 ## Open web and tools
 
@@ -63,7 +58,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-18 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
 | [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-17 |  |
-| [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-10-22 |  |
+| [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-11-18 |  |
 | [Equinox releases](https://github.com/patrick-kidger/equinox/releases.atom) | [docs.kidger.site/equinox](https://docs.kidger.site/equinox/) | 2026-05-05 | Kidger stack |
 | [Diffrax releases](https://github.com/patrick-kidger/diffrax/releases.atom) | [docs.kidger.site/diffrax](https://docs.kidger.site/diffrax/) | 2026-02-18 | Kidger stack |
 | [NeuroFedora blog](https://neuroblog.fedoraproject.org/feeds/all.atom.xml) | [neuro.fedoraproject.org](https://neuro.fedoraproject.org/) | 2025-09-22 |  |
