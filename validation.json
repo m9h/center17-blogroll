@@ -251,9 +251,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-17T00:00:00+00:00",
+   "latest": "2026-11-18T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "History of psychosis matters: deviation in age-related decline of working memory across the schizo-bipolar spectrum",
+     "link": "https://www.nature.com/articles/s41398-026-04500-w",
+     "date": "2026-11-18T00:00:00+00:00"
+    },
     {
      "title": "Hypothalamic paraventricular nucleus: A central hub for pain-emotion comorbidity",
      "link": "https://www.nature.com/articles/s41398-026-04550-0",
@@ -287,11 +292,6 @@
     {
      "title": "Cellular senescence changes and their association with brain structure in schizophrenia and major depressive disorder",
      "link": "https://www.nature.com/articles/s41398-026-04538-w",
-     "date": "2026-11-07T00:00:00+00:00"
-    },
-    {
-     "title": "Reduced attenuation of neural activation during fear extinction learning in patients with anxiety disorders: a delayed fear extinction fMRI study",
-     "link": "https://www.nature.com/articles/s41398-026-04430-7",
      "date": "2026-11-07T00:00:00+00:00"
     }
    ]
@@ -368,6 +368,11 @@
     {
      "title": "Cortical astrocytes bidirectionally control stress adaptability",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01688-4/fulltext?rss=yes",
+     "date": "2026-11-18T00:00:00+00:00"
+    },
+    {
+     "title": "Erratum to: Visual P300 and Risk for Psychosis Onset in Youth at Clinical High Risk",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01663-X/fulltext?rss=yes",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -554,11 +559,6 @@
      "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01575-1/fulltext?rss=yes",
      "date": "2026-09-28T00:00:00+00:00"
-    },
-    {
-     "title": "Women\u2019s Brain Health in the Era of Precision Neuroimaging",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01570-2/fulltext?rss=yes",
-     "date": "2026-09-25T00:00:00+00:00"
     }
    ]
   },
@@ -783,9 +783,29 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-17T14:00:00+00:00",
+   "latest": "2026-11-18T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A statistical framework to identify gene-gene interactions underlying multiple dichotomous phenotypes from genotype data",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014962",
+     "date": "2026-11-18T14:00:00+00:00"
+    },
+    {
+     "title": "Aging out of the blue: Region-specific epigenetic clock calibration for a blue zone with the DNAm SuperLearner",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014949",
+     "date": "2026-11-18T14:00:00+00:00"
+    },
+    {
+     "title": "Storing long-lived memories via molecular error correction: A minimal mathematical model of Crick\u2019s memory switch",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014948",
+     "date": "2026-11-18T14:00:00+00:00"
+    },
+    {
+     "title": "Radiopharmaceutical therapy for metastatic prostate cancer: Insights from mechanistic modeling and <i>in silico</i> trials",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013847",
+     "date": "2026-11-18T14:00:00+00:00"
+    },
     {
      "title": "TopoPPI: A geometry-aware platform for visualization and low-distortion mapping of protein-protein interaction interfaces",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014963",
@@ -915,26 +935,6 @@
      "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014881",
      "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "Sequence-based coevolutionary prediction of species-specific interactomes",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014839",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "SwimmingIndividuals: A high-performance agent-based model for marine ecosystems",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013610",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "TriTower-m6Am: A triple-tower heterogeneous deep learning architecture integrating semantic, sequential, and structural information for mRNA N6,2\u2032-O-dimethyladenosine site prediction",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014939",
-     "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-     "title": "A computational framework to model cartilage degeneration induced by mechanoinflammation and cytokine-driven inflammation in post-traumatic osteoarthritis",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014935",
-     "date": "2026-11-05T14:00:00+00:00"
     }
    ]
   },
@@ -950,13 +950,13 @@
    "status": 200,
    "items": [
     {
-     "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
-     "link": "https://elifesciences.org/articles/109811",
+     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
+     "link": "https://elifesciences.org/articles/107980",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
-     "link": "https://elifesciences.org/articles/107980",
+     "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
+     "link": "https://elifesciences.org/articles/109811",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -1239,9 +1239,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-17T03:55:48+00:00",
+   "latest": "2026-11-18T19:56:36+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "COGNESTIC 2027 \u2013 Applications open for neuroimaging training in Cambridge",
+     "link": "https://neurostars.org/t/cognestic-2027-applications-open-for-neuroimaging-training-in-cambridge/39119",
+     "date": "2026-11-18T19:56:36+00:00"
+    },
     {
      "title": "How to Handle Multiple Resting-state Runs with XCP-D Derivatives",
      "link": "https://neurostars.org/t/how-to-handle-multiple-resting-state-runs-with-xcp-d-derivatives/39114",
@@ -1386,11 +1391,6 @@
      "title": "Dcm2niix Failing to Convert Philips Multi-Echo DICOM",
      "link": "https://neurostars.org/t/dcm2niix-failing-to-convert-philips-multi-echo-dicom/36493",
      "date": "2026-10-27T09:02:47+00:00"
-    },
-    {
-     "title": "Registration and protocol-mask alignment problems with FSL XTRACT",
-     "link": "https://neurostars.org/t/registration-and-protocol-mask-alignment-problems-with-fsl-xtract/36491",
-     "date": "2026-10-26T20:44:19+00:00"
     }
    ]
   },
@@ -2016,63 +2016,8 @@
    "feed": "https://iopscience.iop.org/journal/rss/1741-2552",
    "site": "https://iopscience.iop.org/journal/1741-2552",
    "note": "",
-   "ok": true,
-   "kind": "rss1",
-   "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-18T00:00:00+00:00",
-   "status": 200,
-   "items": [
-    {
-     "title": "Imaging fast neural circuit activity in brain and nerve with electrical impedance tomography (fnEIT): review, method and engineering aspects",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebefd",
-     "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-     "title": "Coverage collapse and deceptive calibration in EEG fatigue monitoring: a cross-dataset audit under within-session and cross-subject shift",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe6a",
-     "date": "2026-11-17T00:00:00+00:00"
-    },
-    {
-     "title": "Decoding attempted handwritten characters based on temporal endovascular neural features",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82b",
-     "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "AIM-STAGE: a self-supervised framework via adaptive interval-aware multi-kernel calibration and spectro-temporal exploration for few-shot EEG staging",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1c",
-     "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "DSGTANet: a semi-supervised dual-stream graph-temporal adaptation network for cross-subject continuous EEG emotion recognition",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeba18",
-     "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "A phase-calibrated combined electrical-sensory neuromodulation platform for short-term frontoparietal network modulation and cognitive fatigue resistance",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebcb6",
-     "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "Augmented reality paradigm and EA-DGCNN decoding algorithm for motor imagery in stroke patients",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebdce",
-     "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97c",
-     "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-     "title": "Influence of out-of-plane electric fields in an ex vivo model of transcranial electrical stimulation",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb04a",
-     "date": "2026-11-11T00:00:00+00:00"
-    },
-    {
-     "title": "Recent advances and challenges in autonomous wireless implantable neurologgers for animal studies: neural recording, power supply, and data transmission technologies",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97d",
-     "date": "2026-11-10T00:00:00+00:00"
-    }
-   ]
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "title": "SimNIBS releases",
@@ -2561,9 +2506,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-18T18:02:54+00:00",
+   "latest": "2026-11-18T22:04:16+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/18.html#a220416",
+     "date": "2026-11-18T22:04:16+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/18.html#a180254",
@@ -2588,6 +2538,11 @@
      "title": "",
      "link": "http://scripting.com/2026/11/18.html#a155553",
      "date": "2026-11-18T15:55:53+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/18.html#a215104",
+     "date": "2026-11-18T21:51:04+00:00"
     },
     {
      "title": "Getting started with BonBon",
@@ -2753,16 +2708,6 @@
      "title": "Listen to Bernie",
      "link": "http://scripting.com/2026/11/11/140535.html?title=listenToBernie",
      "date": "2026-11-11T14:05:35+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/10.html#a143303",
-     "date": "2026-11-10T14:33:03+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/10.html#a163012",
-     "date": "2026-11-10T16:30:12+00:00"
     }
    ]
   },
