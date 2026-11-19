@@ -921,12 +921,22 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-18T00:00:00+00:00",
+   "latest": "2026-11-19T00:00:00+00:00",
    "status": 200,
    "items": [
     {
+     "title": "Decreased astrocytic CCL5 by <i>Mir324</i> ameliorates ischemic stroke injury via the CCR5/ERK/CREB pathway",
+     "link": "https://elifesciences.org/articles/101719",
+     "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
      "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
      "link": "https://elifesciences.org/articles/107980",
+     "date": "2026-11-18T00:00:00+00:00"
+    },
+    {
+     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
+     "link": "https://elifesciences.org/articles/113746",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -935,9 +945,9 @@
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
-     "link": "https://elifesciences.org/articles/113746",
-     "date": "2026-11-18T00:00:00+00:00"
+     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
+     "link": "https://elifesciences.org/articles/111297",
+     "date": "2026-11-17T00:00:00+00:00"
     },
     {
      "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
@@ -950,18 +960,13 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
-     "link": "https://elifesciences.org/articles/111297",
-     "date": "2026-11-17T00:00:00+00:00"
+     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
+     "link": "https://elifesciences.org/articles/108988",
+     "date": "2026-11-12T00:00:00+00:00"
     },
     {
      "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
      "link": "https://elifesciences.org/articles/110559",
-     "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
-     "link": "https://elifesciences.org/articles/108988",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
@@ -1057,11 +1062,6 @@
     {
      "title": "Revealing the benefit of eye motion for acuity under emulated cone loss",
      "link": "https://elifesciences.org/articles/111289",
-     "date": "2026-10-29T00:00:00+00:00"
-    },
-    {
-     "title": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
-     "link": "https://elifesciences.org/articles/112062",
      "date": "2026-10-29T00:00:00+00:00"
     }
    ]
@@ -1991,8 +1991,63 @@
    "feed": "https://iopscience.iop.org/journal/rss/1741-2552",
    "site": "https://iopscience.iop.org/journal/1741-2552",
    "note": "",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 500: "
+   "ok": true,
+   "kind": "rss1",
+   "feed_title": "Journal of Neural Engineering - latest papers",
+   "latest": "2026-11-18T00:00:00+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "Imaging fast neural circuit activity in brain and nerve with electrical impedance tomography (fnEIT): review, method and engineering aspects",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebefd",
+     "date": "2026-11-18T00:00:00+00:00"
+    },
+    {
+     "title": "Coverage collapse and deceptive calibration in EEG fatigue monitoring: a cross-dataset audit under within-session and cross-subject shift",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe6a",
+     "date": "2026-11-17T00:00:00+00:00"
+    },
+    {
+     "title": "Decoding attempted handwritten characters based on temporal endovascular neural features",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82b",
+     "date": "2026-11-16T00:00:00+00:00"
+    },
+    {
+     "title": "AIM-STAGE: a self-supervised framework via adaptive interval-aware multi-kernel calibration and spectro-temporal exploration for few-shot EEG staging",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1c",
+     "date": "2026-11-16T00:00:00+00:00"
+    },
+    {
+     "title": "DSGTANet: a semi-supervised dual-stream graph-temporal adaptation network for cross-subject continuous EEG emotion recognition",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeba18",
+     "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+     "title": "A phase-calibrated combined electrical-sensory neuromodulation platform for short-term frontoparietal network modulation and cognitive fatigue resistance",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebcb6",
+     "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+     "title": "Augmented reality paradigm and EA-DGCNN decoding algorithm for motor imagery in stroke patients",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebdce",
+     "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+     "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97c",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+     "title": "Influence of out-of-plane electric fields in an ex vivo model of transcranial electrical stimulation",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb04a",
+     "date": "2026-11-11T00:00:00+00:00"
+    },
+    {
+     "title": "Recent advances and challenges in autonomous wireless implantable neurologgers for animal studies: neural recording, power supply, and data transmission technologies",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97d",
+     "date": "2026-11-10T00:00:00+00:00"
+    }
+   ]
   },
   {
    "title": "SimNIBS releases",
@@ -2481,9 +2536,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-18T22:04:16+00:00",
+   "latest": "2026-11-19T12:24:46+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/19.html#a122446",
+     "date": "2026-11-19T12:24:46+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/19.html#a114738",
+     "date": "2026-11-19T11:47:38+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/18.html#a220416",
@@ -2673,16 +2738,6 @@
      "title": "What to do with billions of dollars?",
      "link": "http://scripting.com/2026/11/12/144522.html?title=whatToDoWithBillionsOfDollars",
      "date": "2026-11-12T14:45:22+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/11.html#a185507",
-     "date": "2026-11-11T18:55:07+00:00"
-    },
-    {
-     "title": "Listen to Bernie",
-     "link": "http://scripting.com/2026/11/11/140535.html?title=listenToBernie",
-     "date": "2026-11-11T14:05:35+00:00"
     }
    ]
   },
