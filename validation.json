@@ -226,9 +226,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-18T00:00:00+00:00",
+   "latest": "2026-11-19T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A reproducible structural brain axis of alcohol use severity",
+     "link": "https://www.nature.com/articles/s41398-026-04587-1",
+     "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+     "title": "Animal models in psychedelic research \u2013 Tripping over translation",
+     "link": "https://www.nature.com/articles/s41398-026-04589-z",
+     "date": "2026-11-19T00:00:00+00:00"
+    },
     {
      "title": "History of psychosis matters: deviation in age-related decline of working memory across the schizo-bipolar spectrum",
      "link": "https://www.nature.com/articles/s41398-026-04500-w",
@@ -258,16 +268,6 @@
      "title": "2-AG as a potential biomarker for predicting response to short-term fluoxetine treatment in a mouse model of depression",
      "link": "https://www.nature.com/articles/s41398-026-04548-8",
      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "Emerging roles of the <i>DLK1-DIO3</i> imprinted domain in neurodevelopment and complex neurological and psychiatric disorders",
-     "link": "https://www.nature.com/articles/s41398-026-04527-z",
-     "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-     "title": "Cellular senescence changes and their association with brain structure in schizophrenia and major depressive disorder",
-     "link": "https://www.nature.com/articles/s41398-026-04538-w",
-     "date": "2026-11-07T00:00:00+00:00"
     }
    ]
   },
@@ -279,9 +279,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-13T00:00:00+00:00",
+   "latest": "2026-11-19T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance",
+     "link": "https://www.nature.com/articles/s41380-026-03974-w",
+     "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+     "title": "Assortative mating can mask non-additive genetic contributions to individual differences",
+     "link": "https://www.nature.com/articles/s41380-026-03932-6",
+     "date": "2026-11-19T00:00:00+00:00"
+    },
     {
      "title": "Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder",
      "link": "https://www.nature.com/articles/s41380-026-03938-0",
@@ -311,16 +321,6 @@
      "title": "Bioinformatic investigation of convergent proteins and cellular functions downstream of autism-associated genes",
      "link": "https://www.nature.com/articles/s41380-026-03940-6",
      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "A preconceptional stress model identifies thalamostriatal substrates of intergenerational vulnerability",
-     "link": "https://www.nature.com/articles/s41380-026-03937-1",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "Dynamic epigenetic changes during antidepressant pharmacotherapy in major depressive disorder",
-     "link": "https://www.nature.com/articles/s41380-026-03945-1",
-     "date": "2026-11-02T00:00:00+00:00"
     }
    ]
   },
@@ -758,9 +758,14 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-18T14:00:00+00:00",
+   "latest": "2026-11-19T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Gray bats heighten their response to social cues when navigating group flight in environments with obstacles",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014900",
+     "date": "2026-11-19T14:00:00+00:00"
+    },
     {
      "title": "A statistical framework to identify gene-gene interactions underlying multiple dichotomous phenotypes from genotype data",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014962",
@@ -904,11 +909,6 @@
     {
      "title": "PINN-based functional inference in size-structured population models: Application to fish oogenesis",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014933",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014881",
      "date": "2026-11-06T14:00:00+00:00"
     }
    ]
@@ -2536,9 +2536,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-19T12:24:46+00:00",
+   "latest": "2026-11-19T15:13:16+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/19.html#a151316",
+     "date": "2026-11-19T15:13:16+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/19.html#a141443",
+     "date": "2026-11-19T14:14:43+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/19.html#a122446",
@@ -2548,6 +2558,11 @@
      "title": "",
      "link": "http://scripting.com/2026/11/19.html#a114738",
      "date": "2026-11-19T11:47:38+00:00"
+    },
+    {
+     "title": "BonBon is podcasting for text",
+     "link": "http://scripting.com/2026/11/19/142025.html?title=bonbonIsPodcastingForText",
+     "date": "2026-11-19T14:20:25+00:00"
     },
     {
      "title": "",
@@ -2723,21 +2738,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/12.html#a151841",
      "date": "2026-11-12T15:18:41+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/12.html#a153848",
-     "date": "2026-11-12T15:38:48+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/12.html#a145117",
-     "date": "2026-11-12T14:51:17+00:00"
-    },
-    {
-     "title": "What to do with billions of dollars?",
-     "link": "http://scripting.com/2026/11/12/144522.html?title=whatToDoWithBillionsOfDollars",
-     "date": "2026-11-12T14:45:22+00:00"
     }
    ]
   },
