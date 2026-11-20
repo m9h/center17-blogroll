@@ -8,73 +8,83 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-19T00:00:00-05:00",
+   "latest": "2026-11-20T00:00:00-05:00",
    "status": 200,
    "items": [
     {
-     "title": "Does a label survive the loop? A screen of necessary physical conditions for a self-measuring system, with a pre-registered test on fly connectomes",
-     "link": "https://arxiv.org/abs/2611.23320",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Persistence of Multifractal Dynamics at the Mammalian Neuromuscular Junction Across Extracellular Calcium Conditions",
+     "link": "https://arxiv.org/abs/2611.25139",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Neural Circuit Architectural Priors for Rat Locomotion",
-     "link": "https://arxiv.org/abs/2611.23364",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Cultural invariance in music-evoked emotions",
+     "link": "https://arxiv.org/abs/2611.25189",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Hebbian self-organization of monosynaptic reflexes in a biologically realistic multiarticular limb",
-     "link": "https://arxiv.org/abs/2611.23441",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Regime-dependent reconstruction of structural connectivity: an in silico study of spatially constrained modular neuronal networks",
+     "link": "https://arxiv.org/abs/2611.25830",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Quantitative Modeling of Action-Potential-Driven Sodium Dynamics in Neurons: From Sodium Influx to Sodium MRI",
-     "link": "https://arxiv.org/abs/2611.23549",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "When Should Deployed BCI Decoders Adapt? A Resource-Priced Ladder for Frozen EEG Trunks",
+     "link": "https://arxiv.org/abs/2611.25315",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
-     "link": "https://arxiv.org/abs/2611.23795",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
+     "link": "https://arxiv.org/abs/2611.26018",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Inferring Neural Activity Changes under Recording Uncertainty with Transformers and Variational Inference",
-     "link": "https://arxiv.org/abs/2611.24767",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Revealing Pathway Interactions in Network Computations with Complete Path Contribution",
+     "link": "https://arxiv.org/abs/2611.26101",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "How the material world of the brain, as a complex system governed by intermittent dynamics, gives rise to the supposedly \"immaterial\" world of mental processes such as thought",
-     "link": "https://arxiv.org/abs/2611.23486",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Temporal Contrastive Alignment of EEG and Naturalistic Video Only Beats Linear Decoding On In-Sample Stimuli",
+     "link": "https://arxiv.org/abs/2611.26258",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis",
-     "link": "https://arxiv.org/abs/2611.23755",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "A Control-Theoretic Approximation to Predictive Coding Dynamics",
+     "link": "https://arxiv.org/abs/2611.26319",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
-     "link": "https://arxiv.org/abs/2611.24782",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
+     "link": "https://arxiv.org/abs/2510.02596",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Old Matches, New Frames: Schedule-Gated Stereo Memory from Human Vision to Machine Matching",
-     "link": "https://arxiv.org/abs/2611.24848",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "System-level nonequivalence between integrated information and expected free energy in noisy permutation networks",
+     "link": "https://arxiv.org/abs/2610.03735",
+     "date": "2026-11-20T00:00:00-05:00"
+    },
+    {
+     "title": "Sensorimotor behavior from an untrained brain-and-nerve-cord connectome",
+     "link": "https://arxiv.org/abs/2610.33881",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
      "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
      "link": "https://arxiv.org/abs/2611.22639",
-     "date": "2026-11-19T00:00:00-05:00"
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
-     "link": "https://arxiv.org/abs/2605.00778",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Hierarchical Latent Structure Learning through Online Inference",
+     "link": "https://arxiv.org/abs/2603.19139",
+     "date": "2026-11-20T00:00:00-05:00"
     },
     {
-     "title": "REALM: Retrospective Encoder Alignment for LFP Modeling",
-     "link": "https://arxiv.org/abs/2605.14867",
-     "date": "2026-11-19T00:00:00-05:00"
+     "title": "Modeling sequential cognitive states via population level cortical dynamics",
+     "link": "https://arxiv.org/abs/2605.02365",
+     "date": "2026-11-20T00:00:00-05:00"
+    },
+    {
+     "title": "When Does Depth Matter For In-Context Learning? Adaptive Inference in Deep Transformers",
+     "link": "https://arxiv.org/abs/2606.16694",
+     "date": "2026-11-20T00:00:00-05:00"
     }
    ]
   },
@@ -86,9 +96,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-19T05:00:27+00:00",
+   "latest": "2026-11-20T05:00:06+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Training graduate students as a teaching professor",
+     "link": "https://www.thetransmitter.org/craft-and-careers/training-graduate-students-as-a-teaching-professor/",
+     "date": "2026-11-20T05:00:06+00:00"
+    },
     {
      "title": "Loss of Angelman-linked UBE3A gene triggers stress response in neurons",
      "link": "https://www.thetransmitter.org/spectrum/loss-of-angelman-linked-ube3a-gene-triggers-stress-response-in-neurons/",
@@ -133,11 +148,6 @@
      "title": "Machine-learning model spots autism-linked variants that scramble splicing",
      "link": "https://www.thetransmitter.org/spectrum/machine-learning-model-spots-autism-linked-variants-that-scramble-splicing/",
      "date": "2026-11-12T05:00:46+00:00"
-    },
-    {
-     "title": "Future of AI brain models sparks debate",
-     "link": "https://www.thetransmitter.org/systems-neuroscience/future-of-ai-brain-models-sparks-debate/",
-     "date": "2026-11-11T18:44:10+00:00"
     }
    ]
   },
@@ -226,9 +236,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-19T00:00:00+00:00",
+   "latest": "2026-11-20T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "The use of Mendelian randomization to explore the causal consequences of childhood maltreatment: consideration of assumptions and challenges",
+     "link": "https://www.nature.com/articles/s41398-026-04562-w",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "Brain-derived multi-omics prioritization of mitochondria-related genes in schizophrenia, bipolar disorder, and major depressive disorder",
+     "link": "https://www.nature.com/articles/s41398-026-04586-2",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
     {
      "title": "A reproducible structural brain axis of alcohol use severity",
      "link": "https://www.nature.com/articles/s41398-026-04587-1",
@@ -258,16 +278,6 @@
      "title": "The Living Lab at Home as an innovative platform for equitable and accessible study of families across a diverse developmental spectrum",
      "link": "https://www.nature.com/articles/s41398-026-04410-x",
      "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "Worldwide use of long-acting injectable antipsychotics in schizophrenia: a systematic review and meta-analysis",
-     "link": "https://www.nature.com/articles/s41398-026-04571-9",
-     "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "2-AG as a potential biomarker for predicting response to short-term fluoxetine treatment in a mouse model of depression",
-     "link": "https://www.nature.com/articles/s41398-026-04548-8",
-     "date": "2026-11-13T00:00:00+00:00"
     }
    ]
   },
@@ -1994,9 +2004,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-18T00:00:00+00:00",
+   "latest": "2026-11-20T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A comprehensive review of biosignal foundation models",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1d",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
     {
      "title": "Imaging fast neural circuit activity in brain and nerve with electrical impedance tomography (fnEIT): review, method and engineering aspects",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebefd",
@@ -2041,11 +2056,6 @@
      "title": "Influence of out-of-plane electric fields in an ex vivo model of transcranial electrical stimulation",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb04a",
      "date": "2026-11-11T00:00:00+00:00"
-    },
-    {
-     "title": "Recent advances and challenges in autonomous wireless implantable neurologgers for animal studies: neural recording, power supply, and data transmission technologies",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97d",
-     "date": "2026-11-10T00:00:00+00:00"
     }
    ]
   },
