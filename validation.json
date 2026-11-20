@@ -762,6 +762,11 @@
    "status": 200,
    "items": [
     {
+     "title": "AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014981",
+     "date": "2026-11-19T14:00:00+00:00"
+    },
+    {
      "title": "Gray bats heighten their response to social cues when navigating group flight in environments with obstacles",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014900",
      "date": "2026-11-19T14:00:00+00:00"
@@ -904,11 +909,6 @@
     {
      "title": "Ten simple rules for a department chair",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014934",
-     "date": "2026-11-06T14:00:00+00:00"
-    },
-    {
-     "title": "PINN-based functional inference in size-structured population models: Application to fish oogenesis",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014933",
      "date": "2026-11-06T14:00:00+00:00"
     }
    ]
