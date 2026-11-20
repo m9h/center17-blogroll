@@ -19,14 +19,14 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-16 | Cognitive Neuroscience and Neuroimaging |
 | [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-19 |  |
-| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-19 |  |
+| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-20 |  |
 
 ## Neuroimaging
 
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [OHBM blog](https://www.ohbmbrainmappingblog.com/blog/feed) | [www.ohbmbrainmappingblog.com](https://www.ohbmbrainmappingblog.com/) | 2024-08-26 |  |
-| [NeuroStars (latest)](https://neurostars.org/latest.rss) | [neurostars.org](https://neurostars.org/) | 2026-11-18 | Q&A forum |
+| [NeuroStars (latest)](https://neurostars.org/latest.rss) | [neurostars.org](https://neurostars.org/) | 2026-11-20 | Q&A forum |
 | [Brainder (Anderson Winkler)](https://brainder.org/feed/) | [brainder.org](https://brainder.org/) | 2026-09-08 |  |
 | [practiCal fMRI](https://practicalfmri.blogspot.com/feeds/posts/default) | [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/) | 2026-06-04 |  |
 | [MNE-Python releases](https://github.com/mne-tools/mne-python/releases.atom) | [mne.tools](https://mne.tools/) | 2026-09-11 |  |

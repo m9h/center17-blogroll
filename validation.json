@@ -245,6 +245,11 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
+     "title": "DNA methylation changes associated with antipsychotic serum concentrations in patients with psychosis",
+     "link": "https://www.nature.com/articles/s41398-026-04567-5",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
      "title": "Brain-derived multi-omics prioritization of mitochondria-related genes in schizophrenia, bipolar disorder, and major depressive disorder",
      "link": "https://www.nature.com/articles/s41398-026-04586-2",
      "date": "2026-11-20T00:00:00+00:00"
@@ -272,11 +277,6 @@
     {
      "title": "Large-Scale mapping of psychotropic weight effects: LLM-Based event detection across 222,545 deduplicated real-world patient narratives",
      "link": "https://www.nature.com/articles/s41398-026-04551-z",
-     "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "The Living Lab at Home as an innovative platform for equitable and accessible study of families across a diverse developmental spectrum",
-     "link": "https://www.nature.com/articles/s41398-026-04410-x",
      "date": "2026-11-16T00:00:00+00:00"
     }
    ]
@@ -931,9 +931,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-19T00:00:00+00:00",
+   "latest": "2026-11-20T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
+     "link": "https://elifesciences.org/articles/111304",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
     {
      "title": "Decreased astrocytic CCL5 by <i>Mir324</i> ameliorates ischemic stroke injury via the CCR5/ERK/CREB pathway",
      "link": "https://elifesciences.org/articles/101719",
@@ -960,13 +965,13 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
-     "link": "https://elifesciences.org/articles/110625",
+     "title": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
+     "link": "https://elifesciences.org/articles/112181",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
-     "link": "https://elifesciences.org/articles/112181",
+     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
+     "link": "https://elifesciences.org/articles/110625",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
@@ -1068,11 +1073,6 @@
      "title": "Compensation of hyperexcitability with simulation-based inference",
      "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Revealing the benefit of eye motion for acuity under emulated cone loss",
-     "link": "https://elifesciences.org/articles/111289",
-     "date": "2026-10-29T00:00:00+00:00"
     }
    ]
   }
@@ -1224,9 +1224,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-18T19:56:36+00:00",
+   "latest": "2026-11-20T09:04:32+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Residual stretching of brain stem after TOPUP",
+     "link": "https://neurostars.org/t/residual-stretching-of-brain-stem-after-topup/39122",
+     "date": "2026-11-20T09:04:32+00:00"
+    },
     {
      "title": "COGNESTIC 2027 \u2013 Applications open for neuroimaging training in Cambridge",
      "link": "https://neurostars.org/t/cognestic-2027-applications-open-for-neuroimaging-training-in-cambridge/39119",
@@ -1371,11 +1376,6 @@
      "title": "EDR Viewer for Mac: view WinEDR EDR and pCLAMP ABF/ATF recordings",
      "link": "https://neurostars.org/t/edr-viewer-for-mac-view-winedr-edr-and-pclamp-abf-atf-recordings/36494",
      "date": "2026-10-27T14:06:34+00:00"
-    },
-    {
-     "title": "Dcm2niix Failing to Convert Philips Multi-Echo DICOM",
-     "link": "https://neurostars.org/t/dcm2niix-failing-to-convert-philips-multi-echo-dicom/36493",
-     "date": "2026-10-27T09:02:47+00:00"
     }
    ]
   },
