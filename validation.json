@@ -8,85 +8,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-20T00:00:00-05:00",
+   "latest": null,
    "status": 200,
-   "items": [
-    {
-     "title": "Persistence of Multifractal Dynamics at the Mammalian Neuromuscular Junction Across Extracellular Calcium Conditions",
-     "link": "https://arxiv.org/abs/2611.25139",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Cultural invariance in music-evoked emotions",
-     "link": "https://arxiv.org/abs/2611.25189",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Regime-dependent reconstruction of structural connectivity: an in silico study of spatially constrained modular neuronal networks",
-     "link": "https://arxiv.org/abs/2611.25830",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "When Should Deployed BCI Decoders Adapt? A Resource-Priced Ladder for Frozen EEG Trunks",
-     "link": "https://arxiv.org/abs/2611.25315",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
-     "link": "https://arxiv.org/abs/2611.26018",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Revealing Pathway Interactions in Network Computations with Complete Path Contribution",
-     "link": "https://arxiv.org/abs/2611.26101",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Temporal Contrastive Alignment of EEG and Naturalistic Video Only Beats Linear Decoding On In-Sample Stimuli",
-     "link": "https://arxiv.org/abs/2611.26258",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "A Control-Theoretic Approximation to Predictive Coding Dynamics",
-     "link": "https://arxiv.org/abs/2611.26319",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
-     "link": "https://arxiv.org/abs/2510.02596",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "System-level nonequivalence between integrated information and expected free energy in noisy permutation networks",
-     "link": "https://arxiv.org/abs/2610.03735",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Sensorimotor behavior from an untrained brain-and-nerve-cord connectome",
-     "link": "https://arxiv.org/abs/2610.33881",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
-     "link": "https://arxiv.org/abs/2611.22639",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Hierarchical Latent Structure Learning through Online Inference",
-     "link": "https://arxiv.org/abs/2603.19139",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "Modeling sequential cognitive states via population level cortical dynamics",
-     "link": "https://arxiv.org/abs/2605.02365",
-     "date": "2026-11-20T00:00:00-05:00"
-    },
-    {
-     "title": "When Does Depth Matter For In-Context Learning? Adaptive Inference in Deep Transformers",
-     "link": "https://arxiv.org/abs/2606.16694",
-     "date": "2026-11-20T00:00:00-05:00"
-    }
-   ]
+   "items": []
   },
   {
    "title": "The Transmitter",
@@ -240,8 +164,28 @@
    "status": 200,
    "items": [
     {
+     "title": "Metabolite profiling insights into bipolar disorder, major depressive disorder, and schizophrenia",
+     "link": "https://www.nature.com/articles/s41398-026-04559-5",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
      "title": "The use of Mendelian randomization to explore the causal consequences of childhood maltreatment: consideration of assumptions and challenges",
      "link": "https://www.nature.com/articles/s41398-026-04562-w",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "DNA methylation changes associated with antipsychotic serum concentrations in patients with psychosis",
+     "link": "https://www.nature.com/articles/s41398-026-04567-5",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "Exploring the brain\u2019s response to food stimuli in anorexia nervosa: a comprehensive meta-analysis of neuroimaging studies",
+     "link": "https://www.nature.com/articles/s41398-026-04560-y",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "Defensive reactivity to interoceptive perturbation in panic disorder: Depressive symptom burden and panic severity dimensions",
+     "link": "https://www.nature.com/articles/s41398-026-04570-w",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -258,26 +202,6 @@
      "title": "Animal models in psychedelic research \u2013 Tripping over translation",
      "link": "https://www.nature.com/articles/s41398-026-04589-z",
      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-     "title": "History of psychosis matters: deviation in age-related decline of working memory across the schizo-bipolar spectrum",
-     "link": "https://www.nature.com/articles/s41398-026-04500-w",
-     "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-     "title": "Hypothalamic paraventricular nucleus: A central hub for pain-emotion comorbidity",
-     "link": "https://www.nature.com/articles/s41398-026-04550-0",
-     "date": "2026-11-17T00:00:00+00:00"
-    },
-    {
-     "title": "Large-Scale mapping of psychotropic weight effects: LLM-Based event detection across 222,545 deduplicated real-world patient narratives",
-     "link": "https://www.nature.com/articles/s41398-026-04551-z",
-     "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "The Living Lab at Home as an innovative platform for equitable and accessible study of families across a diverse developmental spectrum",
-     "link": "https://www.nature.com/articles/s41398-026-04410-x",
-     "date": "2026-11-16T00:00:00+00:00"
     }
    ]
   },
