@@ -169,6 +169,11 @@
      "date": "2026-11-21T00:00:00+00:00"
     },
     {
+     "title": "Amygdala-cingulate projection neurons promote behavioral adjustments to decreasing contextual threat",
+     "link": "https://www.nature.com/articles/s41398-026-04540-2",
+     "date": "2026-11-21T00:00:00+00:00"
+    },
+    {
      "title": "Effective connectivity reveals hippocampal disruptions during conditioning and extinction are associated with adolescent anxiety",
      "link": "https://www.nature.com/articles/s41398-026-04574-6",
      "date": "2026-11-21T00:00:00+00:00"
@@ -196,11 +201,6 @@
     {
      "title": "Exploring the brain\u2019s response to food stimuli in anorexia nervosa: a comprehensive meta-analysis of neuroimaging studies",
      "link": "https://www.nature.com/articles/s41398-026-04560-y",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "Defensive reactivity to interoceptive perturbation in panic disorder: Depressive symptom burden and panic severity dimensions",
-     "link": "https://www.nature.com/articles/s41398-026-04570-w",
      "date": "2026-11-20T00:00:00+00:00"
     }
    ]
@@ -2470,9 +2470,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-20T14:06:24+00:00",
+   "latest": "2026-11-21T15:45:24+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/21.html#a153347",
+     "date": "2026-11-21T15:33:47+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/21.html#a154524",
+     "date": "2026-11-21T15:45:24+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/20.html#a140624",
@@ -2662,16 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/13.html#a170644",
      "date": "2026-11-13T17:06:44+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/13.html#a182112",
-     "date": "2026-11-13T18:21:12+00:00"
-    },
-    {
-     "title": "A Substack experiment",
-     "link": "http://scripting.com/2026/11/13/154754.html?title=aSubstackExperiment",
-     "date": "2026-11-13T15:47:54+00:00"
     }
    ]
   },
