@@ -160,12 +160,27 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-20T00:00:00+00:00",
+   "latest": "2026-11-21T00:00:00+00:00",
    "status": 200,
    "items": [
     {
+     "title": "Multimodal alterations of brain structure and function after electroconvulsive therapy in psychiatric disorders: a voxel-based meta-analysis",
+     "link": "https://www.nature.com/articles/s41398-026-04582-6",
+     "date": "2026-11-21T00:00:00+00:00"
+    },
+    {
+     "title": "Effective connectivity reveals hippocampal disruptions during conditioning and extinction are associated with adolescent anxiety",
+     "link": "https://www.nature.com/articles/s41398-026-04574-6",
+     "date": "2026-11-21T00:00:00+00:00"
+    },
+    {
      "title": "Metabolite profiling insights into bipolar disorder, major depressive disorder, and schizophrenia",
      "link": "https://www.nature.com/articles/s41398-026-04559-5",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "A pro-inflammatory gut microbiota-metabolic axis in global developmental delay identified by integrated multi-omics",
+     "link": "https://www.nature.com/articles/s41398-026-04420-9",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -187,21 +202,6 @@
      "title": "Defensive reactivity to interoceptive perturbation in panic disorder: Depressive symptom burden and panic severity dimensions",
      "link": "https://www.nature.com/articles/s41398-026-04570-w",
      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "Brain-derived multi-omics prioritization of mitochondria-related genes in schizophrenia, bipolar disorder, and major depressive disorder",
-     "link": "https://www.nature.com/articles/s41398-026-04586-2",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "A reproducible structural brain axis of alcohol use severity",
-     "link": "https://www.nature.com/articles/s41398-026-04587-1",
-     "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-     "title": "Animal models in psychedelic research \u2013 Tripping over translation",
-     "link": "https://www.nature.com/articles/s41398-026-04589-z",
-     "date": "2026-11-19T00:00:00+00:00"
     }
    ]
   },
