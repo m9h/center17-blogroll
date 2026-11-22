@@ -160,9 +160,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-21T00:00:00+00:00",
+   "latest": "2026-11-22T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Transcriptome changes of disinhibited somatostatin neurons in the medial prefrontal cortex mediating male-specific stress resilience",
+     "link": "https://www.nature.com/articles/s41398-026-04576-4",
+     "date": "2026-11-22T00:00:00+00:00"
+    },
     {
      "title": "Multimodal alterations of brain structure and function after electroconvulsive therapy in psychiatric disorders: a voxel-based meta-analysis",
      "link": "https://www.nature.com/articles/s41398-026-04582-6",
@@ -196,11 +201,6 @@
     {
      "title": "DNA methylation changes associated with antipsychotic serum concentrations in patients with psychosis",
      "link": "https://www.nature.com/articles/s41398-026-04567-5",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "Exploring the brain\u2019s response to food stimuli in anorexia nervosa: a comprehensive meta-analysis of neuroimaging studies",
-     "link": "https://www.nature.com/articles/s41398-026-04560-y",
      "date": "2026-11-20T00:00:00+00:00"
     }
    ]
