@@ -2470,9 +2470,34 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-21T21:32:40+00:00",
+   "latest": "2026-11-22T18:28:23+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/22.html#a151736",
+     "date": "2026-11-22T15:17:36+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/22.html#a162053",
+     "date": "2026-11-22T16:20:53+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/22.html#a161855",
+     "date": "2026-11-22T16:18:55+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/22.html#a175810",
+     "date": "2026-11-22T17:58:10+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/22.html#a182823",
+     "date": "2026-11-22T18:28:23+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/21.html#a153347",
@@ -2647,31 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/14.html#a185540",
      "date": "2026-11-14T18:55:40+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/14.html#a173145",
-     "date": "2026-11-14T17:31:45+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/14.html#a170002",
-     "date": "2026-11-14T17:00:02+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/13.html#a214748",
-     "date": "2026-11-13T21:47:48+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/13.html#a214654",
-     "date": "2026-11-13T21:46:54+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/13.html#a182551",
-     "date": "2026-11-13T18:25:51+00:00"
     }
    ]
   },
