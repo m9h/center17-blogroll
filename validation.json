@@ -2470,7 +2470,7 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-21T15:45:24+00:00",
+   "latest": "2026-11-21T21:32:40+00:00",
    "status": 200,
    "items": [
     {
@@ -2482,6 +2482,11 @@
      "title": "",
      "link": "http://scripting.com/2026/11/21.html#a154524",
      "date": "2026-11-21T15:45:24+00:00"
+    },
+    {
+     "title": "New Markdown sites",
+     "link": "http://scripting.com/2026/11/21/213240.html?title=newMarkdownSites",
+     "date": "2026-11-21T21:32:40+00:00"
     },
     {
      "title": "",
@@ -2667,11 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/13.html#a182551",
      "date": "2026-11-13T18:25:51+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/13.html#a170644",
-     "date": "2026-11-13T17:06:44+00:00"
     }
    ]
   },
