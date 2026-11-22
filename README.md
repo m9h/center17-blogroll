@@ -26,7 +26,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [OHBM blog](https://www.ohbmbrainmappingblog.com/blog/feed) | [www.ohbmbrainmappingblog.com](https://www.ohbmbrainmappingblog.com/) | 2024-08-26 |  |
-| [NeuroStars (latest)](https://neurostars.org/latest.rss) | [neurostars.org](https://neurostars.org/) | 2026-11-20 | Q&A forum |
+| [NeuroStars (latest)](https://neurostars.org/latest.rss) | [neurostars.org](https://neurostars.org/) | 2026-11-22 | Q&A forum |
 | [Brainder (Anderson Winkler)](https://brainder.org/feed/) | [brainder.org](https://brainder.org/) | 2026-09-08 |  |
 | [practiCal fMRI](https://practicalfmri.blogspot.com/feeds/posts/default) | [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/) | 2026-06-04 |  |
 | [MNE-Python releases](https://github.com/mne-tools/mne-python/releases.atom) | [mne.tools](https://mne.tools/) | 2026-09-11 |  |
