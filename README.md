@@ -13,13 +13,13 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-23 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
-| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-18 |  |
-| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-22 |  |
-| [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-19 |  |
+| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-23 |  |
+| [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-23 |  |
+| [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-23 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-20 | Cognitive Neuroscience and Neuroimaging |
 | [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-20 |  |
-| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-20 |  |
+| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-23 |  |
 
 ## Neuroimaging
 
@@ -35,7 +35,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [OpenNeuro (GitHub releases)](https://github.com/OpenNeuroOrg/openneuro/releases.atom) | [openneuro.org](https://openneuro.org/) | 2026-11-09 |  |
 | [NeuroImage](https://rss.sciencedirect.com/publication/science/10538119) | [www.sciencedirect.com/journal/neuroimage](https://www.sciencedirect.com/journal/neuroimage) |  |  |
 | [Brainhack](https://brainhack.org/feed.xml) | [brainhack.org](https://brainhack.org/) | 2025-09-11 |  |
-| [DANDI (GitHub releases)](https://github.com/dandi/dandi-cli/releases.atom) | [dandiarchive.org](https://dandiarchive.org/) | 2026-11-03 | neurophysiology data archive |
+| [DANDI (GitHub releases)](https://github.com/dandi/dandi-cli/releases.atom) | [dandiarchive.org](https://dandiarchive.org/) | 2026-11-23 | neurophysiology data archive |
 
 ## Neuromodulation
 

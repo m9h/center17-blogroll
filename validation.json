@@ -173,9 +173,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
-   "latest": "2026-11-18T00:00:00+00:00",
+   "latest": "2026-11-23T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Bridging depression and cardiovascular disease: shared inflammatory biomarkers from an umbrella review",
+     "link": "https://www.nature.com/articles/s44220-026-00765-8",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+     "title": "Genetic liability to depression has distinctive associations with cardiometabolic diseases",
+     "link": "https://www.nature.com/articles/s44220-026-00749-8",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
     {
      "title": "Elucidating the heterogeneity in autism through developmental trajectories",
      "link": "https://www.nature.com/articles/s44220-026-00755-w",
@@ -205,16 +215,6 @@
      "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
      "link": "https://www.nature.com/articles/s44220-026-00753-y",
      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-     "title": "Birth weight, cognitive reserve and outcomes after first-episode psychosis",
-     "link": "https://www.nature.com/articles/s44220-026-00751-0",
-     "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-     "title": "Systematic review and meta-analysis of cognitive behavioral therapy for insomnia as a suicide prevention strategy",
-     "link": "https://www.nature.com/articles/s44220-026-00743-0",
-     "date": "2026-10-23T00:00:00+00:00"
     }
    ]
   },
@@ -226,9 +226,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-22T00:00:00+00:00",
+   "latest": "2026-11-23T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Adult neuroimmune and behavioral consequences of prenatal exposure to autism-associated maternal autoantibodies",
+     "link": "https://www.nature.com/articles/s41398-026-04594-2",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
     {
      "title": "Transcriptome changes of disinhibited somatostatin neurons in the medial prefrontal cortex mediating male-specific stress resilience",
      "link": "https://www.nature.com/articles/s41398-026-04576-4",
@@ -263,11 +268,6 @@
      "title": "The use of Mendelian randomization to explore the causal consequences of childhood maltreatment: consideration of assumptions and challenges",
      "link": "https://www.nature.com/articles/s41398-026-04562-w",
      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "DNA methylation changes associated with antipsychotic serum concentrations in patients with psychosis",
-     "link": "https://www.nature.com/articles/s41398-026-04567-5",
-     "date": "2026-11-20T00:00:00+00:00"
     }
    ]
   },
@@ -279,9 +279,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-19T00:00:00+00:00",
+   "latest": "2026-11-23T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Epigenetic clocks and adverse childhood experiences: a meta-analysis",
+     "link": "https://www.nature.com/articles/s41380-026-03857-0",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
     {
      "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance",
      "link": "https://www.nature.com/articles/s41380-026-03974-w",
@@ -315,11 +320,6 @@
     {
      "title": "Mapping cerebellar morphology in 15q11.2 CNV carriers using normative modeling",
      "link": "https://www.nature.com/articles/s41380-026-03711-3",
-     "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-     "title": "Bioinformatic investigation of convergent proteins and cellular functions downstream of autism-associated genes",
-     "link": "https://www.nature.com/articles/s41380-026-03940-6",
      "date": "2026-11-04T00:00:00+00:00"
     }
    ]
@@ -921,12 +921,22 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-20T00:00:00+00:00",
+   "latest": "2026-11-23T00:00:00+00:00",
    "status": 200,
    "items": [
     {
+     "title": "ATP8B1\u2013TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
+     "link": "https://elifesciences.org/articles/110466",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
      "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
      "link": "https://elifesciences.org/articles/113786",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "Blood-derived dietary protein promotes sleep in the mosquito <i>Aedes aegypti</i>",
+     "link": "https://elifesciences.org/articles/110245",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -940,14 +950,14 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
-     "title": "Blood-derived dietary protein promotes sleep in the mosquito <i>Aedes aegypti</i>",
-     "link": "https://elifesciences.org/articles/110245",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
      "title": "Decreased astrocytic CCL5 by <i>Mir324</i> ameliorates ischemic stroke injury via the CCR5/ERK/CREB pathway",
      "link": "https://elifesciences.org/articles/101719",
      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+     "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
+     "link": "https://elifesciences.org/articles/109811",
+     "date": "2026-11-18T00:00:00+00:00"
     },
     {
      "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
@@ -960,23 +970,18 @@
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
-     "link": "https://elifesciences.org/articles/109811",
-     "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
      "title": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
      "link": "https://elifesciences.org/articles/112181",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
-     "link": "https://elifesciences.org/articles/111297",
+     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
+     "link": "https://elifesciences.org/articles/110625",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
-     "link": "https://elifesciences.org/articles/110625",
+     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
+     "link": "https://elifesciences.org/articles/111297",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
@@ -1057,11 +1062,6 @@
     {
      "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
      "link": "https://elifesciences.org/articles/111371",
-     "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Compensation of hyperexcitability with simulation-based inference",
-     "link": "https://elifesciences.org/articles/107045",
      "date": "2026-10-30T00:00:00+00:00"
     }
    ]
@@ -1905,9 +1905,14 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from dandi-cli",
-   "latest": "2026-11-03T19:44:28+00:00",
+   "latest": "2026-11-23T13:14:55+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "0.83.0",
+     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.83.0",
+     "date": "2026-11-23T13:14:55+00:00"
+    },
     {
      "title": "0.82.0",
      "link": "https://github.com/dandi/dandi-cli/releases/tag/0.82.0",
@@ -1952,11 +1957,6 @@
      "title": "0.76.7",
      "link": "https://github.com/dandi/dandi-cli/releases/tag/0.76.7",
      "date": "2026-07-10T19:01:32+00:00"
-    },
-    {
-     "title": "0.76.6",
-     "link": "https://github.com/dandi/dandi-cli/releases/tag/0.76.6",
-     "date": "2026-07-07T13:52:27+00:00"
     }
    ]
   }
@@ -1998,6 +1998,16 @@
    "status": 200,
    "items": [
     {
+     "title": "CORRIGENDUM: Neural decoding and feature selection methods for closed-loop control of avoidance behavior (2024 J. Neural Eng. 21 056041)",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec1ff",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+     "title": "Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebdcf",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
      "title": "Gaze-controlled segmentation improves object recognition accuracy in simulated phosphene vision",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec048",
      "date": "2026-11-23T00:00:00+00:00"
@@ -2036,16 +2046,6 @@
      "title": "A phase-calibrated combined electrical-sensory neuromodulation platform for short-term frontoparietal network modulation and cognitive fatigue resistance",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebcb6",
      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "Augmented reality paradigm and EA-DGCNN decoding algorithm for motor imagery in stroke patients",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebdce",
-     "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97c",
-     "date": "2026-11-12T00:00:00+00:00"
     }
    ]
   },
