@@ -8,9 +8,75 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": null,
+   "latest": "2026-11-23T00:00:00-05:00",
    "status": 200,
-   "items": []
+   "items": [
+    {
+     "title": "Causal Event Networks: Entangled Tensor Graphs, Connectome Quotient Topology, and Subjective Experience as Geometric Dual",
+     "link": "https://arxiv.org/abs/2611.26646",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs",
+     "link": "https://arxiv.org/abs/2611.26913",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Serial Dependence Emerges from Optimizing Vision for Noise Robustness",
+     "link": "https://arxiv.org/abs/2611.26949",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Classical visual illusions in vision-language models under an instruction ladder",
+     "link": "https://arxiv.org/abs/2611.27242",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "The Four-Step Action Loop with Feedback: A teachable perception-action framework for everyday self-regulation",
+     "link": "https://arxiv.org/abs/2611.27795",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Self-organized fractional silencing of pyramidal neurons under global depolarization in a spatial neuron-glial microcircuit model",
+     "link": "https://arxiv.org/abs/2611.27847",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Spatial model of neurogliovascular unit: arachidonic acid can control the stability",
+     "link": "https://arxiv.org/abs/2611.27888",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series",
+     "link": "https://arxiv.org/abs/2611.26856",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "From Novel Combinations to Informative Absence: Structural permission, communicative opportunity, and form choice in language learning",
+     "link": "https://arxiv.org/abs/2611.27762",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Direction and speed selectivity properties for spatio-temporal receptive fields according to the generalized Gaussian derivative model for visual receptive fields",
+     "link": "https://arxiv.org/abs/2511.08101",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Growing a Neural Network in Breadth, Depth, and Time",
+     "link": "https://arxiv.org/abs/2605.25174",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "Persistence of Multifractal Dynamics at the Mammalian Neuromuscular Junction Across Extracellular Calcium Conditions",
+     "link": "https://arxiv.org/abs/2611.25139",
+     "date": "2026-11-23T00:00:00-05:00"
+    },
+    {
+     "title": "HP-GSBS: Accelerating greedy state boundary search with reusable interval statistics",
+     "link": "https://arxiv.org/abs/2610.25898",
+     "date": "2026-11-23T00:00:00-05:00"
+    }
+   ]
   },
   {
    "title": "The Transmitter",
@@ -20,9 +86,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-20T23:11:20+00:00",
+   "latest": "2026-11-23T05:10:46+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Hidden connections in the thalamus: Mapping the electrical synapses of the brain\u2019s attentional gate",
+     "link": "https://www.thetransmitter.org/thalamus/shine-haas-hidden-connections-in-the-thalamus/",
+     "date": "2026-11-23T05:10:46+00:00"
+    },
     {
      "title": "\u2018Shock and pain\u2019 after ICE detains Princeton neuroscientist",
      "link": "https://www.thetransmitter.org/policy/carlos-brody-ice-detainment-neuroscientist/",
@@ -67,11 +138,6 @@
      "title": "The term \u2018model organism\u2019 should be reserved for biological systems",
      "link": "https://www.thetransmitter.org/animal-models/the-term-model-organism-should-be-reserved-for-biological-systems/",
      "date": "2026-11-13T05:00:21+00:00"
-    },
-    {
-     "title": "New phase of BRAIN Initiative spawns basal ganglia \u2018parts list\u2019",
-     "link": "https://www.thetransmitter.org/basal-ganglia/new-phase-of-brain-initiative-spawns-basal-ganglia-parts-list/",
-     "date": "2026-11-12T16:02:22+00:00"
     }
    ]
   },
@@ -1928,9 +1994,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-20T00:00:00+00:00",
+   "latest": "2026-11-23T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Gaze-controlled segmentation improves object recognition accuracy in simulated phosphene vision",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec048",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
     {
      "title": "A comprehensive review of biosignal foundation models",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1d",
@@ -1975,11 +2046,6 @@
      "title": "Accurate EEG-based linear state-space model of cortical dynamics during a passive motor task with exogenous input",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb97c",
      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-     "title": "Influence of out-of-plane electric fields in an ex vivo model of transcranial electrical stimulation",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb04a",
-     "date": "2026-11-11T00:00:00+00:00"
     }
    ]
   },
