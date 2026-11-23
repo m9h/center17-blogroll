@@ -336,6 +336,11 @@
    "status": 200,
    "items": [
     {
+     "title": "Associations of Prenatal Cannabis Exposure and Neonatal Brain Development in the HBCD Cohort",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01710-5/fulltext?rss=yes",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
      "title": "Combined Neuromelanin-Sensitive and Functional Magnetic Resonance Imaging Links Midbrain Dopaminergic Dysfunction to Connectome Architecture in First-Episode, Medication-Na\u00efve Major Depressive Disorder",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01709-9/fulltext?rss=yes",
      "date": "2026-11-22T00:00:00+00:00"
@@ -529,11 +534,6 @@
      "title": "Connection-Level Multi-Omics Reveals Cerebellar-Cortical Dysconnectivity and Divergent Molecular Signatures Across Major Psychiatric Disorders",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01579-9/fulltext?rss=yes",
      "date": "2026-10-03T00:00:00+00:00"
-    },
-    {
-     "title": "A Ventral Hippocampus\u2013Prefrontal Circuit Mediates the Pro-Extinction Effects of Adult Hippocampal Neurogenesis on Contextual Fear",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01576-3/fulltext?rss=yes",
-     "date": "2026-09-28T00:00:00+00:00"
     }
    ]
   },
@@ -758,9 +758,29 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-20T14:00:00+00:00",
+   "latest": "2026-11-23T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Statistical analysis of residue contact energies reveals folding determinants of ion channels",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014990",
+     "date": "2026-11-23T14:00:00+00:00"
+    },
+    {
+     "title": "Multi-model forecasting of respiratory disease activity in Germany during the 2024\u20132025 season",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014985",
+     "date": "2026-11-23T14:00:00+00:00"
+    },
+    {
+     "title": "AlphaFold models of host-pathogen interactions elucidate the prevalence and structural modes of molecular mimicry",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014932",
+     "date": "2026-11-23T14:00:00+00:00"
+    },
+    {
+     "title": "Large-scale analysis of AlphaFold structures reveals organism-specific physicochemical signatures",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014929",
+     "date": "2026-11-23T14:00:00+00:00"
+    },
     {
      "title": "Ionic condition-dependent allostery shapes ribosomal dynamics",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014977",
@@ -890,26 +910,6 @@
      "title": "Handshake: Partner-specific protein-protein binding site prediction at scale using ProstT5 and cross-chain attention",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014899",
      "date": "2026-11-13T14:00:00+00:00"
-    },
-    {
-     "title": "Decomposition of the <i>S. aureus</i> pangenome reveals evolving genetic repertoire associated with adaptation and virulence",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014910",
-     "date": "2026-11-12T14:00:00+00:00"
-    },
-    {
-     "title": "Pepti-DrugPhAI: Multimodal AI-evaluator for functional pharmacokinetics and toxicity of peptides",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014956",
-     "date": "2026-11-11T14:00:00+00:00"
-    },
-    {
-     "title": "Sphinx: An R package for adaptive spatial neighborhood modeling and functional analysis in spatial omics",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014954",
-     "date": "2026-11-11T14:00:00+00:00"
-    },
-    {
-     "title": "Burst-to-burst information resetting in sequential rhythmic neural activity",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014953",
-     "date": "2026-11-11T14:00:00+00:00"
     }
    ]
   },
@@ -925,13 +925,18 @@
    "status": 200,
    "items": [
     {
+     "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
+     "link": "https://elifesciences.org/articles/113568",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
      "title": "ATP8B1\u2013TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
      "link": "https://elifesciences.org/articles/110466",
      "date": "2026-11-23T00:00:00+00:00"
     },
     {
-     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
-     "link": "https://elifesciences.org/articles/113786",
+     "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
+     "link": "https://elifesciences.org/articles/111304",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -945,8 +950,8 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
-     "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
-     "link": "https://elifesciences.org/articles/111304",
+     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
+     "link": "https://elifesciences.org/articles/113786",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -955,13 +960,13 @@
      "date": "2026-11-19T00:00:00+00:00"
     },
     {
-     "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
-     "link": "https://elifesciences.org/articles/109811",
+     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
+     "link": "https://elifesciences.org/articles/113746",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
-     "link": "https://elifesciences.org/articles/113746",
+     "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
+     "link": "https://elifesciences.org/articles/109811",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -975,13 +980,13 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
-     "link": "https://elifesciences.org/articles/110625",
+     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
+     "link": "https://elifesciences.org/articles/111297",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
-     "link": "https://elifesciences.org/articles/111297",
+     "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
+     "link": "https://elifesciences.org/articles/110625",
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
@@ -1058,11 +1063,6 @@
      "title": "Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test",
      "link": "https://elifesciences.org/articles/107110",
      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-     "title": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-     "link": "https://elifesciences.org/articles/111371",
-     "date": "2026-10-30T00:00:00+00:00"
     }
    ]
   }
@@ -1214,9 +1214,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-22T10:18:24+00:00",
+   "latest": "2026-11-23T15:07:33+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "BIDS Steering Group Election 2026 Results",
+     "link": "https://neurostars.org/t/bids-steering-group-election-2026-results/39129",
+     "date": "2026-11-23T15:07:33+00:00"
+    },
     {
      "title": "Problem of creating a new version of dataset in openneuro \u2013 support needed",
      "link": "https://neurostars.org/t/problem-of-creating-a-new-version-of-dataset-in-openneuro-support-needed/39127",
@@ -1361,11 +1366,6 @@
      "title": "PCNtoolkit version 1.4.0 is out! \ud83c\udf89",
      "link": "https://neurostars.org/t/pcntoolkit-version-1-4-0-is-out/36496",
      "date": "2026-10-28T00:04:04+00:00"
-    },
-    {
-     "title": "BIDS Steering Group Election 2026",
-     "link": "https://neurostars.org/t/bids-steering-group-election-2026/36495",
-     "date": "2026-10-27T18:58:33+00:00"
     }
    ]
   },
@@ -2536,9 +2536,29 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-22T18:28:23+00:00",
+   "latest": "2026-11-23T16:27:04+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/23.html#a162704",
+     "date": "2026-11-23T16:27:04+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/23.html#a152823",
+     "date": "2026-11-23T15:28:23+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/23.html#a154700",
+     "date": "2026-11-23T15:47:00+00:00"
+    },
+    {
+     "title": "lobste.rs discussion re BonBon",
+     "link": "http://scripting.com/2026/11/23/150103.html?title=lobstersDiscussionReBonbon",
+     "date": "2026-11-23T15:01:03+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/22.html#a151736",
@@ -2718,26 +2738,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/15.html#a223846",
      "date": "2026-11-15T22:38:46+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/15.html#a143649",
-     "date": "2026-11-15T14:36:49+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/14.html#a172519",
-     "date": "2026-11-14T17:25:19+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/14.html#a172805",
-     "date": "2026-11-14T17:28:05+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/14.html#a185540",
-     "date": "2026-11-14T18:55:40+00:00"
     }
    ]
   },
