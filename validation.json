@@ -146,9 +146,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-24T05:00:24+00:00",
+   "latest": "2026-11-24T17:45:25+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Detained neuroscientist \u2018holding out strong\u2019",
+     "link": "https://www.thetransmitter.org/community/detained-neuroscientist-holding-out-strong/",
+     "date": "2026-11-24T17:45:25+00:00"
+    },
     {
      "title": "Noncoding role of FMR1 transcripts; and more",
      "link": "https://www.thetransmitter.org/spectrum/noncoding-role-of-fmr1-transcripts-and-more/",
@@ -193,11 +198,6 @@
      "title": "Scaling up n-of-1 trials; and more",
      "link": "https://www.thetransmitter.org/spectrum/scaling-up-n-of-1-trials-and-more/",
      "date": "2026-11-17T05:00:46+00:00"
-    },
-    {
-     "title": "This paper changed my life: The salience network makes its mark",
-     "link": "https://www.thetransmitter.org/this-paper-changed-my-life/this-paper-changed-my-life-the-salience-network-makes-its-mark/",
-     "date": "2026-11-17T05:00:31+00:00"
     }
    ]
   },
@@ -286,14 +286,9 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-24T00:00:00+00:00",
+   "latest": "2026-11-23T00:00:00+00:00",
    "status": 200,
    "items": [
-    {
-     "title": "Native PLGA nanoparticles exert sustained cognitive and pathological benefits in 5xFAD Alzheimer\u2019s mice",
-     "link": "https://www.nature.com/articles/s41398-026-04583-5",
-     "date": "2026-11-24T00:00:00+00:00"
-    },
     {
      "title": "Adult neuroimmune and behavioral consequences of prenatal exposure to autism-associated maternal autoantibodies",
      "link": "https://www.nature.com/articles/s41398-026-04594-2",
@@ -328,6 +323,11 @@
      "title": "Metabolite profiling insights into bipolar disorder, major depressive disorder, and schizophrenia",
      "link": "https://www.nature.com/articles/s41398-026-04559-5",
      "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "A pro-inflammatory gut microbiota-metabolic axis in global developmental delay identified by integrated multi-omics",
+     "link": "https://www.nature.com/articles/s41398-026-04420-9",
+     "date": "2026-11-20T00:00:00+00:00"
     }
    ]
   },
@@ -342,6 +342,16 @@
    "latest": "2026-11-24T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A mitochondrial mechanism of nuclear histone acetylation dynamically regulates neuronal plasticity: a gateway to stress resilience, and a boosted efficacy of fluoxetine with exercise",
+     "link": "https://www.nature.com/articles/s41380-026-03874-z",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+     "title": "Cell-Type-Specific Cell-Free DNA methylation profiling of central nervous system injury and inflammatory cell turnover in schizophrenia",
+     "link": "https://www.nature.com/articles/s41380-026-03957-x",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
     {
      "title": "Sex-specific reprogramming of immune and endocannabinoid networks in the placenta following prenatal cannabinoid exposure",
      "link": "https://www.nature.com/articles/s41380-026-03964-y",
@@ -371,16 +381,6 @@
      "title": "Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses",
      "link": "https://www.nature.com/articles/s41380-026-03943-3",
      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-     "title": "Non-overlapping rather than \u201copposing\u201d effects of microglial and macrophagic C3ar1 signaling",
-     "link": "https://www.nature.com/articles/s41380-026-03961-1",
-     "date": "2026-11-11T00:00:00+00:00"
-    },
-    {
-     "title": "GluD1 modulates GluN2B-containing NMDAR function and plasticity at subicular synapses",
-     "link": "https://www.nature.com/articles/s41380-026-03951-3",
-     "date": "2026-11-06T00:00:00+00:00"
     }
    ]
   },
@@ -818,9 +818,39 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-23T14:00:00+00:00",
+   "latest": "2026-11-24T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Beyond profiles: Supervised repeat annotation using protein embeddings",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014994",
+     "date": "2026-11-24T14:00:00+00:00"
+    },
+    {
+     "title": "Vascular modelling of peripheral ischaemic disease response",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014970",
+     "date": "2026-11-24T14:00:00+00:00"
+    },
+    {
+     "title": "CoEVFold suite: User friendly pipelines to visually represent protein coevolution",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014968",
+     "date": "2026-11-24T14:00:00+00:00"
+    },
+    {
+     "title": "Deciphering the replication-division coordination in <i>E. coli</i>: A unified mathematical framework for systematic model comparison",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014907",
+     "date": "2026-11-24T14:00:00+00:00"
+    },
+    {
+     "title": "Differential vulnerability of stimulus-locked and persistent gamma oscillations: Implications in schizophrenia",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014374",
+     "date": "2026-11-24T14:00:00+00:00"
+    },
+    {
+     "title": "TRAFIKK: Systematic prediction and mechanistic interpretation of anticancer drug synergies",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014307",
+     "date": "2026-11-24T14:00:00+00:00"
+    },
     {
      "title": "Statistical analysis of residue contact energies reveals folding determinants of ion channels",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014990",
@@ -940,36 +970,6 @@
      "title": "Neuronal XOR computation requires temporally activated synaptic information",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014971",
      "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-     "title": "Epidemic control under incomplete observations through mechanistic state reconstruction and multi-agent learning",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014955",
-     "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-     "title": "A flexible agent-based modelling framework of multi-serotype pneumococcal carriage to evaluate vaccine strategies in large populations",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014946",
-     "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-     "title": "Robust parametric estimation of avian cranial morphology",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014941",
-     "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-     "title": "Ten simple rules for creating and maintaining FAIR competency frameworks",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014922",
-     "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-     "title": "Entangled stoichiometric objectives shape microbial catabolism",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014942",
-     "date": "2026-11-13T14:00:00+00:00"
-    },
-    {
-     "title": "Handshake: Partner-specific protein-protein binding site prediction at scale using ProstT5 and cross-chain attention",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014899",
-     "date": "2026-11-13T14:00:00+00:00"
     }
    ]
   },
@@ -990,6 +990,11 @@
      "date": "2026-11-24T00:00:00+00:00"
     },
     {
+     "title": "Nitric oxide feedback to ciliary photoreceptor cells gates a UV avoidance circuit",
+     "link": "https://elifesciences.org/articles/91258",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
      "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
      "link": "https://elifesciences.org/articles/113568",
      "date": "2026-11-23T00:00:00+00:00"
@@ -1000,8 +1005,8 @@
      "date": "2026-11-23T00:00:00+00:00"
     },
     {
-     "title": "Cognitive control networks in human and macaque",
-     "link": "https://elifesciences.org/articles/111502",
+     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
+     "link": "https://elifesciences.org/articles/113786",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -1015,8 +1020,8 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
-     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
-     "link": "https://elifesciences.org/articles/113786",
+     "title": "Cognitive control networks in human and macaque",
+     "link": "https://elifesciences.org/articles/111502",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -1055,13 +1060,13 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
-     "link": "https://elifesciences.org/articles/108988",
+     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
+     "link": "https://elifesciences.org/articles/110559",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
-     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
-     "link": "https://elifesciences.org/articles/110559",
+     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
+     "link": "https://elifesciences.org/articles/108988",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
@@ -1117,11 +1122,6 @@
     {
      "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
      "link": "https://elifesciences.org/articles/108089",
-     "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-     "title": "A validated antibody toolbox for ALS research",
-     "link": "https://elifesciences.org/articles/111349",
      "date": "2026-11-03T00:00:00+00:00"
     }
    ]
@@ -1274,9 +1274,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-23T15:07:33+00:00",
+   "latest": "2026-11-24T16:38:28+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Does anyone know why the HCP resting state dataset has both AP and PA runs?",
+     "link": "https://neurostars.org/t/does-anyone-know-why-the-hcp-resting-state-dataset-has-both-ap-and-pa-runs/39130",
+     "date": "2026-11-24T16:38:28+00:00"
+    },
     {
      "title": "BIDS Steering Group Election 2026 Results",
      "link": "https://neurostars.org/t/bids-steering-group-election-2026-results/39129",
@@ -1421,11 +1426,6 @@
      "title": "Bad registration of PET images to MRI template?",
      "link": "https://neurostars.org/t/bad-registration-of-pet-images-to-mri-template/36498",
      "date": "2026-10-28T18:44:31+00:00"
-    },
-    {
-     "title": "PCNtoolkit version 1.4.0 is out! \ud83c\udf89",
-     "link": "https://neurostars.org/t/pcntoolkit-version-1-4-0-is-out/36496",
-     "date": "2026-10-28T00:04:04+00:00"
     }
    ]
   },
@@ -2596,9 +2596,34 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-24T01:24:12+00:00",
+   "latest": "2026-11-24T18:45:59+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a184559",
+     "date": "2026-11-24T18:45:59+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a175912",
+     "date": "2026-11-24T17:59:12+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a162247",
+     "date": "2026-11-24T16:22:47+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a155718",
+     "date": "2026-11-24T15:57:18+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a160157",
+     "date": "2026-11-24T16:01:57+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/23.html#a152823",
@@ -2773,31 +2798,6 @@
      "title": "Products require showrunners",
      "link": "http://scripting.com/2026/11/17/035800.html?title=productsRequireShowrunners",
      "date": "2026-11-18T03:58:00+00:00"
-    },
-    {
-     "title": "The danger is real",
-     "link": "http://scripting.com/2026/11/17/042754.html?title=theDangerIsReal",
-     "date": "2026-11-18T04:27:54+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/16.html#a210911",
-     "date": "2026-11-16T21:09:11+00:00"
-    },
-    {
-     "title": "My big turn in Claude-land",
-     "link": "http://scripting.com/2026/11/16/160045.html?title=myBigTurnInClaudeland",
-     "date": "2026-11-16T16:00:45+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/15.html#a223644",
-     "date": "2026-11-15T22:36:44+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/15.html#a232402",
-     "date": "2026-11-15T23:24:02+00:00"
     }
    ]
   },
@@ -3022,9 +3022,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Changelog",
-   "latest": "2026-11-17T16:25:02+00:00",
+   "latest": "2026-11-24T17:19:26+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "More visibility controls for editor cards",
+     "link": "https://ghost.org/changelog/more-visibility-controls-for-editor-cards/",
+     "date": "2026-11-24T17:19:26+00:00"
+    },
     {
      "title": "Shipping addresses",
      "link": "https://ghost.org/changelog/shipping-addresses/",
@@ -3094,11 +3099,6 @@
      "title": "Expanding your social presence",
      "link": "https://ghost.org/changelog/expanding-your-social-presence/",
      "date": "2026-06-04T18:08:12+00:00"
-    },
-    {
-     "title": "Comment threads, votes and pins",
-     "link": "https://ghost.org/changelog/comment-threads-votes-and-pins/",
-     "date": "2026-05-27T18:45:11+00:00"
     }
    ]
   },
