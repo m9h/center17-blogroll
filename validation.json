@@ -8,9 +8,135 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": null,
+   "latest": "2026-11-24T00:00:00-05:00",
    "status": 200,
-   "items": []
+   "items": [
+    {
+     "title": "When Can an AI Agent Serve as a Model of Human Psychopathology?",
+     "link": "https://arxiv.org/abs/2611.28405",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Simulating Episodic Like Memory in Octopus: Breaking the Rules",
+     "link": "https://arxiv.org/abs/2611.28409",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "A generative framework for unified representations bridging electrophysiological and haemodynamic brain activity",
+     "link": "https://arxiv.org/abs/2611.28507",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "From local competition to bump attractors:how excitation width sets capacity, interference and updating in recurrent models of visual working memory",
+     "link": "https://arxiv.org/abs/2611.28601",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "History-bearing thalamocortical signals reconstruct and redirect later decisions in a circuit model",
+     "link": "https://arxiv.org/abs/2611.28799",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Topological Neural Collapse",
+     "link": "https://arxiv.org/abs/2611.28894",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "MAS-BIT: A Multi-Agent System for End-to-End BraIn-to-Text Decoding",
+     "link": "https://arxiv.org/abs/2611.29457",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Motoric signatures to detect original authorship versus cognitive effort in instructed motor responses of an emerging speaker with ASD",
+     "link": "https://arxiv.org/abs/2611.29594",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Active sensing as control over sensory acquisition",
+     "link": "https://arxiv.org/abs/2611.29886",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "High-Resolution 3D Micro-CT Database of Transcranial Magnetic Stimulation (TMS) Coils for More Accurate Modelling, Technology Benchmarking, and Progress in Coil Design",
+     "link": "https://arxiv.org/abs/2611.29051",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Denoised but Not Improved: What EEG Denoising Does to a Downstream Task",
+     "link": "https://arxiv.org/abs/2611.29256",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Second-Order Dynamics in Noisy RNNs Produce Exploration and Temporal Compression in Replay",
+     "link": "https://arxiv.org/abs/2611.29888",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "From joint attention to shared symbols: A free-energy principle account",
+     "link": "https://arxiv.org/abs/2611.30788",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Modeling the Disjunction Effect within Classical Probability: A New Decision Process Model and Comparison with Quantum-like Models",
+     "link": "https://arxiv.org/abs/2603.23233",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Stationary covariance spectra of discrete-time non-normal random recurrent dynamics",
+     "link": "https://arxiv.org/abs/2606.31944",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology",
+     "link": "https://arxiv.org/abs/2611.17434",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Subjective functions",
+     "link": "https://arxiv.org/abs/2512.15948",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "From Clever Hans to Hypotheses: Interpreting EEG Foundational Transformers with LRP",
+     "link": "https://arxiv.org/abs/2605.11885",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "From Organization to Viability: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
+     "link": "https://arxiv.org/abs/2605.13893",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
+     "link": "https://arxiv.org/abs/2605.26910",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Do VLMs Align Better with Humans than LLMs Do during Natural Reading?",
+     "link": "https://arxiv.org/abs/2605.28818",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation",
+     "link": "https://arxiv.org/abs/2606.06345",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
+     "link": "https://arxiv.org/abs/2610.02864",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
+     "link": "https://arxiv.org/abs/2611.24782",
+     "date": "2026-11-24T00:00:00-05:00"
+    },
+    {
+     "title": "Old Matches, New Frames: Schedule-Gated Stereo Memory from Human Vision to Machine Matching",
+     "link": "https://arxiv.org/abs/2611.24848",
+     "date": "2026-11-24T00:00:00-05:00"
+    }
+   ]
   },
   {
    "title": "The Transmitter",
@@ -160,9 +286,24 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-22T00:00:00+00:00",
+   "latest": "2026-11-24T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Native PLGA nanoparticles exert sustained cognitive and pathological benefits in 5xFAD Alzheimer\u2019s mice",
+     "link": "https://www.nature.com/articles/s41398-026-04583-5",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+     "title": "Adult neuroimmune and behavioral consequences of prenatal exposure to autism-associated maternal autoantibodies",
+     "link": "https://www.nature.com/articles/s41398-026-04594-2",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+     "title": "Herpes simplex virus 1 and cytomegalovirus infections and structural brain imaging markers in the UK biobank",
+     "link": "https://www.nature.com/articles/s41398-026-04553-x",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
     {
      "title": "Transcriptome changes of disinhibited somatostatin neurons in the medial prefrontal cortex mediating male-specific stress resilience",
      "link": "https://www.nature.com/articles/s41398-026-04576-4",
@@ -187,21 +328,6 @@
      "title": "Metabolite profiling insights into bipolar disorder, major depressive disorder, and schizophrenia",
      "link": "https://www.nature.com/articles/s41398-026-04559-5",
      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "A pro-inflammatory gut microbiota-metabolic axis in global developmental delay identified by integrated multi-omics",
-     "link": "https://www.nature.com/articles/s41398-026-04420-9",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "The use of Mendelian randomization to explore the causal consequences of childhood maltreatment: consideration of assumptions and challenges",
-     "link": "https://www.nature.com/articles/s41398-026-04562-w",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "DNA methylation changes associated with antipsychotic serum concentrations in patients with psychosis",
-     "link": "https://www.nature.com/articles/s41398-026-04567-5",
-     "date": "2026-11-20T00:00:00+00:00"
     }
    ]
   },
@@ -213,9 +339,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-23T00:00:00+00:00",
+   "latest": "2026-11-24T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Sex-specific reprogramming of immune and endocannabinoid networks in the placenta following prenatal cannabinoid exposure",
+     "link": "https://www.nature.com/articles/s41380-026-03964-y",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
     {
      "title": "Epigenetic clocks and adverse childhood experiences: a meta-analysis",
      "link": "https://www.nature.com/articles/s41380-026-03857-0",
@@ -250,11 +381,6 @@
      "title": "GluD1 modulates GluN2B-containing NMDAR function and plasticity at subicular synapses",
      "link": "https://www.nature.com/articles/s41380-026-03951-3",
      "date": "2026-11-06T00:00:00+00:00"
-    },
-    {
-     "title": "Mapping cerebellar morphology in 15q11.2 CNV carriers using normative modeling",
-     "link": "https://www.nature.com/articles/s41380-026-03711-3",
-     "date": "2026-11-04T00:00:00+00:00"
     }
    ]
   },
@@ -855,18 +981,28 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-23T00:00:00+00:00",
+   "latest": "2026-11-24T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Applying functional MRI analysis techniques to whole-brain calcium-imaging data to investigate structural and functional relationships in <i>Drosophila melanogaster</i>",
+     "link": "https://elifesciences.org/articles/107990",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+     "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
+     "link": "https://elifesciences.org/articles/113568",
+     "date": "2026-11-23T00:00:00+00:00"
+    },
     {
      "title": "ATP8B1\u2013TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
      "link": "https://elifesciences.org/articles/110466",
      "date": "2026-11-23T00:00:00+00:00"
     },
     {
-     "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
-     "link": "https://elifesciences.org/articles/113568",
-     "date": "2026-11-23T00:00:00+00:00"
+     "title": "Cognitive control networks in human and macaque",
+     "link": "https://elifesciences.org/articles/111502",
+     "date": "2026-11-20T00:00:00+00:00"
     },
     {
      "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
@@ -876,11 +1012,6 @@
     {
      "title": "Blood-derived dietary protein promotes sleep in the mosquito <i>Aedes aegypti</i>",
      "link": "https://elifesciences.org/articles/110245",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "Cognitive control networks in human and macaque",
-     "link": "https://elifesciences.org/articles/111502",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -894,8 +1025,8 @@
      "date": "2026-11-19T00:00:00+00:00"
     },
     {
-     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
-     "link": "https://elifesciences.org/articles/113746",
+     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
+     "link": "https://elifesciences.org/articles/107980",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -904,8 +1035,8 @@
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
-     "link": "https://elifesciences.org/articles/107980",
+     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
+     "link": "https://elifesciences.org/articles/113746",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -924,13 +1055,13 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
-     "link": "https://elifesciences.org/articles/110559",
+     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
+     "link": "https://elifesciences.org/articles/108988",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
-     "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
-     "link": "https://elifesciences.org/articles/108988",
+     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
+     "link": "https://elifesciences.org/articles/110559",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
@@ -992,11 +1123,6 @@
      "title": "A validated antibody toolbox for ALS research",
      "link": "https://elifesciences.org/articles/111349",
      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-     "title": "Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test",
-     "link": "https://elifesciences.org/articles/107110",
-     "date": "2026-11-02T00:00:00+00:00"
     }
    ]
   }
@@ -1928,9 +2054,24 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-23T00:00:00+00:00",
+   "latest": "2026-11-24T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Recovering resting-state EEG during AM-tACS using dynamic adaptive stimulation artifact source separation",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec0d1",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+     "title": "Multivariate searchlight decoding of structural disconnection and network features for predicting post-stroke deficits",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec0d2",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+     "title": "The potential of transcranial direct current stimulation to enhance P300-based brain\u2013computer interface speller performance: a feasibility study",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec199",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
     {
      "title": "CORRIGENDUM: Neural decoding and feature selection methods for closed-loop control of avoidance behavior (2024 J. Neural Eng. 21 056041)",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec1ff",
@@ -1965,21 +2106,6 @@
      "title": "Decoding attempted handwritten characters based on temporal endovascular neural features",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82b",
      "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "AIM-STAGE: a self-supervised framework via adaptive interval-aware multi-kernel calibration and spectro-temporal exploration for few-shot EEG staging",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1c",
-     "date": "2026-11-16T00:00:00+00:00"
-    },
-    {
-     "title": "DSGTANet: a semi-supervised dual-stream graph-temporal adaptation network for cross-subject continuous EEG emotion recognition",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeba18",
-     "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "A phase-calibrated combined electrical-sensory neuromodulation platform for short-term frontoparietal network modulation and cognitive fatigue resistance",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebcb6",
-     "date": "2026-11-13T00:00:00+00:00"
     }
    ]
   },
