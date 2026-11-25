@@ -753,9 +753,29 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "PLOS Computational Biology",
-   "latest": "2026-11-24T14:00:00+00:00",
+   "latest": "2026-11-25T14:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A discovery of emergent drivers pipeline uncovers parameter hierarchies in spatiotemporal agent-based tumor models",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014995",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
+    {
+     "title": "Generating scRNA-seq data from bulk RNA-seq using a Gaussian mixture variational autoencoder",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014979",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
+    {
+     "title": "Biophysically grounded deep learning improves protein\u2013protein \u0394\u0394<i>G</i> prediction",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014965",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
+    {
+     "title": "Systematic clustering alignment and feature characterization for single-cell omics using ACE-OF-Clust",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014944",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
     {
      "title": "Beyond profiles: Supervised repeat annotation using protein embeddings",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014994",
@@ -885,26 +905,6 @@
      "title": "A beam\u2013membrane biomechanical vocal fold model incorporating posturing and glottal conformation",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014936",
      "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "Exploring the potential of bile fluid dynamics analysis to inform clinical strategies for choledochal cysts: Experimental and numerical studies",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014926",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "Ontology pre-training improves machine learning-based predictions for metabolites",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014925",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "Exploring the mechanism of oxfendazole in inhibiting osteosarcoma-induced osteolysis based on single-cell RNA seqsuencing",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014828",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "Neuronal XOR computation requires temporally activated synaptic information",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014971",
-     "date": "2026-11-16T14:00:00+00:00"
     }
    ]
   },
@@ -916,9 +916,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "eLife: latest articles by subject",
-   "latest": "2026-11-24T00:00:00+00:00",
+   "latest": "2026-11-25T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Correction: Tissue-specific <i>O</i>-GlcNAcylation profiling identifies substrates in translational machinery in <i>Drosophila</i> mushroom body contributing to olfactory learning",
+     "link": "https://elifesciences.org/articles/113814",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
     {
      "title": "Applying functional MRI analysis techniques to whole-brain calcium-imaging data to investigate structural and functional relationships in <i>Drosophila melanogaster</i>",
      "link": "https://elifesciences.org/articles/107990",
@@ -940,18 +945,8 @@
      "date": "2026-11-23T00:00:00+00:00"
     },
     {
-     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
-     "link": "https://elifesciences.org/articles/113786",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
      "title": "Blood-derived dietary protein promotes sleep in the mosquito <i>Aedes aegypti</i>",
      "link": "https://elifesciences.org/articles/110245",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "Cognitive control networks in human and macaque",
-     "link": "https://elifesciences.org/articles/111502",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -960,13 +955,23 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
+     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
+     "link": "https://elifesciences.org/articles/113786",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "Cognitive control networks in human and macaque",
+     "link": "https://elifesciences.org/articles/111502",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
      "title": "Decreased astrocytic CCL5 by <i>Mir324</i> ameliorates ischemic stroke injury via the CCR5/ERK/CREB pathway",
      "link": "https://elifesciences.org/articles/101719",
      "date": "2026-11-19T00:00:00+00:00"
     },
     {
-     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
-     "link": "https://elifesciences.org/articles/107980",
+     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
+     "link": "https://elifesciences.org/articles/113746",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -975,8 +980,8 @@
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
-     "link": "https://elifesciences.org/articles/113746",
+     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
+     "link": "https://elifesciences.org/articles/107980",
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
@@ -1053,11 +1058,6 @@
      "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
      "link": "https://elifesciences.org/articles/112088",
      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-     "title": "Spyglass is a framework for reproducible and shareable neuroscience research",
-     "link": "https://elifesciences.org/articles/108089",
-     "date": "2026-11-03T00:00:00+00:00"
     }
    ]
   }
@@ -1209,11 +1209,16 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-25T07:27:13+00:00",
+   "latest": "2026-11-25T13:18:01+00:00",
    "status": 200,
    "items": [
     {
-     "title": "Fmriprep 25.2.7 folder organization",
+     "title": "TumorSynth inside QSIPrep?",
+     "link": "https://neurostars.org/t/tumorsynth-inside-qsiprep/39133",
+     "date": "2026-11-25T13:18:01+00:00"
+    },
+    {
+     "title": "fMRIPrep 25.2.7 folder organization",
      "link": "https://neurostars.org/t/fmriprep-25-2-7-folder-organization/39132",
      "date": "2026-11-25T07:27:13+00:00"
     },
@@ -1356,11 +1361,6 @@
      "title": "QSIPrep on HBCD-like data - Eddy's S2V",
      "link": "https://neurostars.org/t/qsiprep-on-hbcd-like-data-eddys-s2v/36501",
      "date": "2026-10-29T14:33:07+00:00"
-    },
-    {
-     "title": "Event detection and duration in slow GCaMP traces with plateaus, superimposed transients and baseline wander: how do you handle it?",
-     "link": "https://neurostars.org/t/event-detection-and-duration-in-slow-gcamp-traces-with-plateaus-superimposed-transients-and-baseline-wander-how-do-you-handle-it/36499",
-     "date": "2026-10-28T22:50:26+00:00"
     }
    ]
   },
@@ -2531,9 +2531,29 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-24T21:08:10+00:00",
+   "latest": "2026-11-25T14:47:54+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/25.html#a144754",
+     "date": "2026-11-25T14:47:54+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/25.html#a142737",
+     "date": "2026-11-25T14:27:37+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/25.html#a141441",
+     "date": "2026-11-25T14:14:41+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/25.html#a142535",
+     "date": "2026-11-25T14:25:35+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/24.html#a210705",
@@ -2713,26 +2733,6 @@
      "title": "Getting started with BonBon",
      "link": "http://scripting.com/2026/11/18/140257.html?title=gettingStartedWithBonbon",
      "date": "2026-11-18T14:02:57+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/17.html#a195653",
-     "date": "2026-11-17T19:56:53+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/17.html#a161411",
-     "date": "2026-11-17T16:14:11+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/17.html#a132014",
-     "date": "2026-11-17T13:20:14+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/17.html#a133915",
-     "date": "2026-11-17T13:39:15+00:00"
     }
    ]
   },

@@ -18,8 +18,8 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-25 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
 | [Biological Psychiatry: CNNI](https://www.biologicalpsychiatrycnni.org/current.rss) | [www.biologicalpsychiatrycnni.org](https://www.biologicalpsychiatrycnni.org/) | 2026-11-20 | Cognitive Neuroscience and Neuroimaging |
-| [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-24 |  |
-| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-24 |  |
+| [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/feed/atom) | [journals.plos.org/ploscompbiol](https://journals.plos.org/ploscompbiol/) | 2026-11-25 |  |
+| [eLife: Neuroscience](https://elifesciences.org/rss/subject/neuroscience.xml) | [elifesciences.org/subjects/neuroscience](https://elifesciences.org/subjects/neuroscience) | 2026-11-25 |  |
 
 ## Neuroimaging
 
@@ -55,7 +55,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | Feed | Site | Latest item | Note |
 |---|---|---|---|
 | [Center17](https://center17.org/rss/) | [center17.org](https://center17.org/) |  | this blog |
-| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-24 | RSS, OPML, textcasting |
+| [Scripting News (Dave Winer)](http://scripting.com/rss.xml) | [scripting.com](http://scripting.com/) | 2026-11-25 | RSS, OPML, textcasting |
 | [rss.chat worknotes](https://news.rss.chat/worknotes/rss.xml) | [rss.chat](https://rss.chat/) | 2026-08-05 |  |
 | [Ghost changelog](https://ghost.org/changelog/rss/) | [ghost.org/changelog](https://ghost.org/changelog/) | 2026-11-24 |  |
 | [JAX releases](https://github.com/jax-ml/jax/releases.atom) | [jax.readthedocs.io](https://jax.readthedocs.io/) | 2026-11-18 |  |
