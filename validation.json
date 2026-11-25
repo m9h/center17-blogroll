@@ -8,133 +8,68 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-24T00:00:00-05:00",
+   "latest": "2026-11-25T00:00:00-05:00",
    "status": 200,
    "items": [
     {
-     "title": "When Can an AI Agent Serve as a Model of Human Psychopathology?",
-     "link": "https://arxiv.org/abs/2611.28405",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Normative and neural network models of multisensory integration",
+     "link": "https://arxiv.org/abs/2611.32829",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "Simulating Episodic Like Memory in Octopus: Breaking the Rules",
-     "link": "https://arxiv.org/abs/2611.28409",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction",
+     "link": "https://arxiv.org/abs/2611.12603",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "A generative framework for unified representations bridging electrophysiological and haemodynamic brain activity",
-     "link": "https://arxiv.org/abs/2611.28507",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "The Self-Assembling Brain: Emergent Routing and Its Open Challenges",
+     "link": "https://arxiv.org/abs/2611.31629",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "From local competition to bump attractors:how excitation width sets capacity, interference and updating in recurrent models of visual working memory",
-     "link": "https://arxiv.org/abs/2611.28601",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins",
+     "link": "https://arxiv.org/abs/2611.31644",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "History-bearing thalamocortical signals reconstruct and redirect later decisions in a circuit model",
-     "link": "https://arxiv.org/abs/2611.28799",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Network topology imposes spectral constraints on collective nonequilibrium responses",
+     "link": "https://arxiv.org/abs/2611.32130",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "Topological Neural Collapse",
-     "link": "https://arxiv.org/abs/2611.28894",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Accuracy of Noise Ceiling Estimators for Brain Scores",
+     "link": "https://arxiv.org/abs/2611.32792",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "MAS-BIT: A Multi-Agent System for End-to-End BraIn-to-Text Decoding",
-     "link": "https://arxiv.org/abs/2611.29457",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "EEG-World: Context-Conditioned Dynamics of the Watching Brain",
+     "link": "https://arxiv.org/abs/2611.32825",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "Motoric signatures to detect original authorship versus cognitive effort in instructed motor responses of an emerging speaker with ASD",
-     "link": "https://arxiv.org/abs/2611.29594",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Visualizing the geometry of labeled high-dimensional data with spheres",
+     "link": "https://arxiv.org/abs/2107.00731",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "Active sensing as control over sensory acquisition",
-     "link": "https://arxiv.org/abs/2611.29886",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Causal pieces: analysing and improving spiking neural networks piece by piece",
+     "link": "https://arxiv.org/abs/2504.14015",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "High-Resolution 3D Micro-CT Database of Transcranial Magnetic Stimulation (TMS) Coils for More Accurate Modelling, Technology Benchmarking, and Progress in Coil Design",
-     "link": "https://arxiv.org/abs/2611.29051",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "A Mathematical Characterization of Neural Activation Induced by Temporal Interference Stimulation",
+     "link": "https://arxiv.org/abs/2605.16761",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "Denoised but Not Improved: What EEG Denoising Does to a Downstream Task",
-     "link": "https://arxiv.org/abs/2611.29256",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "Learning Options for Compositional Motor Control with Adapter Banks",
+     "link": "https://arxiv.org/abs/2609.17042",
+     "date": "2026-11-25T00:00:00-05:00"
     },
     {
-     "title": "Second-Order Dynamics in Noisy RNNs Produce Exploration and Temporal Compression in Replay",
-     "link": "https://arxiv.org/abs/2611.29888",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "From joint attention to shared symbols: A free-energy principle account",
-     "link": "https://arxiv.org/abs/2611.30788",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Modeling the Disjunction Effect within Classical Probability: A New Decision Process Model and Comparison with Quantum-like Models",
-     "link": "https://arxiv.org/abs/2603.23233",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Stationary covariance spectra of discrete-time non-normal random recurrent dynamics",
-     "link": "https://arxiv.org/abs/2606.31944",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology",
-     "link": "https://arxiv.org/abs/2611.17434",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Subjective functions",
-     "link": "https://arxiv.org/abs/2512.15948",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "From Clever Hans to Hypotheses: Interpreting EEG Foundational Transformers with LRP",
-     "link": "https://arxiv.org/abs/2605.11885",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "From Organization to Viability: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
-     "link": "https://arxiv.org/abs/2605.13893",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
-     "link": "https://arxiv.org/abs/2605.26910",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Do VLMs Align Better with Humans than LLMs Do during Natural Reading?",
-     "link": "https://arxiv.org/abs/2605.28818",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation",
-     "link": "https://arxiv.org/abs/2606.06345",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
-     "link": "https://arxiv.org/abs/2610.02864",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
-     "link": "https://arxiv.org/abs/2611.24782",
-     "date": "2026-11-24T00:00:00-05:00"
-    },
-    {
-     "title": "Old Matches, New Frames: Schedule-Gated Stereo Memory from Human Vision to Machine Matching",
-     "link": "https://arxiv.org/abs/2611.24848",
-     "date": "2026-11-24T00:00:00-05:00"
+     "title": "A Mathematical Theory of the Jacobian Lens",
+     "link": "https://arxiv.org/abs/2610.31955",
+     "date": "2026-11-25T00:00:00-05:00"
     }
    ]
   },
@@ -146,9 +81,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-24T17:45:25+00:00",
+   "latest": "2026-11-25T05:10:18+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "What do astrocytes do, and how can they be modeled?",
+     "link": "https://www.thetransmitter.org/theoretical-neuroscience-podcast/what-do-astrocytes-do-and-how-can-they-be-modeled/",
+     "date": "2026-11-25T05:10:18+00:00"
+    },
+    {
+     "title": "Cortical activity toggles between seen, unseen images",
+     "link": "https://www.thetransmitter.org/systems-neuroscience/cortical-activity-toggles-between-seen-unseen-images/",
+     "date": "2026-11-25T05:00:10+00:00"
+    },
     {
      "title": "Detained neuroscientist \u2018holding out strong\u2019",
      "link": "https://www.thetransmitter.org/community/detained-neuroscientist-holding-out-strong/",
@@ -188,16 +133,6 @@
      "title": "What makes computation possible in brains?",
      "link": "https://www.thetransmitter.org/brain-inspired/what-makes-computation-possible-in-brains/",
      "date": "2026-11-18T05:01:12+00:00"
-    },
-    {
-     "title": "Fish brains follow swimming friends to avoid foes",
-     "link": "https://www.thetransmitter.org/social-behaviors/fish-brains-follow-swimming-friends-to-avoid-foes/",
-     "date": "2026-11-18T05:00:21+00:00"
-    },
-    {
-     "title": "Scaling up n-of-1 trials; and more",
-     "link": "https://www.thetransmitter.org/spectrum/scaling-up-n-of-1-trials-and-more/",
-     "date": "2026-11-17T05:00:46+00:00"
     }
    ]
   },
@@ -339,9 +274,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-24T00:00:00+00:00",
+   "latest": "2026-11-25T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "ACC hyperactivity and synaptic remodeling underlie sensory hypersensitivity in Adnp-haploinsufficient mice",
+     "link": "https://www.nature.com/articles/s41380-026-03972-y",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
     {
      "title": "A mitochondrial mechanism of nuclear histone acetylation dynamically regulates neuronal plasticity: a gateway to stress resilience, and a boosted efficacy of fluoxetine with exercise",
      "link": "https://www.nature.com/articles/s41380-026-03874-z",
@@ -376,11 +316,6 @@
      "title": "Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder",
      "link": "https://www.nature.com/articles/s41380-026-03938-0",
      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-     "title": "Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses",
-     "link": "https://www.nature.com/articles/s41380-026-03943-3",
-     "date": "2026-11-12T00:00:00+00:00"
     }
    ]
   },
@@ -1274,9 +1209,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-24T16:38:28+00:00",
+   "latest": "2026-11-25T07:27:13+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Fmriprep 25.2.7 folder organization",
+     "link": "https://neurostars.org/t/fmriprep-25-2-7-folder-organization/39132",
+     "date": "2026-11-25T07:27:13+00:00"
+    },
     {
      "title": "Does anyone know why the HCP resting state dataset has both AP and PA runs?",
      "link": "https://neurostars.org/t/does-anyone-know-why-the-hcp-resting-state-dataset-has-both-ap-and-pa-runs/39130",
@@ -1421,11 +1361,6 @@
      "title": "Event detection and duration in slow GCaMP traces with plateaus, superimposed transients and baseline wander: how do you handle it?",
      "link": "https://neurostars.org/t/event-detection-and-duration-in-slow-gcamp-traces-with-plateaus-superimposed-transients-and-baseline-wander-how-do-you-handle-it/36499",
      "date": "2026-10-28T22:50:26+00:00"
-    },
-    {
-     "title": "Bad registration of PET images to MRI template?",
-     "link": "https://neurostars.org/t/bad-registration-of-pet-images-to-mri-template/36498",
-     "date": "2026-10-28T18:44:31+00:00"
     }
    ]
   },
@@ -2054,9 +1989,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-24T00:00:00+00:00",
+   "latest": "2026-11-25T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec049",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
     {
      "title": "Recovering resting-state EEG during AM-tACS using dynamic adaptive stimulation artifact source separation",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec0d1",
@@ -2101,11 +2041,6 @@
      "title": "Coverage collapse and deceptive calibration in EEG fatigue monitoring: a cross-dataset audit under within-session and cross-subject shift",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe6a",
      "date": "2026-11-17T00:00:00+00:00"
-    },
-    {
-     "title": "Decoding attempted handwritten characters based on temporal endovascular neural features",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aeb82b",
-     "date": "2026-11-16T00:00:00+00:00"
     }
    ]
   },
