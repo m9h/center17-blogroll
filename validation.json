@@ -286,9 +286,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-23T00:00:00+00:00",
+   "latest": "2026-11-24T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Native PLGA nanoparticles exert sustained cognitive and pathological benefits in 5xFAD Alzheimer\u2019s mice",
+     "link": "https://www.nature.com/articles/s41398-026-04583-5",
+     "date": "2026-11-24T00:00:00+00:00"
+    },
     {
      "title": "Adult neuroimmune and behavioral consequences of prenatal exposure to autism-associated maternal autoantibodies",
      "link": "https://www.nature.com/articles/s41398-026-04594-2",
@@ -322,11 +327,6 @@
     {
      "title": "Metabolite profiling insights into bipolar disorder, major depressive disorder, and schizophrenia",
      "link": "https://www.nature.com/articles/s41398-026-04559-5",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "A pro-inflammatory gut microbiota-metabolic axis in global developmental delay identified by integrated multi-omics",
-     "link": "https://www.nature.com/articles/s41398-026-04420-9",
      "date": "2026-11-20T00:00:00+00:00"
     }
    ]
@@ -1010,11 +1010,6 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
-     "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
-     "link": "https://elifesciences.org/articles/111304",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
      "title": "Blood-derived dietary protein promotes sleep in the mosquito <i>Aedes aegypti</i>",
      "link": "https://elifesciences.org/articles/110245",
      "date": "2026-11-20T00:00:00+00:00"
@@ -1022,6 +1017,11 @@
     {
      "title": "Cognitive control networks in human and macaque",
      "link": "https://elifesciences.org/articles/111502",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+     "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
+     "link": "https://elifesciences.org/articles/111304",
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -2596,9 +2596,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-24T18:45:59+00:00",
+   "latest": "2026-11-24T21:08:10+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a210705",
+     "date": "2026-11-24T21:07:05+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/24.html#a184559",
@@ -2623,6 +2628,11 @@
      "title": "",
      "link": "http://scripting.com/2026/11/24.html#a160157",
      "date": "2026-11-24T16:01:57+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/24.html#a210810",
+     "date": "2026-11-24T21:08:10+00:00"
     },
     {
      "title": "",
@@ -2788,16 +2798,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/17.html#a133915",
      "date": "2026-11-17T13:39:15+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/17.html#a134520",
-     "date": "2026-11-17T13:45:20+00:00"
-    },
-    {
-     "title": "Products require showrunners",
-     "link": "http://scripting.com/2026/11/17/035800.html?title=productsRequireShowrunners",
-     "date": "2026-11-18T03:58:00+00:00"
     }
    ]
   },
