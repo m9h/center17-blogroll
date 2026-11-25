@@ -168,9 +168,14 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Nature Mental Health",
-   "latest": "2026-11-23T00:00:00+00:00",
+   "latest": "2026-11-25T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "CSF biomarker profiling reveals blood\u2013cerebrospinal fluid barrier dysfunction in treatment-resistant schizophrenia in a naturalistic cohort",
+     "link": "https://www.nature.com/articles/s44220-026-00760-z",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
     {
      "title": "Bridging depression and cardiovascular disease: shared inflammatory biomarkers from an umbrella review",
      "link": "https://www.nature.com/articles/s44220-026-00765-8",
@@ -205,11 +210,6 @@
      "title": "The mental health system caught my sister each time she fell but never saw her coming",
      "link": "https://www.nature.com/articles/s44220-026-00736-z",
      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-     "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
-     "link": "https://www.nature.com/articles/s44220-026-00753-y",
-     "date": "2026-10-28T00:00:00+00:00"
     }
    ]
   },
@@ -1699,9 +1699,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-17T19:50:58+00:00",
+   "latest": "2026-11-25T09:46:54+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-25T09:46:54+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-25T09:46:54+00:00"
+    },
     {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
@@ -1715,11 +1725,6 @@
     {
      "title": "dev_nightly_tests_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
-     "date": "2026-11-17T19:50:58+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-17T19:50:58+00:00"
     },
     {
@@ -1745,11 +1750,6 @@
     {
      "title": "dev_nightly_build_rok9",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
-     "date": "2026-11-17T19:50:58+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
      "date": "2026-11-17T19:50:58+00:00"
     }
    ]

@@ -13,7 +13,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [The Transmitter](https://www.thetransmitter.org/feed/) | [www.thetransmitter.org](https://www.thetransmitter.org/) | 2026-11-25 | Simons Foundation neuroscience news |
 | [Neuromatch](https://neuromatch.io/feed/) | [neuromatch.io](https://neuromatch.io/) |  |  |
 | [Brain Inspired (podcast)](https://braininspired.co/feed/) | [braininspired.co](https://braininspired.co/) |  | Paul Middlebrooks |
-| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-23 |  |
+| [Nature Mental Health](https://www.nature.com/natmentalhealth.rss) | [www.nature.com/natmentalhealth](https://www.nature.com/natmentalhealth/) | 2026-11-25 |  |
 | [Translational Psychiatry](https://www.nature.com/tp.rss) | [www.nature.com/tp](https://www.nature.com/tp/) | 2026-11-24 |  |
 | [Molecular Psychiatry](https://www.nature.com/mp.rss) | [www.nature.com/mp](https://www.nature.com/mp/) | 2026-11-25 |  |
 | [Biological Psychiatry (SOBP)](https://www.biologicalpsychiatryjournal.com/current.rss) | [www.biologicalpsychiatryjournal.com](https://www.biologicalpsychiatryjournal.com/) | 2026-12-15 | SOBP's journal |
@@ -31,7 +31,7 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [practiCal fMRI](https://practicalfmri.blogspot.com/feeds/posts/default) | [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/) | 2026-06-04 |  |
 | [MNE-Python releases](https://github.com/mne-tools/mne-python/releases.atom) | [mne.tools](https://mne.tools/) | 2026-09-11 |  |
 | [nilearn releases](https://github.com/nilearn/nilearn/releases.atom) | [nilearn.github.io](https://nilearn.github.io/) | 2026-09-04 |  |
-| [FreeSurfer releases](https://github.com/freesurfer/freesurfer/releases.atom) | [surfer.nmr.mgh.harvard.edu](https://surfer.nmr.mgh.harvard.edu/) | 2026-11-17 |  |
+| [FreeSurfer releases](https://github.com/freesurfer/freesurfer/releases.atom) | [surfer.nmr.mgh.harvard.edu](https://surfer.nmr.mgh.harvard.edu/) | 2026-11-25 |  |
 | [OpenNeuro (GitHub releases)](https://github.com/OpenNeuroOrg/openneuro/releases.atom) | [openneuro.org](https://openneuro.org/) | 2026-11-09 |  |
 | [NeuroImage](https://rss.sciencedirect.com/publication/science/10538119) | [www.sciencedirect.com/journal/neuroimage](https://www.sciencedirect.com/journal/neuroimage) |  |  |
 | [Brainhack](https://brainhack.org/feed.xml) | [brainhack.org](https://brainhack.org/) | 2025-09-11 |  |
