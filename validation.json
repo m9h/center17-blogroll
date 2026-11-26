@@ -221,9 +221,24 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-24T00:00:00+00:00",
+   "latest": "2026-11-25T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Parameter-dependent behavioral effects of electroconvulsive stimulation in rats: a systematic review and meta-analysis",
+     "link": "https://www.nature.com/articles/s41398-026-04450-3",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+     "title": "Neonatal brain volumes and birth characteristics predict behavioural outcomes in toddlerhood",
+     "link": "https://www.nature.com/articles/s41398-026-04588-0",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+     "title": "Early symptom dynamics as prognostic indicators of antipsychotic response in schizophrenia: a network outcome analysis",
+     "link": "https://www.nature.com/articles/s41398-026-04593-3",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
     {
      "title": "Native PLGA nanoparticles exert sustained cognitive and pathological benefits in 5xFAD Alzheimer\u2019s mice",
      "link": "https://www.nature.com/articles/s41398-026-04583-5",
@@ -248,21 +263,6 @@
      "title": "Multimodal alterations of brain structure and function after electroconvulsive therapy in psychiatric disorders: a voxel-based meta-analysis",
      "link": "https://www.nature.com/articles/s41398-026-04582-6",
      "date": "2026-11-21T00:00:00+00:00"
-    },
-    {
-     "title": "Amygdala-cingulate projection neurons promote behavioral adjustments to decreasing contextual threat",
-     "link": "https://www.nature.com/articles/s41398-026-04540-2",
-     "date": "2026-11-21T00:00:00+00:00"
-    },
-    {
-     "title": "Effective connectivity reveals hippocampal disruptions during conditioning and extinction are associated with adolescent anxiety",
-     "link": "https://www.nature.com/articles/s41398-026-04574-6",
-     "date": "2026-11-21T00:00:00+00:00"
-    },
-    {
-     "title": "Metabolite profiling insights into bipolar disorder, major depressive disorder, and schizophrenia",
-     "link": "https://www.nature.com/articles/s41398-026-04559-5",
-     "date": "2026-11-20T00:00:00+00:00"
     }
    ]
   },
@@ -278,8 +278,33 @@
    "status": 200,
    "items": [
     {
+     "title": "Neurotransmitter pathway-specific polygenic risk for psychiatric disorders and brain morphology in adolescents",
+     "link": "https://www.nature.com/articles/s41380-026-03962-0",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+     "title": "Examining the impact of genome-wide findings for tobacco use through GWAS-impact analysis: a systematic review",
+     "link": "https://www.nature.com/articles/s41380-026-03944-2",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
      "title": "ACC hyperactivity and synaptic remodeling underlie sensory hypersensitivity in Adnp-haploinsufficient mice",
      "link": "https://www.nature.com/articles/s41380-026-03972-y",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+     "title": "Adiponectin deficiency protects against acute inflammation-induced behavioral and synaptic impairments by suppressing endoplasmic reticulum stress",
+     "link": "https://www.nature.com/articles/s41380-026-03977-7",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+     "title": "The nucleus accumbens: an emerging modulator in anxiety disorders",
+     "link": "https://www.nature.com/articles/s41380-026-03963-z",
+     "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+     "title": "Biotin intake and mental health: findings from a large population-based cohort and biological insights from hippocampal and gut\u2013brain pathways",
+     "link": "https://www.nature.com/articles/s41380-026-03968-8",
      "date": "2026-11-25T00:00:00+00:00"
     },
     {
@@ -291,31 +316,6 @@
      "title": "Cell-Type-Specific Cell-Free DNA methylation profiling of central nervous system injury and inflammatory cell turnover in schizophrenia",
      "link": "https://www.nature.com/articles/s41380-026-03957-x",
      "date": "2026-11-24T00:00:00+00:00"
-    },
-    {
-     "title": "Sex-specific reprogramming of immune and endocannabinoid networks in the placenta following prenatal cannabinoid exposure",
-     "link": "https://www.nature.com/articles/s41380-026-03964-y",
-     "date": "2026-11-24T00:00:00+00:00"
-    },
-    {
-     "title": "Epigenetic clocks and adverse childhood experiences: a meta-analysis",
-     "link": "https://www.nature.com/articles/s41380-026-03857-0",
-     "date": "2026-11-23T00:00:00+00:00"
-    },
-    {
-     "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance",
-     "link": "https://www.nature.com/articles/s41380-026-03974-w",
-     "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-     "title": "Assortative mating can mask non-additive genetic contributions to individual differences",
-     "link": "https://www.nature.com/articles/s41380-026-03932-6",
-     "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-     "title": "Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder",
-     "link": "https://www.nature.com/articles/s41380-026-03938-0",
-     "date": "2026-11-13T00:00:00+00:00"
     }
    ]
   },
@@ -767,6 +767,11 @@
      "date": "2026-11-25T14:00:00+00:00"
     },
     {
+     "title": "Protein sequence domain annotation using a language model",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014969",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
+    {
      "title": "Biophysically grounded deep learning improves protein\u2013protein \u0394\u0394<i>G</i> prediction",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014965",
      "date": "2026-11-25T14:00:00+00:00"
@@ -774,6 +779,16 @@
     {
      "title": "Systematic clustering alignment and feature characterization for single-cell omics using ACE-OF-Clust",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014944",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
+    {
+     "title": "mirCCC: Repression-aware graph learning for miRNA-mediated cell-cell communication inference",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014494",
+     "date": "2026-11-25T14:00:00+00:00"
+    },
+    {
+     "title": "A structure-derived contact-network responsiveness atlas of human proteins",
+     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014485",
      "date": "2026-11-25T14:00:00+00:00"
     },
     {
@@ -889,21 +904,6 @@
     {
      "title": "TopoPPI: A geometry-aware platform for visualization and low-distortion mapping of protein-protein interaction interfaces",
      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014963",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "GapCNV: A comprehensive framework for CNV detection in low-input DNA sequencing data",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014959",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "Hierarchical data-driven dynamical surrogate models of social decision-making",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014940",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "A beam\u2013membrane biomechanical vocal fold model incorporating posturing and glottal conformation",
-     "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014936",
      "date": "2026-11-17T14:00:00+00:00"
     }
    ]
@@ -1209,9 +1209,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-25T13:18:01+00:00",
+   "latest": "2026-11-26T01:17:02+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Is there an authoritative count of direct entorhinal (perforant path) inputs converging onto a single CA3 pyramidal neuron?",
+     "link": "https://neurostars.org/t/is-there-an-authoritative-count-of-direct-entorhinal-perforant-path-inputs-converging-onto-a-single-ca3-pyramidal-neuron/39134",
+     "date": "2026-11-26T01:17:02+00:00"
+    },
     {
      "title": "TumorSynth inside QSIPrep?",
      "link": "https://neurostars.org/t/tumorsynth-inside-qsiprep/39133",
@@ -1356,11 +1361,6 @@
      "title": "Research Survey: How Do You Validate AI Outputs Derived from Brain Signals?",
      "link": "https://neurostars.org/t/research-survey-how-do-you-validate-ai-outputs-derived-from-brain-signals/36503",
      "date": "2026-10-31T06:28:26+00:00"
-    },
-    {
-     "title": "QSIPrep on HBCD-like data - Eddy's S2V",
-     "link": "https://neurostars.org/t/qsiprep-on-hbcd-like-data-eddys-s2v/36501",
-     "date": "2026-10-29T14:33:07+00:00"
     }
    ]
   },
