@@ -8,68 +8,63 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-25T00:00:00-05:00",
+   "latest": "2026-11-26T00:00:00-05:00",
    "status": 200,
    "items": [
     {
-     "title": "Normative and neural network models of multisensory integration",
-     "link": "https://arxiv.org/abs/2611.32829",
-     "date": "2026-11-25T00:00:00-05:00"
+     "title": "Differential coupling drives Turing pattern formation in neural fields: a mechanism for Parkinson's disease and deep brain stimulation",
+     "link": "https://arxiv.org/abs/2611.33602",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Multi-view fnirs identifies neurophysiological subtypes in post-stroke aphasia",
+     "link": "https://arxiv.org/abs/2611.34169",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "The Marauder's Map: B\\'{e}zier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling",
+     "link": "https://arxiv.org/abs/2611.33353",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Learning from Natural Images Untangles Number Sense",
+     "link": "https://arxiv.org/abs/2611.33615",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Decoupling the clocks of learning and computing in spiking neural networks",
+     "link": "https://arxiv.org/abs/2611.34381",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Goxpyriment: A Go Framework for Behavioral and Cognitive Experiments",
+     "link": "https://arxiv.org/abs/2604.15245",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Whether untrained networks beat trained ones at V1 depends on a normalisation convention: evidence from two fMRI datasets",
+     "link": "https://arxiv.org/abs/2611.15533",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Large-scale factor analysis shows machine intelligence is only partially interpretable",
+     "link": "https://arxiv.org/abs/2609.36515",
+     "date": "2026-11-26T00:00:00-05:00"
+    },
+    {
+     "title": "Same behavior, different mechanism: what finite experiments can certify about how a network computes",
+     "link": "https://arxiv.org/abs/2611.08469",
+     "date": "2026-11-26T00:00:00-05:00"
     },
     {
      "title": "Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction",
      "link": "https://arxiv.org/abs/2611.12603",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "The Self-Assembling Brain: Emergent Routing and Its Open Challenges",
-     "link": "https://arxiv.org/abs/2611.31629",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins",
-     "link": "https://arxiv.org/abs/2611.31644",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "Network topology imposes spectral constraints on collective nonequilibrium responses",
-     "link": "https://arxiv.org/abs/2611.32130",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "Accuracy of Noise Ceiling Estimators for Brain Scores",
-     "link": "https://arxiv.org/abs/2611.32792",
-     "date": "2026-11-25T00:00:00-05:00"
+     "date": "2026-11-26T00:00:00-05:00"
     },
     {
      "title": "EEG-World: Context-Conditioned Dynamics of the Watching Brain",
      "link": "https://arxiv.org/abs/2611.32825",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "Visualizing the geometry of labeled high-dimensional data with spheres",
-     "link": "https://arxiv.org/abs/2107.00731",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "Causal pieces: analysing and improving spiking neural networks piece by piece",
-     "link": "https://arxiv.org/abs/2504.14015",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "A Mathematical Characterization of Neural Activation Induced by Temporal Interference Stimulation",
-     "link": "https://arxiv.org/abs/2605.16761",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "Learning Options for Compositional Motor Control with Adapter Banks",
-     "link": "https://arxiv.org/abs/2609.17042",
-     "date": "2026-11-25T00:00:00-05:00"
-    },
-    {
-     "title": "A Mathematical Theory of the Jacobian Lens",
-     "link": "https://arxiv.org/abs/2610.31955",
-     "date": "2026-11-25T00:00:00-05:00"
+     "date": "2026-11-26T00:00:00-05:00"
     }
    ]
   },
@@ -81,9 +76,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-25T05:10:18+00:00",
+   "latest": "2026-11-26T05:00:27+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "X chromosome gene may explain autism\u2019s sex bias",
+     "link": "https://www.thetransmitter.org/spectrum/x-chromosome-gene-may-explain-autisms-sex-bias/",
+     "date": "2026-11-26T05:00:27+00:00"
+    },
     {
      "title": "What do astrocytes do, and how can they be modeled?",
      "link": "https://www.thetransmitter.org/theoretical-neuroscience-podcast/what-do-astrocytes-do-and-how-can-they-be-modeled/",
@@ -128,11 +128,6 @@
      "title": "Loss of Angelman-linked UBE3A gene triggers stress response in neurons",
      "link": "https://www.thetransmitter.org/spectrum/loss-of-angelman-linked-ube3a-gene-triggers-stress-response-in-neurons/",
      "date": "2026-11-19T05:00:27+00:00"
-    },
-    {
-     "title": "What makes computation possible in brains?",
-     "link": "https://www.thetransmitter.org/brain-inspired/what-makes-computation-possible-in-brains/",
-     "date": "2026-11-18T05:01:12+00:00"
     }
    ]
   },
@@ -327,7 +322,7 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Biological Psychiatry",
-   "latest": "2026-12-15T00:00:00+00:00",
+   "latest": "2027-01-01T00:00:00+00:00",
    "status": 200,
    "items": [
     {
@@ -471,7 +466,7 @@
      "date": "2026-10-21T00:00:00+00:00"
     },
     {
-     "title": "Expression of Concern",
+     "title": "Expression of Concern for: Gamma Secretase-Activating Protein Is a Substrate for Caspase-3: Implications for Alzheimer's Disease",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01610-0/fulltext?rss=yes",
      "date": "2026-10-16T00:00:00+00:00"
     },
@@ -483,11 +478,6 @@
     {
      "title": "Genetic architecture and risk of suicide attempt across neurodevelopmental and psychiatric conditions",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01608-2/fulltext?rss=yes",
-     "date": "2026-10-13T00:00:00+00:00"
-    },
-    {
-     "title": "Erratum to: Triple Interactions Between the Environment, Brain, and Behavior in Children: An ABCD Study",
-     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01574-X/fulltext?rss=yes",
      "date": "2026-10-13T00:00:00+00:00"
     },
     {
@@ -529,6 +519,11 @@
      "title": "Connection-Level Multi-Omics Reveals Cerebellar-Cortical Dysconnectivity and Divergent Molecular Signatures Across Major Psychiatric Disorders",
      "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01579-9/fulltext?rss=yes",
      "date": "2026-10-03T00:00:00+00:00"
+    },
+    {
+     "title": "A Ventral Hippocampus\u2013Prefrontal Circuit Mediates the Pro-Extinction Effects of Adult Hippocampal Neurogenesis on Contextual Fear",
+     "link": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01576-3/fulltext?rss=yes",
+     "date": "2026-09-28T00:00:00+00:00"
     }
    ]
   },
@@ -1209,9 +1204,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-26T01:17:02+00:00",
+   "latest": "2026-11-26T01:49:33+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Mossy fiber filopodial contacts onto CA3 interneurons: convergence numbers and connection probability",
+     "link": "https://neurostars.org/t/mossy-fiber-filopodial-contacts-onto-ca3-interneurons-convergence-numbers-and-connection-probability/39136",
+     "date": "2026-11-26T01:49:33+00:00"
+    },
+    {
+     "title": "Quantitative morphology: CA3 pyramidal SLM dendritic length, spine density, and mouse entorhinal layer-II Reelin neuron counts",
+     "link": "https://neurostars.org/t/quantitative-morphology-ca3-pyramidal-slm-dendritic-length-spine-density-and-mouse-entorhinal-layer-ii-reelin-neuron-counts/39135",
+     "date": "2026-11-26T01:48:14+00:00"
+    },
     {
      "title": "Is there an authoritative count of direct entorhinal (perforant path) inputs converging onto a single CA3 pyramidal neuron?",
      "link": "https://neurostars.org/t/is-there-an-authoritative-count-of-direct-entorhinal-perforant-path-inputs-converging-onto-a-single-ca3-pyramidal-neuron/39134",
@@ -1351,16 +1356,6 @@
      "title": "Infantconnect, age-adjustable visualizer for infant neurodata",
      "link": "https://neurostars.org/t/infantconnect-age-adjustable-visualizer-for-infant-neurodata/37163",
      "date": "2026-11-01T16:18:51+00:00"
-    },
-    {
-     "title": "BEP Community review period: November 2 - November 13, 2026",
-     "link": "https://neurostars.org/t/bep-community-review-period-november-2-november-13-2026/36504",
-     "date": "2026-10-31T20:36:50+00:00"
-    },
-    {
-     "title": "Research Survey: How Do You Validate AI Outputs Derived from Brain Signals?",
-     "link": "https://neurostars.org/t/research-survey-how-do-you-validate-ai-outputs-derived-from-brain-signals/36503",
-     "date": "2026-10-31T06:28:26+00:00"
     }
    ]
   },
@@ -1708,8 +1703,18 @@
      "date": "2026-11-25T09:46:54+00:00"
     },
     {
+     "title": "dev_nightly_tests_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
+     "date": "2026-11-25T09:46:54+00:00"
+    },
+    {
      "title": "dev_nightly_build_rok8",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-25T09:46:54+00:00"
+    },
+    {
+     "title": "dev_nightly_build_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
      "date": "2026-11-25T09:46:54+00:00"
     },
     {
@@ -1728,11 +1733,6 @@
      "date": "2026-11-17T19:50:58+00:00"
     },
     {
-     "title": "dev_nightly_tests_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
-     "date": "2026-11-17T19:50:58+00:00"
-    },
-    {
      "title": "dev_nightly_tests_darwin_arm64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
      "date": "2026-11-17T19:50:58+00:00"
@@ -1745,11 +1745,6 @@
     {
      "title": "dev_nightly_build_ub22",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-17T19:50:58+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok9",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
      "date": "2026-11-17T19:50:58+00:00"
     }
    ]
@@ -1989,9 +1984,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-25T00:00:00+00:00",
+   "latest": "2026-11-26T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Comprehensive benchmarking of EEG biomarkers for Parkinson\u2019s disease: robustness, reliability, and clinical discriminability across multiple datasets",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe69",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
+    {
+     "title": "A translational platform for brain-computer interfaces and adaptive neuromodulation: technical characterization, long-term validation, and implementation of the CorTec Brain Interchange\u2013BCI2000 ecosystem",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec198",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
     {
      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec049",
@@ -2031,16 +2036,6 @@
      "title": "A comprehensive review of biosignal foundation models",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1d",
      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-     "title": "Imaging fast neural circuit activity in brain and nerve with electrical impedance tomography (fnEIT): review, method and engineering aspects",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebefd",
-     "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-     "title": "Coverage collapse and deceptive calibration in EEG fatigue monitoring: a cross-dataset audit under within-session and cross-subject shift",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe6a",
-     "date": "2026-11-17T00:00:00+00:00"
     }
    ]
   },
