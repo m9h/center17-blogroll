@@ -1148,9 +1148,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-26T20:25:26+00:00",
+   "latest": "2026-11-27T17:52:22+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "New to fMRI is this a feasible pipeline?",
+     "link": "https://neurostars.org/t/new-to-fmri-is-this-a-feasible-pipeline/39142",
+     "date": "2026-11-27T17:52:22+00:00"
+    },
     {
      "title": "Which compound microscope makes sense for looking at stained slides at home?",
      "link": "https://neurostars.org/t/which-compound-microscope-makes-sense-for-looking-at-stained-slides-at-home/39138",
@@ -1295,11 +1300,6 @@
      "title": "Frequent slow waves appearing across many channels in resting-state EEG \u2014 equipment issue or subject arousal?",
      "link": "https://neurostars.org/t/frequent-slow-waves-appearing-across-many-channels-in-resting-state-eeg-equipment-issue-or-subject-arousal/39077",
      "date": "2026-11-04T07:35:00+00:00"
-    },
-    {
-     "title": "Empty MARS-WMH masks: advice on visual QC",
-     "link": "https://neurostars.org/t/empty-mars-wmh-masks-advice-on-visual-qc/39076",
-     "date": "2026-11-03T20:17:16+00:00"
     }
    ]
   },
@@ -1642,6 +1642,16 @@
    "status": 200,
    "items": [
     {
+     "title": "dev_nightly_tests_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_ub22",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub22",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
      "title": "dev_nightly_tests_rok8",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-27T02:41:38+00:00"
@@ -1654,6 +1664,16 @@
     {
      "title": "dev_nightly_tests_darwin_arm64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub22",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
      "date": "2026-11-27T02:41:38+00:00"
     },
     {
@@ -1670,26 +1690,6 @@
      "title": "dev_nightly_build_darwin_arm64",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
      "date": "2026-11-27T02:41:38+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_ub22",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub22",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_build_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_build_ub22",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-25T09:46:54+00:00"
     }
    ]
   },
@@ -2470,9 +2470,19 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-26T19:41:31+00:00",
+   "latest": "2026-11-27T16:47:35+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/27.html#a160428",
+     "date": "2026-11-27T16:04:28+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/27.html#a164735",
+     "date": "2026-11-27T16:47:35+00:00"
+    },
     {
      "title": "",
      "link": "http://scripting.com/2026/11/26.html#a174049",
@@ -2662,16 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/18.html#a144537",
      "date": "2026-11-18T14:45:37+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/18.html#a150239",
-     "date": "2026-11-18T15:02:39+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/18.html#a155505",
-     "date": "2026-11-18T15:55:05+00:00"
     }
    ]
   },
