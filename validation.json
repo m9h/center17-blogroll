@@ -8,65 +8,9 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "q-bio.NC updates on arXiv.org",
-   "latest": "2026-11-26T00:00:00-05:00",
+   "latest": null,
    "status": 200,
-   "items": [
-    {
-     "title": "Differential coupling drives Turing pattern formation in neural fields: a mechanism for Parkinson's disease and deep brain stimulation",
-     "link": "https://arxiv.org/abs/2611.33602",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Multi-view fnirs identifies neurophysiological subtypes in post-stroke aphasia",
-     "link": "https://arxiv.org/abs/2611.34169",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "The Marauder's Map: B\\'{e}zier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling",
-     "link": "https://arxiv.org/abs/2611.33353",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Learning from Natural Images Untangles Number Sense",
-     "link": "https://arxiv.org/abs/2611.33615",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Decoupling the clocks of learning and computing in spiking neural networks",
-     "link": "https://arxiv.org/abs/2611.34381",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Goxpyriment: A Go Framework for Behavioral and Cognitive Experiments",
-     "link": "https://arxiv.org/abs/2604.15245",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Whether untrained networks beat trained ones at V1 depends on a normalisation convention: evidence from two fMRI datasets",
-     "link": "https://arxiv.org/abs/2611.15533",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Large-scale factor analysis shows machine intelligence is only partially interpretable",
-     "link": "https://arxiv.org/abs/2609.36515",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Same behavior, different mechanism: what finite experiments can certify about how a network computes",
-     "link": "https://arxiv.org/abs/2611.08469",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction",
-     "link": "https://arxiv.org/abs/2611.12603",
-     "date": "2026-11-26T00:00:00-05:00"
-    },
-    {
-     "title": "EEG-World: Context-Conditioned Dynamics of the Watching Brain",
-     "link": "https://arxiv.org/abs/2611.32825",
-     "date": "2026-11-26T00:00:00-05:00"
-    }
-   ]
+   "items": []
   },
   {
    "title": "The Transmitter",
@@ -76,9 +20,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "The Transmitter",
-   "latest": "2026-11-26T05:00:27+00:00",
+   "latest": "2026-11-27T05:00:53+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Preserving neuroscience history, one memoir at a time",
+     "link": "https://www.thetransmitter.org/history-of-neuroscience/preserving-neuroscience-history-one-memoir-at-a-time/",
+     "date": "2026-11-27T05:00:53+00:00"
+    },
     {
      "title": "X chromosome gene may explain autism\u2019s sex bias",
      "link": "https://www.thetransmitter.org/spectrum/x-chromosome-gene-may-explain-autisms-sex-bias/",
@@ -123,11 +72,6 @@
      "title": "Training graduate students as a teaching professor",
      "link": "https://www.thetransmitter.org/craft-and-careers/training-graduate-students-as-a-teaching-professor/",
      "date": "2026-11-20T05:00:06+00:00"
-    },
-    {
-     "title": "Loss of Angelman-linked UBE3A gene triggers stress response in neurons",
-     "link": "https://www.thetransmitter.org/spectrum/loss-of-angelman-linked-ube3a-gene-triggers-stress-response-in-neurons/",
-     "date": "2026-11-19T05:00:27+00:00"
     }
    ]
   },
@@ -269,9 +213,34 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-25T00:00:00+00:00",
+   "latest": "2026-11-26T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "A staged microstructural mechanism of electroconvulsive therapy: disruption, potentiation, and rewiring",
+     "link": "https://www.nature.com/articles/s41380-026-03975-9",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
+    {
+     "title": "Epigenetic enzymes in autism spectrum disorder: a brain imaging study",
+     "link": "https://www.nature.com/articles/s41380-026-03978-6",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
+    {
+     "title": "Neuronal assemblies activated by psychiatrically relevant behavior: from brain-wide labeling to regional assessment",
+     "link": "https://www.nature.com/articles/s41380-026-03971-z",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
+    {
+     "title": "Genetic risk effects on psychiatric disorders act in sets",
+     "link": "https://www.nature.com/articles/s41380-026-03976-8",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
+    {
+     "title": "Cognitive and autistic traits in individuals with polyendocrine metabolic ovarian syndrome",
+     "link": "https://www.nature.com/articles/s41380-026-03970-0",
+     "date": "2026-11-26T00:00:00+00:00"
+    },
     {
      "title": "Neurotransmitter pathway-specific polygenic risk for psychiatric disorders and brain morphology in adolescents",
      "link": "https://www.nature.com/articles/s41380-026-03962-0",
@@ -286,31 +255,6 @@
      "title": "ACC hyperactivity and synaptic remodeling underlie sensory hypersensitivity in Adnp-haploinsufficient mice",
      "link": "https://www.nature.com/articles/s41380-026-03972-y",
      "date": "2026-11-25T00:00:00+00:00"
-    },
-    {
-     "title": "Adiponectin deficiency protects against acute inflammation-induced behavioral and synaptic impairments by suppressing endoplasmic reticulum stress",
-     "link": "https://www.nature.com/articles/s41380-026-03977-7",
-     "date": "2026-11-25T00:00:00+00:00"
-    },
-    {
-     "title": "The nucleus accumbens: an emerging modulator in anxiety disorders",
-     "link": "https://www.nature.com/articles/s41380-026-03963-z",
-     "date": "2026-11-25T00:00:00+00:00"
-    },
-    {
-     "title": "Biotin intake and mental health: findings from a large population-based cohort and biological insights from hippocampal and gut\u2013brain pathways",
-     "link": "https://www.nature.com/articles/s41380-026-03968-8",
-     "date": "2026-11-25T00:00:00+00:00"
-    },
-    {
-     "title": "A mitochondrial mechanism of nuclear histone acetylation dynamically regulates neuronal plasticity: a gateway to stress resilience, and a boosted efficacy of fluoxetine with exercise",
-     "link": "https://www.nature.com/articles/s41380-026-03874-z",
-     "date": "2026-11-24T00:00:00+00:00"
-    },
-    {
-     "title": "Cell-Type-Specific Cell-Free DNA methylation profiling of central nervous system injury and inflammatory cell turnover in schizophrenia",
-     "link": "https://www.nature.com/articles/s41380-026-03957-x",
-     "date": "2026-11-24T00:00:00+00:00"
     }
    ]
   },
@@ -945,11 +889,6 @@
      "date": "2026-11-23T00:00:00+00:00"
     },
     {
-     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
-     "link": "https://elifesciences.org/articles/113786",
-     "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
      "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
      "link": "https://elifesciences.org/articles/111304",
      "date": "2026-11-20T00:00:00+00:00"
@@ -965,9 +904,19 @@
      "date": "2026-11-20T00:00:00+00:00"
     },
     {
+     "title": "Correction: MotorNet, a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks",
+     "link": "https://elifesciences.org/articles/113786",
+     "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
      "title": "Decreased astrocytic CCL5 by <i>Mir324</i> ameliorates ischemic stroke injury via the CCR5/ERK/CREB pathway",
      "link": "https://elifesciences.org/articles/101719",
      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
+     "link": "https://elifesciences.org/articles/107980",
+     "date": "2026-11-18T00:00:00+00:00"
     },
     {
      "title": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
@@ -980,16 +929,6 @@
      "date": "2026-11-18T00:00:00+00:00"
     },
     {
-     "title": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
-     "link": "https://elifesciences.org/articles/107980",
-     "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-     "title": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
-     "link": "https://elifesciences.org/articles/112181",
-     "date": "2026-11-17T00:00:00+00:00"
-    },
-    {
      "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
      "link": "https://elifesciences.org/articles/111297",
      "date": "2026-11-17T00:00:00+00:00"
@@ -1000,13 +939,18 @@
      "date": "2026-11-17T00:00:00+00:00"
     },
     {
-     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
-     "link": "https://elifesciences.org/articles/110559",
-     "date": "2026-11-12T00:00:00+00:00"
+     "title": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
+     "link": "https://elifesciences.org/articles/112181",
+     "date": "2026-11-17T00:00:00+00:00"
     },
     {
      "title": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
      "link": "https://elifesciences.org/articles/108988",
+     "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+     "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury",
+     "link": "https://elifesciences.org/articles/110559",
      "date": "2026-11-12T00:00:00+00:00"
     },
     {
@@ -1025,8 +969,8 @@
      "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
-     "link": "https://elifesciences.org/articles/107651",
+     "title": "The resource elasticity of control",
+     "link": "https://elifesciences.org/articles/105507",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -1035,23 +979,23 @@
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
+     "title": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
+     "link": "https://elifesciences.org/articles/107651",
+     "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
      "title": "Expectation-driven gain modulation of preparatory spatial attention",
      "link": "https://elifesciences.org/articles/110315",
      "date": "2026-11-06T00:00:00+00:00"
     },
     {
-     "title": "The resource elasticity of control",
-     "link": "https://elifesciences.org/articles/105507",
-     "date": "2026-11-06T00:00:00+00:00"
+     "title": "Distinct neural representations of perceptual and numerical absence in the human brain",
+     "link": "https://elifesciences.org/articles/112088",
+     "date": "2026-11-05T00:00:00+00:00"
     },
     {
      "title": "Dopaminergic neurons linking threat processing to cardiac modulation and locomotor responses",
      "link": "https://elifesciences.org/articles/111256",
-     "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-     "title": "Spectraplakin is required for dendritic microtubule organization via a tip-based mechanism in <i>Drosophila</i>",
-     "link": "https://elifesciences.org/articles/108055",
      "date": "2026-11-05T00:00:00+00:00"
     }
    ]
@@ -1204,9 +1148,14 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Neurostars - Latest topics",
-   "latest": "2026-11-26T01:49:33+00:00",
+   "latest": "2026-11-26T20:25:26+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Which compound microscope makes sense for looking at stained slides at home?",
+     "link": "https://neurostars.org/t/which-compound-microscope-makes-sense-for-looking-at-stained-slides-at-home/39138",
+     "date": "2026-11-26T20:25:26+00:00"
+    },
     {
      "title": "Mossy fiber filopodial contacts onto CA3 interneurons: convergence numbers and connection probability",
      "link": "https://neurostars.org/t/mossy-fiber-filopodial-contacts-onto-ca3-interneurons-convergence-numbers-and-connection-probability/39136",
@@ -1351,11 +1300,6 @@
      "title": "Empty MARS-WMH masks: advice on visual QC",
      "link": "https://neurostars.org/t/empty-mars-wmh-masks-advice-on-visual-qc/39076",
      "date": "2026-11-03T20:17:16+00:00"
-    },
-    {
-     "title": "Infantconnect, age-adjustable visualizer for infant neurodata",
-     "link": "https://neurostars.org/t/infantconnect-age-adjustable-visualizer-for-infant-neurodata/37163",
-     "date": "2026-11-01T16:18:51+00:00"
     }
    ]
   },
@@ -1694,9 +1638,19 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-25T09:46:54+00:00",
+   "latest": "2026-11-27T02:41:38+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "dev_nightly_tests_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok8",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
     {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
@@ -1705,11 +1659,6 @@
     {
      "title": "dev_nightly_tests_ub22",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub22",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok8",
      "date": "2026-11-25T09:46:54+00:00"
     },
     {
@@ -1730,11 +1679,6 @@
     {
      "title": "dev_nightly_build_ub22",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_build_rok8",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
      "date": "2026-11-25T09:46:54+00:00"
     },
     {
@@ -1984,9 +1928,24 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Journal of Neural Engineering - latest papers",
-   "latest": "2026-11-26T00:00:00+00:00",
+   "latest": "2026-11-27T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Bipolar intracortical microstimulation expands the repertoire of neuronal activation patterns",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebb67",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
+    {
+     "title": "Disentangling homogeneous and heterogeneous representation of human functional connectome via graph learning",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebefe",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
+    {
+     "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
+     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec32c",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
     {
      "title": "Comprehensive benchmarking of EEG biomarkers for Parkinson\u2019s disease: robustness, reliability, and clinical discriminability across multiple datasets",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebe69",
@@ -2021,21 +1980,6 @@
      "title": "The potential of transcranial direct current stimulation to enhance P300-based brain\u2013computer interface speller performance: a feasibility study",
      "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec199",
      "date": "2026-11-24T00:00:00+00:00"
-    },
-    {
-     "title": "CORRIGENDUM: Neural decoding and feature selection methods for closed-loop control of avoidance behavior (2024 J. Neural Eng. 21 056041)",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec1ff",
-     "date": "2026-11-23T00:00:00+00:00"
-    },
-    {
-     "title": "Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aebdcf",
-     "date": "2026-11-23T00:00:00+00:00"
-    },
-    {
-     "title": "Gaze-controlled segmentation improves object recognition accuracy in simulated phosphene vision",
-     "link": "https://iopscience.iop.org/article/10.1088/1741-2552/aec048",
-     "date": "2026-11-23T00:00:00+00:00"
     }
    ]
   },
@@ -2170,8 +2114,213 @@
    "feed": "https://openbci.com/community/feed/",
    "site": "https://openbci.com/community/",
    "note": "",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "kind": "rss",
+   "feed_title": "OpenBCI Community",
+   "latest": "2026-10-23T16:33:39+00:00",
+   "status": 200,
+   "items": [
+    {
+     "title": "MEDITACS: Exploring Loving-Kindness and Compassion Meditation with EEG and tACS",
+     "link": "https://openbci.com/community/meditacs-exploring-loving-kindness-and-compassion-meditation-with-eeg-and-tacs/",
+     "date": "2026-10-23T16:33:39+00:00"
+    },
+    {
+     "title": "Building a Real-Time EEG Reading Support System for Students with Dyslexia",
+     "link": "https://openbci.com/community/building-a-real-time-eeg-reading-support-system-for-students-with-dyslexia/",
+     "date": "2026-04-27T20:45:03+00:00"
+    },
+    {
+     "title": "EEG Controlled Robotic Arm in Real-time",
+     "link": "https://openbci.com/community/eeg-controlled-robotic-arm-in-real-time/",
+     "date": "2026-04-16T18:35:08+00:00"
+    },
+    {
+     "title": "Controlling an Exoskeleton Arm in Two Directions (Focus state control)",
+     "link": "https://openbci.com/community/controlling-an-exoskeleton-arm-in-two-directions-focus-state-control/",
+     "date": "2026-03-30T20:29:30+00:00"
+    },
+    {
+     "title": "Experiments in Motor Imagery",
+     "link": "https://openbci.com/community/experiments-in-motor-imagery/",
+     "date": "2026-01-07T19:41:30+00:00"
+    },
+    {
+     "title": "Maximizing Post-Stroke Motor Recovery with Co-Adaptive Neurofeedback",
+     "link": "https://openbci.com/community/maximizing-post-stroke-motor-recovery-with-co-adaptive-neurofeedback/",
+     "date": "2025-10-22T17:49:06+00:00"
+    },
+    {
+     "title": "OpenBCI and Pupil Labs Announce Launch of\u00a0 Untethered, All-in-One Brain, Body, and Eye Tracking Headset",
+     "link": "https://openbci.com/community/openbci-and-pupil-labs-partnership-galea-neon/",
+     "date": "2025-10-01T09:24:00+00:00"
+    },
+    {
+     "title": "ACAT Tool Kit & OpenBCI EEG Gel Cap",
+     "link": "https://openbci.com/community/acat-tool-kit-openbci-eeg-gel-cap/",
+     "date": "2025-08-12T19:42:42+00:00"
+    },
+    {
+     "title": "Open-BCI Discovery Program: Epilepsy-Helmet",
+     "link": "https://openbci.com/community/open-bci-discovery-program-epilepsy-helmet/",
+     "date": "2025-07-29T18:10:03+00:00"
+    },
+    {
+     "title": "Robotic Future",
+     "link": "https://openbci.com/community/robotic-future/",
+     "date": "2025-07-23T15:43:01+00:00"
+    },
+    {
+     "title": "Predictive Processing in Bilingual Brains: Understanding Language with EEG",
+     "link": "https://openbci.com/community/predictive-processing-in-bilingual-brains-understanding-language-with-eeg/",
+     "date": "2025-07-16T17:28:49+00:00"
+    },
+    {
+     "title": "Using EEG to Optimize Study Methods",
+     "link": "https://openbci.com/community/using-eeg-to-optimize-study-methods/",
+     "date": "2025-07-11T18:57:00+00:00"
+    },
+    {
+     "title": "Animal Research Using OpenBCI",
+     "link": "https://openbci.com/community/animal-research-using-openbci/",
+     "date": "2025-07-09T16:39:51+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: From Thought to Movement \u2013 A Brain Physiological Interface",
+     "link": "https://openbci.com/community/openbci-discovery-program-from-thought-to-movement-a-brain-physiological-interface/",
+     "date": "2025-05-28T20:46:29+00:00"
+    },
+    {
+     "title": "Brain-Power Drive with Proactive Healthcare for Mobility Aids (Update)",
+     "link": "https://openbci.com/community/brain-power-drive-with-proactive-healthcare-for-mobility-aids-update/",
+     "date": "2025-05-07T21:38:40+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Neurofeedback in Optimising Focus (NOVA)",
+     "link": "https://openbci.com/community/openbci-discovery-program-neurofeedback-in-optimising-focus-nova/",
+     "date": "2025-04-15T20:18:13+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: SYNAPTICON",
+     "link": "https://openbci.com/community/openbci-discovery-program-synapticon/",
+     "date": "2025-04-10T17:58:39+00:00"
+    },
+    {
+     "title": "Detecting Color-Blindness using Brain Signals",
+     "link": "https://openbci.com/community/detecting-color-blindness-using-brain-signals/",
+     "date": "2025-04-07T13:28:30+00:00"
+    },
+    {
+     "title": "Machine Yearning",
+     "link": "https://openbci.com/community/machine-yearning/",
+     "date": "2025-04-07T13:26:56+00:00"
+    },
+    {
+     "title": "OpenBCI @ MIT Reality Hack 2025",
+     "link": "https://openbci.com/community/openbci-mit-reality-hack-2025/",
+     "date": "2025-02-03T16:47:43+00:00"
+    },
+    {
+     "title": "From Mind to Music, Medical Head-Wearable for Music Therapy and Neuro-Rehabilitation",
+     "link": "https://openbci.com/community/from-mind-to-music-medical-head-wearable-for-music-therapy-and-neuro-rehabilitation/",
+     "date": "2025-01-21T22:01:29+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: EEG/EMG Wheelchair",
+     "link": "https://openbci.com/community/openbci-discovery-program-eeg-emg-wheelchair/",
+     "date": "2025-01-16T20:56:23+00:00"
+    },
+    {
+     "title": "BCI Game for CYBATHLON Challenges 2024",
+     "link": "https://openbci.com/community/bci-game-for-cybathlon-challenges-2024/",
+     "date": "2025-01-09T17:11:26+00:00"
+    },
+    {
+     "title": "OpenBCI Program: BCI Controlled Exoskeleton",
+     "link": "https://openbci.com/community/openbci-program-bci-controlled-exoskeleton/",
+     "date": "2024-11-06T19:09:34+00:00"
+    },
+    {
+     "title": "Mind-Controlled Game \u2013 OpenBCI + cVEP + Unity",
+     "link": "https://openbci.com/community/mind-controlled-game-openbci-mindaffectbci-unity/",
+     "date": "2024-10-23T19:47:15+00:00"
+    },
+    {
+     "title": "Mind-Controlled Robot \u2013 OpenBCI + cVEP + Maqueen V2",
+     "link": "https://openbci.com/community/mind-controlled-robot-openbci-mindaffectbci-maqueen-v2/",
+     "date": "2024-08-23T18:59:49+00:00"
+    },
+    {
+     "title": "Brain-Power Drive with Proactive Healthcare for Mobility Aids",
+     "link": "https://openbci.com/community/brain-power-drive-with-proactive-healthcare-for-mobility-aids/",
+     "date": "2024-07-22T16:27:10+00:00"
+    },
+    {
+     "title": "Yasmeen Hmaidan Joins the OpenBCI Team!",
+     "link": "https://openbci.com/community/yasmeen-hmaidan-joins-the-openbci-team/",
+     "date": "2024-06-05T20:39:38+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Exploring AI-Assisted Neurofeedback in the Treatment of Cluster Headache",
+     "link": "https://openbci.com/community/openbci-discovery-program-exploring-ai-assisted-neurofeedback-in-the-treatment-of-cluster-headache/",
+     "date": "2024-04-15T17:36:54+00:00"
+    },
+    {
+     "title": "S.A.P.I.E.N.S. \u2013 Sensor Aided Prosthesis Integrating Electrophysiology Neural Systems",
+     "link": "https://openbci.com/community/s-a-p-i-e-n-s-sensor-aided-prosthesis-integrating-electrophysiology-neural-systems/",
+     "date": "2024-04-08T17:44:17+00:00"
+    },
+    {
+     "title": "Ranya Belmaachi Joining the OpenBCI Team!",
+     "link": "https://openbci.com/community/ranya-belmaachi-joining-the-openbci-team/",
+     "date": "2024-03-22T21:43:09+00:00"
+    },
+    {
+     "title": "Communicating Through Brain Waves: Enhancing Communication for Non-Verbal Individuals",
+     "link": "https://openbci.com/community/communicating-through-brain-waves-enhancing-communication-for-non-verbal-individuals/",
+     "date": "2024-03-19T15:50:06+00:00"
+    },
+    {
+     "title": "Free Resources \u2013 EEG and Physiological Datasets, and more",
+     "link": "https://openbci.com/community/free-resources-eeg-and-physiological-datasets-and-more/",
+     "date": "2024-02-17T19:53:19+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: NeuroSpectrum: A Brainwave-Powered Vision Enhancement Device",
+     "link": "https://openbci.com/community/openbci-discovery-program-neurospectrum-a-brainwave-powered-vision-enhancement-device/",
+     "date": "2024-01-22T18:38:12+00:00"
+    },
+    {
+     "title": "OpenBCI Discovery Program: Zeroeth BCI",
+     "link": "https://openbci.com/community/openbci-discovery-program-zeroeth-bci/",
+     "date": "2024-01-02T15:51:19+00:00"
+    },
+    {
+     "title": "NEW Product Alert \u2013 OpenBCI x cEEGrid Bundle",
+     "link": "https://openbci.com/community/new-product-alert-openbci-x-ceegrid-bundle/",
+     "date": "2023-12-21T18:21:17+00:00"
+    },
+    {
+     "title": "OpenBCI in BIOADAPTED",
+     "link": "https://openbci.com/community/openbci-in-bioadapted/",
+     "date": "2023-12-20T16:32:03+00:00"
+    },
+    {
+     "title": "OPENBCI Discovery Program : MUSE",
+     "link": "https://openbci.com/community/openbci-discovery-program-muse/",
+     "date": "2023-12-14T20:38:09+00:00"
+    },
+    {
+     "title": "OpenBCI Galea Beta Reveal @ Slush 2023",
+     "link": "https://openbci.com/community/openbci-galea-beta-reveal-slush-2023/",
+     "date": "2023-12-02T18:27:44+00:00"
+    },
+    {
+     "title": "OpenBCI unveils vision for wearable, neuro-powered personal computer at Slush 2023",
+     "link": "https://openbci.com/community/openbci-unveils-vision-for-wearable-neuro-powered-personal-computer-at-slush-2023/",
+     "date": "2023-12-01T14:50:00+00:00"
+    }
+   ]
   },
   {
    "title": "NeuroTechX (Medium)",
@@ -2321,13 +2470,23 @@
    "ok": true,
    "kind": "rss",
    "feed_title": "Scripting News",
-   "latest": "2026-11-26T17:40:49+00:00",
+   "latest": "2026-11-26T19:41:31+00:00",
    "status": 200,
    "items": [
     {
      "title": "",
      "link": "http://scripting.com/2026/11/26.html#a174049",
      "date": "2026-11-26T17:40:49+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/26.html#a194131",
+     "date": "2026-11-26T19:41:31+00:00"
+    },
+    {
+     "title": "",
+     "link": "http://scripting.com/2026/11/26.html#a193358",
+     "date": "2026-11-26T19:33:58+00:00"
     },
     {
      "title": "",
@@ -2513,16 +2672,6 @@
      "title": "",
      "link": "http://scripting.com/2026/11/18.html#a155505",
      "date": "2026-11-18T15:55:05+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/18.html#a155553",
-     "date": "2026-11-18T15:55:53+00:00"
-    },
-    {
-     "title": "",
-     "link": "http://scripting.com/2026/11/18.html#a215104",
-     "date": "2026-11-18T21:51:04+00:00"
     }
    ]
   },
