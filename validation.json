@@ -160,9 +160,24 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Translational Psychiatry",
-   "latest": "2026-11-26T00:00:00+00:00",
+   "latest": "2026-11-27T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Neuroligin-1 deficiency in hippocampal CA3 drives sevoflurane-induced cognitive impairment via synaptic and network dysfunction",
+     "link": "https://www.nature.com/articles/s41398-026-04569-3",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
+    {
+     "title": "Acute and chronic postnatal <i>p-</i>cresol exposure induces strain- and sex-dependent neuroimmune and gut microbiome responses in BTBR <i>T</i><sup><i>+</i></sup> <i>Itpr3</i><sup><i>tf</i></sup><i>/J</i> and C57BL/6\u2009J mice",
+     "link": "https://www.nature.com/articles/s41398-026-04552-y",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
+    {
+     "title": "The impact of childhood adversity and genetic risk for psychiatric disorders on bipolar disorder subphenotypes",
+     "link": "https://www.nature.com/articles/s41398-026-04564-8",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
     {
      "title": "Metabolic effects of oral versus long-acting injectable antipsychotics in schizophrenia",
      "link": "https://www.nature.com/articles/s41398-026-04549-7",
@@ -187,21 +202,6 @@
      "title": "Native PLGA nanoparticles exert sustained cognitive and pathological benefits in 5xFAD Alzheimer\u2019s mice",
      "link": "https://www.nature.com/articles/s41398-026-04583-5",
      "date": "2026-11-24T00:00:00+00:00"
-    },
-    {
-     "title": "Adult neuroimmune and behavioral consequences of prenatal exposure to autism-associated maternal autoantibodies",
-     "link": "https://www.nature.com/articles/s41398-026-04594-2",
-     "date": "2026-11-23T00:00:00+00:00"
-    },
-    {
-     "title": "Herpes simplex virus 1 and cytomegalovirus infections and structural brain imaging markers in the UK biobank",
-     "link": "https://www.nature.com/articles/s41398-026-04553-x",
-     "date": "2026-11-23T00:00:00+00:00"
-    },
-    {
-     "title": "Transcriptome changes of disinhibited somatostatin neurons in the medial prefrontal cortex mediating male-specific stress resilience",
-     "link": "https://www.nature.com/articles/s41398-026-04576-4",
-     "date": "2026-11-22T00:00:00+00:00"
     }
    ]
   },
@@ -213,9 +213,19 @@
    "ok": true,
    "kind": "rss1",
    "feed_title": "Molecular Psychiatry",
-   "latest": "2026-11-26T00:00:00+00:00",
+   "latest": "2026-11-27T00:00:00+00:00",
    "status": 200,
    "items": [
+    {
+     "title": "Extracellular vesicles facilitate proteolytic fragmentation and maturation of tau fibrils in alzheimer\u2019s disease",
+     "link": "https://www.nature.com/articles/s41380-026-03967-9",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
+    {
+     "title": "Blunted modulation of hierarchical brain organization in opioid use disorder",
+     "link": "https://www.nature.com/articles/s41380-026-03965-x",
+     "date": "2026-11-27T00:00:00+00:00"
+    },
     {
      "title": "A staged microstructural mechanism of electroconvulsive therapy: disruption, potentiation, and rewiring",
      "link": "https://www.nature.com/articles/s41380-026-03975-9",
@@ -244,16 +254,6 @@
     {
      "title": "Neurotransmitter pathway-specific polygenic risk for psychiatric disorders and brain morphology in adolescents",
      "link": "https://www.nature.com/articles/s41380-026-03962-0",
-     "date": "2026-11-25T00:00:00+00:00"
-    },
-    {
-     "title": "Examining the impact of genome-wide findings for tobacco use through GWAS-impact analysis: a systematic review",
-     "link": "https://www.nature.com/articles/s41380-026-03944-2",
-     "date": "2026-11-25T00:00:00+00:00"
-    },
-    {
-     "title": "ACC hyperactivity and synaptic remodeling underlie sensory hypersensitivity in Adnp-haploinsufficient mice",
-     "link": "https://www.nature.com/articles/s41380-026-03972-y",
      "date": "2026-11-25T00:00:00+00:00"
     }
    ]
@@ -1647,8 +1647,28 @@
      "date": "2026-11-27T02:41:38+00:00"
     },
     {
+     "title": "dev_nightly_tests_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
      "title": "dev_nightly_build_rok8",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_build_darwin_x86_64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
+     "date": "2026-11-27T02:41:38+00:00"
+    },
+    {
+     "title": "dev_nightly_build_darwin_arm64",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
      "date": "2026-11-27T02:41:38+00:00"
     },
     {
@@ -1662,16 +1682,6 @@
      "date": "2026-11-25T09:46:54+00:00"
     },
     {
-     "title": "dev_nightly_tests_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_x86_64",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_tests_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_darwin_arm64",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
      "title": "dev_nightly_build_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
      "date": "2026-11-25T09:46:54+00:00"
@@ -1679,16 +1689,6 @@
     {
      "title": "dev_nightly_build_ub22",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
-     "date": "2026-11-25T09:46:54+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
      "date": "2026-11-25T09:46:54+00:00"
     }
    ]
