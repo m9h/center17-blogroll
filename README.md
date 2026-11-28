@@ -3,7 +3,7 @@
 Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for students and collaborators of [Center17](https://center17.org/).
 
 - **Subscribe to everything:** [`blogroll.opml`](blogroll.opml) imports into any feed reader (NetNewsWire, Feedly, Inoreader, FeedLand, Miniflux…).
-- Last validated 2026-11-27: 38 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
+- Last validated 2026-11-28: 37 feeds live. Edit `feeds.py`, run `python3 build.py`; dead feeds are dropped automatically.
 
 ## Computational psychiatry
 
@@ -46,9 +46,14 @@ Feeds for computational psychiatry, neuroimaging and neuromodulation, kept for s
 | [Journal of Neural Engineering](https://iopscience.iop.org/journal/rss/1741-2552) | [iopscience.iop.org/journal/1741-2552](https://iopscience.iop.org/journal/1741-2552) | 2026-11-27 |  |
 | [SimNIBS releases](https://github.com/simnibs/simnibs/releases.atom) | [simnibs.github.io/simnibs](https://simnibs.github.io/simnibs/) | 2026-03-03 |  |
 | [TI-Toolbox releases](https://github.com/idossha/TI-Toolbox/releases.atom) | [github.com/idossha/TI-Toolbox](https://github.com/idossha/TI-Toolbox) | 2026-11-03 | temporal interference |
-| [OpenBCI blog](https://openbci.com/community/feed/) | [openbci.com/community](https://openbci.com/community/) | 2026-10-23 |  |
 | [NeuroTechX (Medium)](https://medium.com/feed/neurotechx) | [neurotechx.com](https://neurotechx.com/) | 2026-11-09 |  |
 | [IEEE Brain](https://brain.ieee.org/feed/) | [brain.ieee.org](https://brain.ieee.org/) | 2026-09-23 |  |
+
+<details><summary>Not currently reachable (kept in feeds.py, excluded from the OPML)</summary>
+
+- OpenBCI blog: `HTTPError: HTTP Error 415: Unsupported Media Type`
+
+</details>
 
 ## Open web and tools
 
