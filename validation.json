@@ -1638,18 +1638,38 @@
    "ok": true,
    "kind": "atom",
    "feed_title": "Release notes from freesurfer",
-   "latest": "2026-11-27T02:41:38+00:00",
+   "latest": "2026-11-28T05:12:42+00:00",
    "status": 200,
    "items": [
     {
      "title": "dev_nightly_tests_ub24",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub24",
-     "date": "2026-11-27T02:41:38+00:00"
+     "date": "2026-11-28T05:12:42+00:00"
     },
     {
      "title": "dev_nightly_tests_ub22",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_ub22",
-     "date": "2026-11-27T02:41:38+00:00"
+     "date": "2026-11-28T05:12:42+00:00"
+    },
+    {
+     "title": "dev_nightly_tests_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_tests_rok9",
+     "date": "2026-11-28T05:12:42+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub24",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
+     "date": "2026-11-28T05:12:42+00:00"
+    },
+    {
+     "title": "dev_nightly_build_ub22",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
+     "date": "2026-11-28T05:12:42+00:00"
+    },
+    {
+     "title": "dev_nightly_build_rok9",
+     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok9",
+     "date": "2026-11-28T05:12:42+00:00"
     },
     {
      "title": "dev_nightly_tests_rok8",
@@ -1667,28 +1687,8 @@
      "date": "2026-11-27T02:41:38+00:00"
     },
     {
-     "title": "dev_nightly_build_ub24",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub24",
-     "date": "2026-11-27T02:41:38+00:00"
-    },
-    {
-     "title": "dev_nightly_build_ub22",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_ub22",
-     "date": "2026-11-27T02:41:38+00:00"
-    },
-    {
      "title": "dev_nightly_build_rok8",
      "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_rok8",
-     "date": "2026-11-27T02:41:38+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_x86_64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_x86_64",
-     "date": "2026-11-27T02:41:38+00:00"
-    },
-    {
-     "title": "dev_nightly_build_darwin_arm64",
-     "link": "https://github.com/freesurfer/freesurfer/releases/tag/dev_nightly_build_darwin_arm64",
      "date": "2026-11-27T02:41:38+00:00"
     }
    ]
